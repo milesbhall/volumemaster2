@@ -10,6 +10,7 @@ on the Yes and No buttons as the cost to buy one contract.
 import json
 import re
 import time
+from datetime import datetime
 
 import requests
 
@@ -73,6 +74,8 @@ def summarize(market):
         "title": market["title"],
         "status": market["status"],
         "volume": float(market["volume_fp"]),
+        "open_time": market["open_time"],
+        "close_time": market["close_time"],
         "yes_price": yes_price,
         "no_price": no_price,
     }
@@ -110,6 +113,18 @@ def active_products():
             strike = float(row["ticker"].rsplit("-", 1)[-1])
             products.setdefault(row["product"], strike)
     return products
+
+
+def open_times():
+    """{product name: when its earliest active market opened} from KALSHI_FILE."""
+    with open(KALSHI_FILE) as f:
+        rows = json.load(f)
+    opened = {}
+    for row in rows:
+        if row["status"] == "active":
+            t = datetime.fromisoformat(row["open_time"])
+            opened[row["product"]] = min(t, opened.get(row["product"], t))
+    return opened
 
 
 if __name__ == "__main__":

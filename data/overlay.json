@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:33:51.207867+00:00",
+  "generated_at": "2026-09-27T06:41:07.345359+00:00",
   "events": {
     "KXPOKEMON-26SEPASCHERPO": {
       "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
@@ -9,7 +9,9 @@
           "strike": 407.86,
           "yes_price": 0.12,
           "no_price": 0.93,
-          "volume": 4866.52
+          "volume": 4866.52,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -347,18 +349,19 @@
       "kalshi_volume": 4866.52,
       "sales_volume": {
         "level": "moderate",
-        "ratio": 3.323,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 21,
-          "quantity": 25,
-          "dollars": 9135.75
+        "ratio": 4.573,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:07.127453+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 59.83,
+          "transactions": 54.71,
+          "dollars": 22254.82,
+          "units_per_week": 17.4
         },
-        "kalshi_week_volume": 2749.64
+        "kalshi_volume": 4866.52
       }
     },
     "KXPOKEMON-26SEPCELULTPR": {
@@ -369,7 +372,9 @@
           "strike": 1237.81,
           "yes_price": 0.32,
           "no_price": 0.74,
-          "volume": 4535.54
+          "volume": 4535.54,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -707,18 +712,19 @@
       "kalshi_volume": 4535.54,
       "sales_volume": {
         "level": "low",
-        "ratio": 2.513,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 1,
-          "quantity": 1,
-          "dollars": 1236.93
+        "ratio": 1.666,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:10.455723+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 6.12,
+          "transactions": 6.12,
+          "dollars": 7555.25,
+          "units_per_week": 1.8
         },
-        "kalshi_week_volume": 492.29
+        "kalshi_volume": 4535.54
       }
     },
     "KXPOKEMON-26SEPBLOWATPR": {
@@ -729,7 +735,9 @@
           "strike": 326.19,
           "yes_price": 0.82,
           "no_price": 0.75,
-          "volume": 1400.27
+          "volume": 1400.27,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -1067,18 +1075,19 @@
       "kalshi_volume": 1400.27,
       "sales_volume": {
         "level": "moderate",
-        "ratio": 9.102,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 10,
-          "quantity": 14,
-          "dollars": 4698.68
+        "ratio": 6.715,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:12.604468+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 28.36,
+          "transactions": 23.36,
+          "dollars": 9402.21,
+          "units_per_week": 8.2
         },
-        "kalshi_week_volume": 516.24
+        "kalshi_volume": 1400.27
       }
     },
     "KXPOKEMON-26SEP151ULTCO": {
@@ -1089,7 +1098,9 @@
           "strike": 932.18,
           "yes_price": 0.15,
           "no_price": 0.97,
-          "volume": 4076.02
+          "volume": 4076.02,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -1427,18 +1438,19 @@
       "kalshi_volume": 4076.02,
       "sales_volume": {
         "level": "moderate",
-        "ratio": 4.434,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 8,
-          "quantity": 8,
-          "dollars": 6852.24
+        "ratio": 5.296,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:14.836963+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 24.24,
+          "transactions": 24.24,
+          "dollars": 21588.34,
+          "units_per_week": 7.0
         },
-        "kalshi_week_volume": 1545.37
+        "kalshi_volume": 4076.02
       }
     },
     "KXPOKEMON-26SEPCHAEX": {
@@ -1449,7 +1461,9 @@
           "strike": 364.08,
           "yes_price": 0.15,
           "no_price": 0.93,
-          "volume": 1949.32
+          "volume": 1949.32,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -1787,18 +1801,19 @@
       "kalshi_volume": 1949.32,
       "sales_volume": {
         "level": "high",
-        "ratio": 12.45,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 40,
-          "quantity": 46,
-          "dollars": 15683.72
+        "ratio": 22.59,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:17.065725+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 127.58,
+          "transactions": 118.02,
+          "dollars": 44035.37,
+          "units_per_week": 37.1
         },
-        "kalshi_week_volume": 1259.74
+        "kalshi_volume": 1949.32
       }
     },
     "KXPOKEMON-26SEPMEGCHAXE": {
@@ -1809,7 +1824,9 @@
           "strike": 34.21,
           "yes_price": 0.14,
           "no_price": 0.94,
-          "volume": 4059.65
+          "volume": 4059.65,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -2146,19 +2163,20 @@
       },
       "kalshi_volume": 4059.65,
       "sales_volume": {
-        "level": "high",
-        "ratio": 18.491,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 126,
-          "quantity": 165,
-          "dollars": 4797.3
+        "level": "moderate",
+        "ratio": 4.98,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:20.282885+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 683.9,
+          "transactions": 504.05,
+          "dollars": 20216.6,
+          "units_per_week": 198.6
         },
-        "kalshi_week_volume": 259.44
+        "kalshi_volume": 4059.65
       }
     },
     "KXPOKEMON-26SEPFIRPARIL": {
@@ -2169,7 +2187,9 @@
           "strike": 68.79,
           "yes_price": 0.19,
           "no_price": 0.9,
-          "volume": 1806.18
+          "volume": 1806.18,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -2507,18 +2527,19 @@
       "kalshi_volume": 1806.18,
       "sales_volume": {
         "level": "high",
-        "ratio": 11.911,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 45,
-          "quantity": 73,
-          "dollars": 4623.09
+        "ratio": 7.931,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:22.752727+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 219.03,
+          "transactions": 132.25,
+          "dollars": 14324.29,
+          "units_per_week": 63.6
         },
-        "kalshi_week_volume": 388.13
+        "kalshi_volume": 1806.18
       }
     },
     "KXPOKEMON-26SEPASCHEREL": {
@@ -2529,7 +2550,9 @@
           "strike": 169.14,
           "yes_price": 0.12,
           "no_price": 0.95,
-          "volume": 4109.0
+          "volume": 4109.0,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -2867,18 +2890,19 @@
       "kalshi_volume": 4109.0,
       "sales_volume": {
         "level": "high",
-        "ratio": 11.33,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 149,
-          "quantity": 182,
-          "dollars": 26746.72
+        "ratio": 20.541,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:25.318208+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 544.25,
+          "transactions": 449.32,
+          "dollars": 84401.34,
+          "units_per_week": 158.1
         },
-        "kalshi_week_volume": 2360.69
+        "kalshi_volume": 4109.0
       }
     },
     "KXPOKEMON-26SEPPERORDBO": {
@@ -2889,7 +2913,9 @@
           "strike": 174.14,
           "yes_price": 0.88,
           "no_price": 0.2,
-          "volume": 1965.91
+          "volume": 1965.91,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -3227,18 +3253,19 @@
       "kalshi_volume": 1965.91,
       "sales_volume": {
         "level": "high",
-        "ratio": 22.677,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 73,
-          "quantity": 76,
-          "dollars": 13370.68
+        "ratio": 29.792,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:28.116979+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 333.71,
+          "transactions": 300.09,
+          "dollars": 58567.95,
+          "units_per_week": 96.9
         },
-        "kalshi_week_volume": 589.62
+        "kalshi_volume": 1965.91
       }
     },
     "KXPOKEMON-26SEPPERORDPO": {
@@ -3249,7 +3276,9 @@
           "strike": 121.39,
           "yes_price": 0.85,
           "no_price": 0.2,
-          "volume": 6294.78
+          "volume": 6294.78,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -3587,18 +3616,19 @@
       "kalshi_volume": 6294.78,
       "sales_volume": {
         "level": "moderate",
-        "ratio": 3.117,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 14,
-          "quantity": 14,
-          "dollars": 1750.0
+        "ratio": 1.452,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:30.877852+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 73.78,
+          "transactions": 66.66,
+          "dollars": 9140.84,
+          "units_per_week": 21.4
         },
-        "kalshi_week_volume": 561.5
+        "kalshi_volume": 6294.78
       }
     },
     "KXPOKEMON-26SEPGENCOSHO": {
@@ -3609,7 +3639,9 @@
           "strike": 183.5,
           "yes_price": 0.77,
           "no_price": 0.59,
-          "volume": 1587.44
+          "volume": 1587.44,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -3947,18 +3979,19 @@
       "kalshi_volume": 1587.44,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.0,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 0,
-          "quantity": 0,
-          "dollars": 0.0
+        "ratio": 0.504,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:33.222771+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 5.0,
+          "transactions": 5.0,
+          "dollars": 800.53,
+          "units_per_week": 1.5
         },
-        "kalshi_week_volume": 24.36
+        "kalshi_volume": 1587.44
       }
     },
     "KXPOKEMON-26SEPSQU": {
@@ -3968,8 +4001,10 @@
           "ticker": "KXPOKEMON-26SEPSQU-27.82",
           "strike": 27.82,
           "yes_price": 0.15,
-          "no_price": 0.93,
-          "volume": 1527.12
+          "no_price": 0.94,
+          "volume": 1527.12,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -4308,18 +4343,19 @@
       "kalshi_volume": 1527.12,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.043,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 3,
-          "quantity": 3,
-          "dollars": 28.01
+        "ratio": 0.068,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:35.761081+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 7.56,
+          "transactions": 7.56,
+          "dollars": 103.75,
+          "units_per_week": 2.2
         },
-        "kalshi_week_volume": 655.52
+        "kalshi_volume": 1527.12
       }
     },
     "KXPOKEMON-26SEPBUL": {
@@ -4330,7 +4366,9 @@
           "strike": 28.81,
           "yes_price": 0.14,
           "no_price": 0.94,
-          "volume": 1071.82
+          "volume": 1071.82,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -4669,18 +4707,19 @@
       "kalshi_volume": 1071.82,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.035,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 2,
-          "quantity": 2,
-          "dollars": 21.2
+        "ratio": 0.048,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:38.256437+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 4.0,
+          "transactions": 4.0,
+          "dollars": 51.24,
+          "units_per_week": 1.2
         },
-        "kalshi_week_volume": 609.27
+        "kalshi_volume": 1071.82
       }
     },
     "KXPOKEMON-26SEPCHA": {
@@ -4691,7 +4730,9 @@
           "strike": 39.87,
           "yes_price": 0.11,
           "no_price": 0.97,
-          "volume": 806.49
+          "volume": 806.49,
+          "open_time": "2026-09-03T02:02:00Z",
+          "close_time": "2026-10-01T03:59:00Z"
         }
       ],
       "tcgplayer": {
@@ -5029,18 +5070,19 @@
       "kalshi_volume": 806.49,
       "sales_volume": {
         "level": "moderate",
-        "ratio": 2.26,
-        "week": {
-          "week": "2026-09-14",
-          "transactions": 10,
-          "quantity": 10,
-          "dollars": 419.1
+        "ratio": 2.033,
+        "period": {
+          "start": "2026-09-03T02:02:00+00:00",
+          "end": "2026-09-27T04:26:40.560058+00:00",
+          "days": 24.1
         },
-        "window": {
-          "start": "2026-09-14T00:00:00+00:00",
-          "end": "2026-09-21T00:00:00+00:00"
+        "tcgplayer": {
+          "quantity": 38.71,
+          "transactions": 38.71,
+          "dollars": 1639.79,
+          "units_per_week": 11.2
         },
-        "kalshi_week_volume": 185.42
+        "kalshi_volume": 806.49
       }
     }
   }

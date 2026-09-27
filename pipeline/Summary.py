@@ -3,8 +3,8 @@
 Keyed by Kalshi event ticker (e.g. "KXPOKEMON-26SEPSQU"); each active event
 gets its markets, its matched TCGplayer product, TCGplayer sales totals per
 week for the matched printing (English, all conditions), and a sales-volume
-level comparing the latest complete week's TCGplayer spending with the Kalshi
-volume traded over the same seven days.
+level comparing TCGplayer spending with Kalshi volume since the (monthly)
+market opened.
 """
 
 import json
@@ -14,13 +14,16 @@ from .Apify import sales_path
 from .config import ID_MAP_PATH, KALSHI_FILE, OVERLAY_FILE
 from .KalshiData import traded_volume
 
-# Sales-volume levels. "ratio" is the latest complete week's TCGplayer dollar sales divided
-# by the Kalshi contracts ($1 face value each) traded over the same days. A thin
-# underlying market means a handful of sales can move the price Kalshi settles on.
-LOW_UNITS = 5      # fewer units than this sold in the week -> low
-LOW_RATIO = 1.0    # TCGplayer spent less than was traded on Kalshi that week -> low
-HIGH_UNITS = 20    # high needs at least this many units sold in the week...
-HIGH_RATIO = 5.0   # ...and at least this multiple of that week's Kalshi volume
+# Sales-volume levels, measured from when the Kalshi market opened until the
+# TCGplayer sales were fetched. "ratio" is TCGplayer dollar sales divided by the
+# Kalshi contracts ($1 face value each) traded over that same period. Unit
+# thresholds are per week, averaged over the period, since it grows through the
+# month. A thin underlying market means a handful of sales can move the price
+# Kalshi settles on.
+LOW_UNITS = 5      # fewer units than this sold per week -> low
+LOW_RATIO = 1.0    # less spent on TCGplayer than traded on Kalshi -> low
+HIGH_UNITS = 20    # high needs at least this many units sold per week...
+HIGH_RATIO = 5.0   # ...and at least this multiple of the Kalshi volume
 
 
 def weekly_sales(path, variant):
@@ -53,37 +56,53 @@ def weekly_sales(path, variant):
     }
 
 
-def latest_complete_week(sales):
-    """(week, start, end) for the newest sales bucket that had fully ended when the data was fetched."""
+def sales_since(sales, start, end):
+    """TCGplayer sales between start and end.
+
+    Buckets are weeks starting on Mondays, so a week that is only partly inside
+    the window counts that share of its sales (assuming sales spread evenly).
+    The newest bucket runs only until the data was fetched.
+    """
     fetched_at = datetime.fromisoformat(sales["fetched_at"])
-    for week in reversed(sales["weeks"]):
-        start = datetime.fromisoformat(week["week"]).replace(tzinfo=timezone.utc)
-        end = start + timedelta(days=7)
-        if end <= fetched_at:
-            return week, start, end
-    return None
+    totals = {"quantity": 0.0, "transactions": 0.0, "dollars": 0.0}
+    for week in sales["weeks"]:
+        b_start = datetime.fromisoformat(week["week"]).replace(tzinfo=timezone.utc)
+        b_end = min(b_start + timedelta(days=7), fetched_at)
+        overlap = (min(b_end, end) - max(b_start, start)).total_seconds()
+        if overlap <= 0 or b_end <= b_start:
+            continue
+        share = overlap / (b_end - b_start).total_seconds()
+        for key in totals:
+            totals[key] += week[key] * share
+    return {key: round(value, 2) for key, value in totals.items()}
 
 
 def sales_level(sales, markets):
-    latest = sales and latest_complete_week(sales)
-    if not latest:
+    """Compare TCGplayer sales with Kalshi volume from market open until the sales were fetched."""
+    if not sales or not sales["weeks"]:
         return None
-    week, start, end = latest
+    start = min(datetime.fromisoformat(m["open_time"]) for m in markets)
+    end = datetime.fromisoformat(sales["fetched_at"])
+    if end <= start:
+        return None  # sales predate this market; the next Apify run refreshes them
+    tcg = sales_since(sales, start, end)
     kalshi = sum(traded_volume(m["ticker"], int(start.timestamp()), int(end.timestamp())) for m in markets)
 
-    ratio = week["dollars"] / kalshi if kalshi else None
-    if week["quantity"] < LOW_UNITS or (ratio is not None and ratio < LOW_RATIO):
+    weeks = (end - start).total_seconds() / (7 * 86400)
+    units_per_week = tcg["quantity"] / weeks
+    ratio = tcg["dollars"] / kalshi if kalshi else None
+    if units_per_week < LOW_UNITS or (ratio is not None and ratio < LOW_RATIO):
         level = "low"
-    elif week["quantity"] >= HIGH_UNITS and (ratio is None or ratio >= HIGH_RATIO):
+    elif units_per_week >= HIGH_UNITS and (ratio is None or ratio >= HIGH_RATIO):
         level = "high"
     else:
         level = "moderate"
     return {
         "level": level,
         "ratio": ratio and round(ratio, 3),
-        "week": week,
-        "window": {"start": start.isoformat(), "end": end.isoformat()},
-        "kalshi_week_volume": round(kalshi, 2),
+        "period": {"start": start.isoformat(), "end": end.isoformat(), "days": round(weeks * 7, 1)},
+        "tcgplayer": {**tcg, "units_per_week": round(units_per_week, 1)},
+        "kalshi_volume": round(kalshi, 2),
     }
 
 
@@ -123,6 +142,8 @@ def main():
             "yes_price": m["yes_price"],
             "no_price": m["no_price"],
             "volume": m["volume"],
+            "open_time": m["open_time"],
+            "close_time": m["close_time"],
         })
 
     for event in events.values():

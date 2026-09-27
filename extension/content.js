@@ -55,15 +55,20 @@ const compactDollars = (n) =>
   n < 1000 ? dollars(n) : `$${Intl.NumberFormat(undefined, { notation: "compact", maximumFractionDigits: 1 }).format(n)}`;
 const count = (n) => n.toLocaleString();
 const shortDate = (iso) => new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
-const weekDate = (day) => shortDate(day + "T00:00");
+// "Sep 3–27" or "Sep 28–Oct 4" for a sales_volume period.
+function periodLabel(period) {
+  const start = new Date(period.start), end = new Date(period.end);
+  const sameMonth = start.getMonth() === end.getMonth();
+  return `${shortDate(period.start)}–${sameMonth ? end.getDate() : shortDate(period.end)}`;
+}
 
 // --- Kalshi vs. TCGplayer comparison -------------------------------------------------
 
 function compareBars(event, compact) {
   const sv = event.sales_volume;
-  const kalshi = (sv ? sv.kalshi_week_volume : event.kalshi_volume) ?? 0;
-  const tcg = sv ? sv.week.dollars : 0;
-  const when = sv ? `wk of ${weekDate(sv.week.week)}` : "all time";
+  const kalshi = (sv ? sv.kalshi_volume : event.kalshi_volume) ?? 0;
+  const tcg = sv ? sv.tcgplayer.dollars : 0;
+  const when = sv ? periodLabel(sv.period) : "since open";
   const max = Math.max(kalshi, tcg, 1);
   const row = (cls, label, value) =>
     h("div", { class: `bar-row ${cls}` },
@@ -77,11 +82,12 @@ function compareBars(event, compact) {
 
 function warningText(event) {
   const sv = event.sales_volume;
-  const { quantity, dollars: spent } = sv.week;
+  const { quantity, dollars: spent, units_per_week: perWeek } = sv.tcgplayer;
   const vsKalshi = sv.ratio == null ? ""
-    : sv.ratio < 1 ? `, ${Math.round(sv.ratio * 100)}% of Kalshi's volume that week`
-    : `, ${sv.ratio.toFixed(1)}× Kalshi's volume that week`;
-  const sold = `${count(quantity)} sold on TCGplayer in the week of ${weekDate(sv.week.week)} (~${dollars(spent)}${vsKalshi}).`;
+    : sv.ratio < 1 ? `, ${Math.round(sv.ratio * 100)}% of Kalshi's volume`
+    : `, ${sv.ratio.toFixed(1)}× Kalshi's volume`;
+  const sold = `${count(Math.round(quantity))} sold on TCGplayer since the market opened ${shortDate(sv.period.start)} ` +
+    `(about ${perWeek.toLocaleString()} a week, ~${dollars(spent)}${vsKalshi}).`;
   if (sv.level === "low") return `${sold} With this few sales, a handful of trades can move the price this market settles on.`;
   if (sv.level === "moderate") return `${sold} Enough activity that single sales matter less, but the price can still swing.`;
   return `${sold} A busy market: the settlement price is backed by steady sales.`;
@@ -96,14 +102,14 @@ function badge(level) {
 function overviewView(overlay) {
   const rows = Object.entries(overlay.events).sort(([, a], [, b]) =>
     (LEVELS[a.sales_volume?.level]?.order ?? 3) - (LEVELS[b.sales_volume?.level]?.order ?? 3) ||
-    (b.sales_volume?.kalshi_week_volume ?? 0) - (a.sales_volume?.kalshi_week_volume ?? 0));
-  const week = Object.values(overlay.events).find((e) => e.sales_volume)?.sales_volume.week.week;
+    (b.sales_volume?.kalshi_volume ?? 0) - (a.sales_volume?.kalshi_volume ?? 0));
+  const period = Object.values(overlay.events).find((e) => e.sales_volume)?.sales_volume.period;
 
   return [
     h("div", { class: "legend" },
       h("span", { class: "key kalshi" }, "Kalshi volume"),
       h("span", { class: "key tcg" }, "TCGplayer sales"),
-      week && h("span", { class: "when" }, `wk of ${weekDate(week)}`)),
+      period && h("span", { class: "when" }, periodLabel(period))),
     h("div", { class: "list" }, ...rows.map(([ticker, event]) =>
       h("button", { class: "row", onclick: () => choose(ticker) },
         h("div", { class: "row-head" },
@@ -121,9 +127,6 @@ function eventView(event) {
   const body = [];
 
   body.push(compareBars(event, false));
-  if (event.kalshi_volume != null) {
-    body.push(h("div", { class: "note" }, `Kalshi volume since the market opened: ${dollars(event.kalshi_volume)}`));
-  }
   if (sv) {
     body.push(h("div", { class: `warning ${sv.level}` },
       h("strong", {}, (sv.level === "low" ? "⚠ " : "") + LEVELS[sv.level].label),
@@ -151,14 +154,10 @@ function eventView(event) {
 
   if (sales && sales.weeks.length) {
     const weeks = sales.weeks;
-    // Stats use complete weeks; the newest bucket may still be in progress.
-    const fullWeek = sv ? weeks.findIndex((w) => w.week === sv.week.week) : weeks.length - 1;
-    const recent = weeks.slice(Math.max(0, fullWeek - 3), fullWeek + 1);
-    const avg = recent.reduce((s, w) => s + w.quantity, 0) / recent.length;
     body.push(
       h("div", { class: "stats" },
-        stat("sold, last full wk", count(weeks[fullWeek].quantity)),
-        stat("4-wk avg / wk", count(Math.round(avg))),
+        sv && stat(`sold since ${shortDate(sv.period.start)}`, count(Math.round(sv.tcgplayer.quantity))),
+        sv && stat("avg / wk", count(Math.round(sv.tcgplayer.units_per_week))),
         stat("sold, 52 wks", count(sales.total_quantity))),
       sparkline(weeks),
       h("div", { class: "axis" },
@@ -221,7 +220,7 @@ function renderPanel(overlay, ticker) {
     h("div", { class: "body" },
       ...(event ? eventView(event) : overviewView(overlay)),
       h("div", { class: "footer" },
-        "Kalshi volume is contracts traded at $1 face value. TCGplayer sales are units × market price for the matched printing. Both cover the same week. ",
+        "Kalshi volume is contracts traded at $1 face value. TCGplayer sales are units × market price for the matched printing. Both run from when the market opened to the latest sales data. ",
         `Data updated ${shortDate(overlay.generated_at)}.`)));
 }
 
