@@ -1,0 +1,481 @@
+{
+  "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)": {
+    "product_id": 668497,
+    "matched_by": "exact name",
+    "kalshi_price": 407.86,
+    "tcgplayer_name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+    "set": "ME: Ascended Heroes",
+    "tcgplayer_market_prices": [
+      358.96
+    ],
+    "price_gap": "12%"
+  },
+  "Celebrations Ultra Premium Collection": {
+    "product_id": 245140,
+    "matched_by": "exact name",
+    "kalshi_price": 1237.81,
+    "tcgplayer_name": "Celebrations Ultra-Premium Collection",
+    "set": "Celebrations",
+    "tcgplayer_market_prices": [
+      1226.14
+    ],
+    "price_gap": "1%"
+  },
+  "Blooming Waters Premium Collection": {
+    "product_id": 609597,
+    "matched_by": "exact name",
+    "kalshi_price": 326.19,
+    "tcgplayer_name": "Blooming Waters Premium Collection",
+    "set": "SV: Scarlet & Violet 151",
+    "tcgplayer_market_prices": [
+      334.54
+    ],
+    "price_gap": "3%"
+  },
+  "151 Ultra-Premium Collection": {
+    "product_id": 502005,
+    "matched_by": "exact name",
+    "kalshi_price": 932.18,
+    "tcgplayer_name": "151 Ultra-Premium Collection",
+    "set": "SV: Scarlet & Violet 151",
+    "tcgplayer_market_prices": [
+      880.33
+    ],
+    "price_gap": "6%"
+  },
+  "Charizard ex": {
+    "product_id": 517045,
+    "matched_by": "closest price",
+    "kalshi_price": 364.08,
+    "tcgplayer_name": "Charizard ex - 199/165",
+    "set": "SV: Scarlet & Violet 151",
+    "tcgplayer_market_prices": [
+      346.31
+    ],
+    "price_gap": "5%",
+    "other_candidates": [
+      {
+        "product_id": 91238,
+        "name": "Charizard EX (100 Full Art)",
+        "set": "XY - Flashfire",
+        "url": "https://www.tcgplayer.com/product/91238/pokemon-xy-flashfire-charizard-ex-100-full-art",
+        "market_prices": [
+          286.21
+        ]
+      },
+      {
+        "product_id": 535090,
+        "name": "Charizard ex - 234/091",
+        "set": "SV: Paldean Fates",
+        "url": "https://www.tcgplayer.com/product/535090/pokemon-sv-paldean-fates-charizard-ex-234-091",
+        "market_prices": [
+          266.78
+        ]
+      },
+      {
+        "product_id": 84199,
+        "name": "Charizard ex",
+        "set": "EX FireRed & LeafGreen",
+        "url": "https://www.tcgplayer.com/product/84199/pokemon-ex-firered-and-leafgreen-charizard-ex",
+        "market_prices": [
+          500.0
+        ]
+      },
+      {
+        "product_id": 117267,
+        "name": "Charizard EX - XY121",
+        "set": "XY Promos",
+        "url": "https://www.tcgplayer.com/product/117267/pokemon-xy-promos-charizard-ex-xy121",
+        "market_prices": [
+          186.65
+        ]
+      },
+      {
+        "product_id": 509980,
+        "name": "Charizard ex - 223/197",
+        "set": "SV03: Obsidian Flames",
+        "url": "https://www.tcgplayer.com/product/509980/pokemon-sv03-obsidian-flames-charizard-ex-223-197",
+        "market_prices": [
+          98.28
+        ]
+      },
+      {
+        "product_id": 211422,
+        "name": "Charizard EX - XY121 (XY Black Star Promos)",
+        "set": "Jumbo Cards",
+        "url": "https://www.tcgplayer.com/product/211422/pokemon-jumbo-cards-charizard-ex-xy121-xy-black-star-promos",
+        "market_prices": [
+          94.97
+        ]
+      },
+      {
+        "product_id": 581987,
+        "name": "Charizard ex - 125/197",
+        "set": "Jumbo Cards",
+        "url": "https://www.tcgplayer.com/product/581987/pokemon-jumbo-cards-charizard-ex-125-197",
+        "market_prices": [
+          41.99
+        ]
+      }
+    ]
+  },
+  "Mega Charizard X ex": {
+    "product_id": 659612,
+    "matched_by": "closest price",
+    "kalshi_price": 34.21,
+    "tcgplayer_name": "Mega Charizard X ex - 023",
+    "set": "ME: Mega Evolution Promo",
+    "tcgplayer_market_prices": [
+      27.14
+    ],
+    "price_gap": "21%",
+    "other_candidates": [
+      {
+        "product_id": 662183,
+        "name": "Mega Charizard X ex - 109/094",
+        "set": "ME02: Phantasmal Flames",
+        "url": "https://www.tcgplayer.com/product/662183/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094",
+        "market_prices": [
+          20.75
+        ]
+      },
+      {
+        "product_id": 704430,
+        "name": "Mega Charizard X ex - 013/094",
+        "set": "Prize Pack Series Cards",
+        "url": "https://www.tcgplayer.com/product/704430/pokemon-prize-pack-series-cards-mega-charizard-x-ex-013-094",
+        "market_prices": [
+          58.5
+        ]
+      },
+      {
+        "product_id": 680639,
+        "name": "Mega Charizard X ex - 029",
+        "set": "ME: Mega Evolution Promo",
+        "url": "https://www.tcgplayer.com/product/680639/pokemon-me-mega-evolution-promo-mega-charizard-x-ex-029",
+        "market_prices": [
+          4.74
+        ]
+      },
+      {
+        "product_id": 662182,
+        "name": "Mega Charizard X ex - 013/094",
+        "set": "ME02: Phantasmal Flames",
+        "url": "https://www.tcgplayer.com/product/662182/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-013-094",
+        "market_prices": [
+          4.43
+        ]
+      },
+      {
+        "product_id": 662185,
+        "name": "Mega Charizard X ex - 130/094",
+        "set": "ME02: Phantasmal Flames",
+        "url": "https://www.tcgplayer.com/product/662185/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094",
+        "market_prices": [
+          245.9
+        ]
+      },
+      {
+        "product_id": 662184,
+        "name": "Mega Charizard X ex - 125/094",
+        "set": "ME02: Phantasmal Flames",
+        "url": "https://www.tcgplayer.com/product/662184/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094",
+        "market_prices": [
+          679.99
+        ]
+      }
+    ]
+  },
+  "First Partner Illustration Collection (Series 1)": {
+    "product_id": 673436,
+    "matched_by": "exact name",
+    "kalshi_price": 68.79,
+    "tcgplayer_name": "First Partner Illustration Collection (Series 1)",
+    "set": "First Partner Collection 2026",
+    "tcgplayer_market_prices": [
+      66.19
+    ],
+    "price_gap": "4%"
+  },
+  "Ascended Heroes Elite Trainer Box": {
+    "product_id": 668496,
+    "matched_by": "exact name",
+    "kalshi_price": 169.14,
+    "tcgplayer_name": "Ascended Heroes Elite Trainer Box",
+    "set": "ME: Ascended Heroes",
+    "tcgplayer_market_prices": [
+      150.5
+    ],
+    "price_gap": "11%"
+  },
+  "Perfect Order Booster Box": {
+    "product_id": 672394,
+    "matched_by": "exact name",
+    "kalshi_price": 174.14,
+    "tcgplayer_name": "Perfect Order Booster Box",
+    "set": "ME03: Perfect Order",
+    "tcgplayer_market_prices": [
+      177.64
+    ],
+    "price_gap": "2%"
+  },
+  "Perfect Order Pokemon Center Elite Trainer Box": {
+    "product_id": 672404,
+    "matched_by": "exact name",
+    "kalshi_price": 121.39,
+    "tcgplayer_name": "Perfect Order Pokemon Center Elite Trainer Box",
+    "set": "ME03: Perfect Order",
+    "tcgplayer_market_prices": [
+      123.9
+    ],
+    "price_gap": "2%"
+  },
+  "Gengar (Cosmos Holo) (EB Games Exclusive)": {
+    "product_id": 686505,
+    "matched_by": "exact name",
+    "kalshi_price": 183.5,
+    "tcgplayer_name": "Gengar (Cosmos Holo) (EB Games Exclusive)",
+    "set": "Miscellaneous Cards & Products",
+    "tcgplayer_market_prices": [
+      182.28
+    ],
+    "price_gap": "1%"
+  },
+  "Squirtle": {
+    "product_id": 89494,
+    "matched_by": "closest price",
+    "kalshi_price": 27.82,
+    "tcgplayer_name": "Squirtle",
+    "set": "Secret Wonders",
+    "tcgplayer_market_prices": [
+      7.87,
+      29.92
+    ],
+    "price_gap": "8%",
+    "other_candidates": [
+      {
+        "product_id": 477964,
+        "name": "Squirtle - 2006 (Hiroki Yano)",
+        "set": "World Championship Decks",
+        "url": "https://www.tcgplayer.com/product/477964/pokemon-world-championship-decks-squirtle-2006-hiroki-yano",
+        "market_prices": [
+          32.1
+        ]
+      },
+      {
+        "product_id": 89490,
+        "name": "Squirtle - 083/112",
+        "set": "EX FireRed & LeafGreen",
+        "url": "https://www.tcgplayer.com/product/89490/pokemon-ex-firered-and-leafgreen-squirtle-083-112",
+        "market_prices": [
+          33.2,
+          260.73
+        ]
+      },
+      {
+        "product_id": 684463,
+        "name": "Squirtle - 039",
+        "set": "ME: Mega Evolution Promo",
+        "url": "https://www.tcgplayer.com/product/684463/pokemon-me-mega-evolution-promo-squirtle-039",
+        "market_prices": [
+          22.25
+        ]
+      },
+      {
+        "product_id": 107060,
+        "name": "Squirtle",
+        "set": "Base Set (Shadowless)",
+        "url": "https://www.tcgplayer.com/product/107060/pokemon-base-set-shadowless-squirtle",
+        "market_prices": [
+          135.69,
+          33.5
+        ]
+      },
+      {
+        "product_id": 524046,
+        "name": "Squirtle (Blue Border)",
+        "set": "My First Battle",
+        "url": "https://www.tcgplayer.com/product/524046/pokemon-my-first-battle-squirtle-blue-border",
+        "market_prices": [
+          21.66
+        ]
+      },
+      {
+        "product_id": 89498,
+        "name": "Squirtle",
+        "set": "Plasma Storm",
+        "url": "https://www.tcgplayer.com/product/89498/pokemon-plasma-storm-squirtle",
+        "market_prices": [
+          2.88,
+          19.28
+        ]
+      },
+      {
+        "product_id": 275830,
+        "name": "Squirtle - SWSH233",
+        "set": "SWSH: Sword & Shield Promo Cards",
+        "url": "https://www.tcgplayer.com/product/275830/pokemon-swsh-sword-and-shield-promo-cards-squirtle-swsh233",
+        "market_prices": [
+          17.5
+        ]
+      }
+    ]
+  },
+  "Bulbasaur": {
+    "product_id": 84036,
+    "matched_by": "closest price",
+    "kalshi_price": 28.81,
+    "tcgplayer_name": "Bulbasaur",
+    "set": "Dark Explorers",
+    "tcgplayer_market_prices": [
+      8.45,
+      31.13
+    ],
+    "price_gap": "8%",
+    "other_candidates": [
+      {
+        "product_id": 84028,
+        "name": "Bulbasaur",
+        "set": "EX Team Magma vs Team Aqua",
+        "url": "https://www.tcgplayer.com/product/84028/pokemon-ex-team-magma-vs-team-aqua-bulbasaur",
+        "market_prices": [
+          24.31,
+          269.99
+        ]
+      },
+      {
+        "product_id": 206824,
+        "name": "Bulbasaur - SM198 (Detective Pikachu Stamped)",
+        "set": "SM Promos",
+        "url": "https://www.tcgplayer.com/product/206824/pokemon-sm-promos-bulbasaur-sm198-detective-pikachu-stamped",
+        "market_prices": [
+          20.7
+        ]
+      },
+      {
+        "product_id": 523984,
+        "name": "Bulbasaur (Blue Border)",
+        "set": "My First Battle",
+        "url": "https://www.tcgplayer.com/product/523984/pokemon-my-first-battle-bulbasaur-blue-border",
+        "market_prices": [
+          20.09
+        ]
+      },
+      {
+        "product_id": 107041,
+        "name": "Bulbasaur",
+        "set": "Base Set (Shadowless)",
+        "url": "https://www.tcgplayer.com/product/107041/pokemon-base-set-shadowless-bulbasaur",
+        "market_prices": [
+          313.19,
+          19.97
+        ]
+      },
+      {
+        "product_id": 684461,
+        "name": "Bulbasaur - 037",
+        "set": "ME: Mega Evolution Promo",
+        "url": "https://www.tcgplayer.com/product/684461/pokemon-me-mega-evolution-promo-bulbasaur-037",
+        "market_prices": [
+          19.93
+        ]
+      },
+      {
+        "product_id": 188320,
+        "name": "Bulbasaur - SM198 (In-Store Event Promo)",
+        "set": "SM Promos",
+        "url": "https://www.tcgplayer.com/product/188320/pokemon-sm-promos-bulbasaur-sm198-in-store-event-promo",
+        "market_prices": [
+          19.06
+        ]
+      },
+      {
+        "product_id": 186318,
+        "name": "Bulbasaur - 1/73 (General Mills Promo)",
+        "set": "Miscellaneous Cards & Products",
+        "url": "https://www.tcgplayer.com/product/186318/pokemon-miscellaneous-cards-and-products-bulbasaur-1-73-general-mills-promo",
+        "market_prices": [
+          38.99
+        ]
+      }
+    ]
+  },
+  "Charmander": {
+    "product_id": 534483,
+    "matched_by": "closest price",
+    "kalshi_price": 39.87,
+    "tcgplayer_name": "Charmander - 109/091",
+    "set": "SV: Paldean Fates",
+    "tcgplayer_market_prices": [
+      41.11
+    ],
+    "price_gap": "3%",
+    "other_candidates": [
+      {
+        "product_id": 84221,
+        "name": "Charmander (Delta Species)",
+        "set": "POP Series 5",
+        "url": "https://www.tcgplayer.com/product/84221/pokemon-pop-series-5-charmander-delta-species",
+        "market_prices": [
+          41.5
+        ]
+      },
+      {
+        "product_id": 155083,
+        "name": "Charmander - 17/113 (Build-A-Bear Workshop Exclusive)",
+        "set": "Miscellaneous Cards & Products",
+        "url": "https://www.tcgplayer.com/product/155083/pokemon-miscellaneous-cards-and-products-charmander-17-113-build-a-bear-workshop-exclusive",
+        "market_prices": [
+          37.09
+        ]
+      },
+      {
+        "product_id": 517557,
+        "name": "Charmander - 004/165 (GameStop Exclusive)",
+        "set": "Miscellaneous Cards & Products",
+        "url": "https://www.tcgplayer.com/product/517557/pokemon-miscellaneous-cards-and-products-charmander-004-165-gamestop-exclusive",
+        "market_prices": [
+          44.5
+        ]
+      },
+      {
+        "product_id": 197744,
+        "name": "Charmander",
+        "set": "Hidden Fates: Shiny Vault",
+        "url": "https://www.tcgplayer.com/product/197744/pokemon-hidden-fates-shiny-vault-charmander",
+        "market_prices": [
+          31.36
+        ]
+      },
+      {
+        "product_id": 84218,
+        "name": "Charmander",
+        "set": "Boundaries Crossed",
+        "url": "https://www.tcgplayer.com/product/84218/pokemon-boundaries-crossed-charmander",
+        "market_prices": [
+          3.59,
+          31.36
+        ]
+      },
+      {
+        "product_id": 253842,
+        "name": "Charmander - 023/185 (Reverse Cosmos Holo)",
+        "set": "Miscellaneous Cards & Products",
+        "url": "https://www.tcgplayer.com/product/253842/pokemon-miscellaneous-cards-and-products-charmander-023-185-reverse-cosmos-holo",
+        "market_prices": [
+          28.14
+        ]
+      },
+      {
+        "product_id": 175263,
+        "name": "Charmander",
+        "set": "Dragon Majesty",
+        "url": "https://www.tcgplayer.com/product/175263/pokemon-dragon-majesty-charmander",
+        "market_prices": [
+          26.88,
+          5.2
+        ]
+      }
+    ]
+  }
+}

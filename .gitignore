@@ -1,0 +1,4 @@
+.apify_token
+__pycache__/
+data/sales/
+data/tcgcsv_catalog.json
