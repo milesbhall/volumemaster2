@@ -6,8 +6,9 @@ with weekly buckets of transactionCount and quantitySold for the past year.
 
 Output: data/sales/<product>.json for each product.
 
-Cost: the actor charges $0.10 per run plus $0.003 per result, so products
-fetched in the last day are skipped rather than paid for again.
+Cost: the actor charges $0.10 per run plus $0.003 per result. Its data is in
+weekly buckets, so each product is refreshed at most once a week (new
+products are fetched immediately).
 
 The Apify token is read from the APIFY_TOKEN environment variable, or from
 the git-ignored .apify_token file in the project root.
@@ -25,7 +26,7 @@ from . import TCGCSV
 from .config import APIFY_TOKEN_FILE, SALES_DIR
 
 ACTOR_ID = "scraped/tcgplayer-sales-history"
-REFRESH_SECONDS = 86400
+REFRESH_SECONDS = 7 * 86400
 
 
 def load_token():
@@ -42,7 +43,12 @@ def sales_path(name):
 
 
 def fetched_recently(path):
-    return path.exists() and time.time() - path.stat().st_mtime < REFRESH_SECONDS
+    # Uses the saved fetched_at rather than file mtime, which a git checkout resets.
+    if not path.exists():
+        return False
+    with open(path) as f:
+        fetched_at = datetime.fromisoformat(json.load(f)["fetched_at"])
+    return time.time() - fetched_at.timestamp() < REFRESH_SECONDS
 
 
 def main(ids=None):
@@ -57,7 +63,7 @@ def main(ids=None):
             continue
         path = sales_path(name)
         if fetched_recently(path):
-            print(f"{name}: fetched within the last day, skipping")
+            print(f"{name}: fetched within the last week, skipping")
             continue
 
         url = f"https://www.tcgplayer.com/product/{pid}"

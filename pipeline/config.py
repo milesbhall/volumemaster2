@@ -9,5 +9,6 @@ KALSHI_FILE = DATA_DIR / "kalshi_pokemon_data.json"  # step 1 output
 CATALOG_CACHE = DATA_DIR / "tcgcsv_catalog.json"     # TCGplayer Pokémon catalog, refreshed daily
 ID_MAP_PATH = DATA_DIR / "tcgplayer_ids.json"        # step 2 output: Kalshi name -> TCGplayer product ID
 SALES_DIR = DATA_DIR / "sales"                       # step 3 output: one file per product
+OVERLAY_FILE = DATA_DIR / "overlay.json"             # step 4 output: read by the Firefox extension
 
 APIFY_TOKEN_FILE = ROOT / ".apify_token"

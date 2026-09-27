@@ -1,0 +1,4067 @@
+{
+  "generated_at": "2026-09-27T04:43:16.299096+00:00",
+  "events": {
+    "KXPOKEMON-26SEPASCHERPO": {
+      "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",
+          "strike": 407.86,
+          "yes_price": 0.12,
+          "no_price": 0.93,
+          "volume": 4866.52
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 668497,
+        "url": "https://www.tcgplayer.com/product/668497",
+        "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+        "set": "ME: Ascended Heroes",
+        "market_prices": [
+          358.96
+        ],
+        "price_gap": "12%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:07.127453+00:00",
+        "total_transactions": 1606,
+        "total_quantity": 1963,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 9,
+            "quantity": 12
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 20,
+            "quantity": 22
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 25,
+            "quantity": 30
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 20,
+            "quantity": 25
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 22,
+            "quantity": 25
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 22,
+            "quantity": 29
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 413,
+            "quantity": 538
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 188,
+            "quantity": 223
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 103,
+            "quantity": 135
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 75,
+            "quantity": 83
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 74,
+            "quantity": 85
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 46,
+            "quantity": 57
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 53,
+            "quantity": 58
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 50,
+            "quantity": 62
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 49,
+            "quantity": 54
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 35,
+            "quantity": 47
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 31,
+            "quantity": 39
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 29,
+            "quantity": 33
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 23,
+            "quantity": 26
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 25,
+            "quantity": 28
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 28,
+            "quantity": 30
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 18,
+            "quantity": 21
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 20,
+            "quantity": 20
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 18,
+            "quantity": 21
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 16,
+            "quantity": 17
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 17,
+            "quantity": 21
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 16,
+            "quantity": 17
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 9,
+            "quantity": 11
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 7,
+            "quantity": 11
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 24,
+            "quantity": 31
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 15,
+            "quantity": 25
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 15,
+            "quantity": 23
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 14,
+            "quantity": 20
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 12,
+            "quantity": 14
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 16,
+            "quantity": 16
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 21,
+            "quantity": 25
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 11,
+            "quantity": 11
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPCELULTPR": {
+      "product": "Celebrations Ultra Premium Collection",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPCELULTPR-1237.81",
+          "strike": 1237.81,
+          "yes_price": 0.32,
+          "no_price": 0.74,
+          "volume": 4535.54
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 245140,
+        "url": "https://www.tcgplayer.com/product/245140",
+        "name": "Celebrations Ultra-Premium Collection",
+        "set": "Celebrations",
+        "market_prices": [
+          1226.14
+        ],
+        "price_gap": "1%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:10.455723+00:00",
+        "total_transactions": 212,
+        "total_quantity": 220,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 8,
+            "quantity": 10
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 2,
+            "quantity": 3
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 5,
+            "quantity": 6
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 7,
+            "quantity": 9
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 2,
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPBLOWATPR": {
+      "product": "Blooming Waters Premium Collection",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPBLOWATPR-326.19",
+          "strike": 326.19,
+          "yes_price": 0.82,
+          "no_price": 0.75,
+          "volume": 1400.27
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 609597,
+        "url": "https://www.tcgplayer.com/product/609597",
+        "name": "Blooming Waters Premium Collection",
+        "set": "SV: Scarlet & Violet 151",
+        "market_prices": [
+          334.54
+        ],
+        "price_gap": "3%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:12.604468+00:00",
+        "total_transactions": 798,
+        "total_quantity": 1013,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 27,
+            "quantity": 55
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 21,
+            "quantity": 31
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 12,
+            "quantity": 15
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 19,
+            "quantity": 22
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 24,
+            "quantity": 41
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 21,
+            "quantity": 22
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 14,
+            "quantity": 17
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 20,
+            "quantity": 22
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 31,
+            "quantity": 43
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 34,
+            "quantity": 42
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 15,
+            "quantity": 16
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 13,
+            "quantity": 17
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 33,
+            "quantity": 40
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 18,
+            "quantity": 24
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 16,
+            "quantity": 28
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 20,
+            "quantity": 24
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 14,
+            "quantity": 16
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 24,
+            "quantity": 30
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 22,
+            "quantity": 29
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 21,
+            "quantity": 24
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 24,
+            "quantity": 27
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 15,
+            "quantity": 17
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 7,
+            "quantity": 16
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 13,
+            "quantity": 14
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 9,
+            "quantity": 10
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 22,
+            "quantity": 23
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 22,
+            "quantity": 30
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 10,
+            "quantity": 11
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 15,
+            "quantity": 16
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 12,
+            "quantity": 18
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 10,
+            "quantity": 12
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 38,
+            "quantity": 46
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 7,
+            "quantity": 9
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 8,
+            "quantity": 11
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 11,
+            "quantity": 17
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 11,
+            "quantity": 19
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 10,
+            "quantity": 13
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 8,
+            "quantity": 9
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 10,
+            "quantity": 14
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 2,
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEP151ULTCO": {
+      "product": "151 Ultra-Premium Collection",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEP151ULTCO-932.18",
+          "strike": 932.18,
+          "yes_price": 0.15,
+          "no_price": 0.97,
+          "volume": 4076.02
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 502005,
+        "url": "https://www.tcgplayer.com/product/502005",
+        "name": "151 Ultra-Premium Collection",
+        "set": "SV: Scarlet & Violet 151",
+        "market_prices": [
+          880.33
+        ],
+        "price_gap": "6%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:14.836963+00:00",
+        "total_transactions": 672,
+        "total_quantity": 762,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 9,
+            "quantity": 10
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 16,
+            "quantity": 17
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 7,
+            "quantity": 8
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 4,
+            "quantity": 5
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 8,
+            "quantity": 9
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 8,
+            "quantity": 9
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 14,
+            "quantity": 17
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 14,
+            "quantity": 15
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 18,
+            "quantity": 18
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 9,
+            "quantity": 11
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 23,
+            "quantity": 25
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 25,
+            "quantity": 38
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 33,
+            "quantity": 41
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 20,
+            "quantity": 21
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 29,
+            "quantity": 36
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 5,
+            "quantity": 8
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 15,
+            "quantity": 29
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 23,
+            "quantity": 34
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 74,
+            "quantity": 77
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 9,
+            "quantity": 10
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 8,
+            "quantity": 14
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 13,
+            "quantity": 17
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 10,
+            "quantity": 12
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 8,
+            "quantity": 9
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 6,
+            "quantity": 6
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPCHAEX": {
+      "product": "Charizard ex",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPCHAEX-364.08",
+          "strike": 364.08,
+          "yes_price": 0.15,
+          "no_price": 0.93,
+          "volume": 1949.32
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 517045,
+        "url": "https://www.tcgplayer.com/product/517045",
+        "name": "Charizard ex - 199/165",
+        "set": "SV: Scarlet & Violet 151",
+        "market_prices": [
+          346.31
+        ],
+        "price_gap": "5%",
+        "matched_by": "closest price"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:17.065725+00:00",
+        "total_transactions": 2215,
+        "total_quantity": 2329,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 38,
+            "quantity": 40
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 59,
+            "quantity": 63
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 23,
+            "quantity": 23
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 26,
+            "quantity": 30
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 72,
+            "quantity": 76
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 35,
+            "quantity": 35
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 29,
+            "quantity": 29
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 65,
+            "quantity": 71
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 89,
+            "quantity": 90
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 51,
+            "quantity": 52
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 71,
+            "quantity": 87
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 62,
+            "quantity": 67
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 35,
+            "quantity": 35
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 54,
+            "quantity": 55
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 31,
+            "quantity": 33
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 37,
+            "quantity": 39
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 46,
+            "quantity": 50
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 42,
+            "quantity": 42
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 24,
+            "quantity": 24
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 31,
+            "quantity": 31
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 67,
+            "quantity": 69
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 83,
+            "quantity": 85
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 91,
+            "quantity": 98
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 75,
+            "quantity": 86
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 40,
+            "quantity": 40
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 51,
+            "quantity": 52
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 39,
+            "quantity": 39
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 25,
+            "quantity": 27
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 36,
+            "quantity": 36
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 44,
+            "quantity": 45
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 27,
+            "quantity": 28
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 49,
+            "quantity": 50
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 22,
+            "quantity": 22
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 46,
+            "quantity": 52
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 47,
+            "quantity": 48
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 33,
+            "quantity": 34
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 49,
+            "quantity": 57
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 33,
+            "quantity": 33
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 25,
+            "quantity": 25
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 22,
+            "quantity": 22
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 23,
+            "quantity": 23
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 26,
+            "quantity": 27
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 30,
+            "quantity": 32
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 36,
+            "quantity": 37
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 29,
+            "quantity": 30
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 38,
+            "quantity": 38
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 39,
+            "quantity": 39
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 37,
+            "quantity": 40
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 34,
+            "quantity": 35
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 29,
+            "quantity": 29
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 40,
+            "quantity": 46
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 30,
+            "quantity": 33
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPMEGCHAXE": {
+      "product": "Mega Charizard X ex",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPMEGCHAXE-34.21",
+          "strike": 34.21,
+          "yes_price": 0.14,
+          "no_price": 0.94,
+          "volume": 4059.65
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 659612,
+        "url": "https://www.tcgplayer.com/product/659612",
+        "name": "Mega Charizard X ex - 023",
+        "set": "ME: Mega Evolution Promo",
+        "market_prices": [
+          27.14
+        ],
+        "price_gap": "21%",
+        "matched_by": "closest price"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:20.282885+00:00",
+        "total_transactions": 11515,
+        "total_quantity": 18108,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 217,
+            "quantity": 339
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 344,
+            "quantity": 511
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 300,
+            "quantity": 477
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 264,
+            "quantity": 420
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 238,
+            "quantity": 627
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 250,
+            "quantity": 335
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 335,
+            "quantity": 500
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 343,
+            "quantity": 603
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 358,
+            "quantity": 537
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 342,
+            "quantity": 576
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 392,
+            "quantity": 825
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 395,
+            "quantity": 554
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 382,
+            "quantity": 634
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 335,
+            "quantity": 621
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 343,
+            "quantity": 643
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 339,
+            "quantity": 518
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 384,
+            "quantity": 679
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 316,
+            "quantity": 438
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 292,
+            "quantity": 449
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 262,
+            "quantity": 471
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 323,
+            "quantity": 452
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 232,
+            "quantity": 378
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 328,
+            "quantity": 476
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 287,
+            "quantity": 424
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 209,
+            "quantity": 269
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 210,
+            "quantity": 268
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 215,
+            "quantity": 298
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 125,
+            "quantity": 202
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 279,
+            "quantity": 433
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 193,
+            "quantity": 269
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 160,
+            "quantity": 233
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 164,
+            "quantity": 236
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 161,
+            "quantity": 267
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 143,
+            "quantity": 212
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 185,
+            "quantity": 278
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 146,
+            "quantity": 212
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 218,
+            "quantity": 297
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 190,
+            "quantity": 255
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 169,
+            "quantity": 313
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 228,
+            "quantity": 331
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 170,
+            "quantity": 220
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 174,
+            "quantity": 252
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 161,
+            "quantity": 209
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 138,
+            "quantity": 193
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 126,
+            "quantity": 165
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 150,
+            "quantity": 209
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPFIRPARIL": {
+      "product": "First Partner Illustration Collection (Series 1)",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPFIRPARIL-68.79",
+          "strike": 68.79,
+          "yes_price": 0.19,
+          "no_price": 0.9,
+          "volume": 1806.18
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 673436,
+        "url": "https://www.tcgplayer.com/product/673436",
+        "name": "First Partner Illustration Collection (Series 1)",
+        "set": "First Partner Collection 2026",
+        "market_prices": [
+          66.19
+        ],
+        "price_gap": "4%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:22.752727+00:00",
+        "total_transactions": 7362,
+        "total_quantity": 14479,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 4,
+            "quantity": 6
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 21,
+            "quantity": 37
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 10,
+            "quantity": 22
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 80,
+            "quantity": 148
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 56,
+            "quantity": 105
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 116,
+            "quantity": 211
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 64,
+            "quantity": 110
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 360,
+            "quantity": 716
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 1607,
+            "quantity": 3375
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 701,
+            "quantity": 1715
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 468,
+            "quantity": 890
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 388,
+            "quantity": 652
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 356,
+            "quantity": 716
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 325,
+            "quantity": 658
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 306,
+            "quantity": 579
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 297,
+            "quantity": 595
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 326,
+            "quantity": 661
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 183,
+            "quantity": 359
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 200,
+            "quantity": 411
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 138,
+            "quantity": 213
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 111,
+            "quantity": 191
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 137,
+            "quantity": 283
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 181,
+            "quantity": 287
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 97,
+            "quantity": 161
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 101,
+            "quantity": 216
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 82,
+            "quantity": 127
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 79,
+            "quantity": 130
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 77,
+            "quantity": 121
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 112,
+            "quantity": 190
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 117,
+            "quantity": 172
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 63,
+            "quantity": 98
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 50,
+            "quantity": 75
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 38,
+            "quantity": 68
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 40,
+            "quantity": 74
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 45,
+            "quantity": 73
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 26,
+            "quantity": 34
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPASCHEREL": {
+      "product": "Ascended Heroes Elite Trainer Box",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPASCHEREL-169.14",
+          "strike": 169.14,
+          "yes_price": 0.12,
+          "no_price": 0.95,
+          "volume": 4109.0
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 668496,
+        "url": "https://www.tcgplayer.com/product/668496",
+        "name": "Ascended Heroes Elite Trainer Box",
+        "set": "ME: Ascended Heroes",
+        "market_prices": [
+          150.5
+        ],
+        "price_gap": "11%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:25.318208+00:00",
+        "total_transactions": 12616,
+        "total_quantity": 19715,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 4,
+            "quantity": 5
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 19,
+            "quantity": 24
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 46,
+            "quantity": 81
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 137,
+            "quantity": 186
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 215,
+            "quantity": 327
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 343,
+            "quantity": 537
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 401,
+            "quantity": 621
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 281,
+            "quantity": 414
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 201,
+            "quantity": 296
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 364,
+            "quantity": 531
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 1133,
+            "quantity": 1612
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 1285,
+            "quantity": 1999
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 1186,
+            "quantity": 2265
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 839,
+            "quantity": 1512
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 593,
+            "quantity": 1080
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 502,
+            "quantity": 858
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 451,
+            "quantity": 663
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 422,
+            "quantity": 681
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 342,
+            "quantity": 571
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 267,
+            "quantity": 419
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 237,
+            "quantity": 375
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 184,
+            "quantity": 261
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 179,
+            "quantity": 219
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 160,
+            "quantity": 197
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 406,
+            "quantity": 930
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 192,
+            "quantity": 248
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 178,
+            "quantity": 229
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 169,
+            "quantity": 213
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 186,
+            "quantity": 243
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 143,
+            "quantity": 170
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 154,
+            "quantity": 191
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 154,
+            "quantity": 199
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 121,
+            "quantity": 155
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 117,
+            "quantity": 144
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 104,
+            "quantity": 131
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 139,
+            "quantity": 197
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 143,
+            "quantity": 161
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 119,
+            "quantity": 157
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 115,
+            "quantity": 156
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 127,
+            "quantity": 141
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 149,
+            "quantity": 182
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 109,
+            "quantity": 134
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPPERORDBO": {
+      "product": "Perfect Order Booster Box",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPPERORDBO-174.14",
+          "strike": 174.14,
+          "yes_price": 0.88,
+          "no_price": 0.2,
+          "volume": 1965.91
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 672394,
+        "url": "https://www.tcgplayer.com/product/672394",
+        "name": "Perfect Order Booster Box",
+        "set": "ME03: Perfect Order",
+        "market_prices": [
+          177.64
+        ],
+        "price_gap": "2%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:28.116979+00:00",
+        "total_transactions": 6766,
+        "total_quantity": 8558,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 19,
+            "quantity": 27
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 32,
+            "quantity": 37
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 39,
+            "quantity": 51
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 45,
+            "quantity": 66
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 172,
+            "quantity": 264
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 307,
+            "quantity": 449
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 295,
+            "quantity": 436
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 220,
+            "quantity": 285
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 305,
+            "quantity": 393
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 383,
+            "quantity": 486
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 689,
+            "quantity": 871
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 422,
+            "quantity": 500
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 268,
+            "quantity": 312
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 240,
+            "quantity": 275
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 222,
+            "quantity": 252
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 211,
+            "quantity": 225
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 159,
+            "quantity": 170
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 184,
+            "quantity": 227
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 95,
+            "quantity": 106
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 131,
+            "quantity": 159
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 87,
+            "quantity": 100
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 70,
+            "quantity": 84
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 61,
+            "quantity": 74
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 57,
+            "quantity": 67
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 37,
+            "quantity": 42
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 65,
+            "quantity": 73
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 354,
+            "quantity": 496
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 354,
+            "quantity": 505
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 190,
+            "quantity": 229
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 175,
+            "quantity": 239
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 189,
+            "quantity": 216
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 212,
+            "quantity": 253
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 128,
+            "quantity": 198
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 111,
+            "quantity": 130
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 99,
+            "quantity": 107
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 73,
+            "quantity": 76
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 66,
+            "quantity": 78
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPPERORDPO": {
+      "product": "Perfect Order Pokemon Center Elite Trainer Box",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPPERORDPO-121.39",
+          "strike": 121.39,
+          "yes_price": 0.85,
+          "no_price": 0.2,
+          "volume": 6294.78
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 672404,
+        "url": "https://www.tcgplayer.com/product/672404",
+        "name": "Perfect Order Pokemon Center Elite Trainer Box",
+        "set": "ME03: Perfect Order",
+        "market_prices": [
+          123.9
+        ],
+        "price_gap": "2%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:30.877852+00:00",
+        "total_transactions": 1648,
+        "total_quantity": 2058,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 2,
+            "quantity": 3
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 8,
+            "quantity": 13
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 11,
+            "quantity": 13
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 319,
+            "quantity": 422
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 213,
+            "quantity": 274
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 110,
+            "quantity": 147
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 79,
+            "quantity": 95
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 72,
+            "quantity": 88
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 82,
+            "quantity": 103
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 79,
+            "quantity": 101
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 48,
+            "quantity": 64
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 47,
+            "quantity": 63
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 53,
+            "quantity": 65
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 35,
+            "quantity": 39
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 31,
+            "quantity": 33
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 21,
+            "quantity": 22
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 30,
+            "quantity": 35
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 25,
+            "quantity": 28
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 40,
+            "quantity": 41
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 47,
+            "quantity": 54
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 43,
+            "quantity": 63
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 36,
+            "quantity": 53
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 24,
+            "quantity": 25
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 33,
+            "quantity": 36
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 26,
+            "quantity": 34
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 23,
+            "quantity": 24
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 28,
+            "quantity": 30
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 25,
+            "quantity": 29
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 12,
+            "quantity": 14
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPGENCOSHO": {
+      "product": "Gengar (Cosmos Holo) (EB Games Exclusive)",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPGENCOSHO-183.5",
+          "strike": 183.5,
+          "yes_price": 0.77,
+          "no_price": 0.59,
+          "volume": 1587.44
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 686505,
+        "url": "https://www.tcgplayer.com/product/686505",
+        "name": "Gengar (Cosmos Holo) (EB Games Exclusive)",
+        "set": "Miscellaneous Cards & Products",
+        "market_prices": [
+          182.28
+        ],
+        "price_gap": "1%",
+        "matched_by": "exact name"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:33.222771+00:00",
+        "total_transactions": 28,
+        "total_quantity": 29,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 3,
+            "quantity": 4
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 0,
+            "quantity": 0
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 2,
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPSQU": {
+      "product": "Squirtle",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPSQU-27.82",
+          "strike": 27.82,
+          "yes_price": 0.15,
+          "no_price": 0.93,
+          "volume": 1527.12
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 89494,
+        "url": "https://www.tcgplayer.com/product/89494",
+        "name": "Squirtle",
+        "set": "Secret Wonders",
+        "market_prices": [
+          7.87,
+          29.92
+        ],
+        "price_gap": "8%",
+        "matched_by": "closest price"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:35.761081+00:00",
+        "total_transactions": 620,
+        "total_quantity": 656,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 11,
+            "quantity": 14
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 2,
+            "quantity": 2
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 17,
+            "quantity": 17
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 13,
+            "quantity": 18
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 11,
+            "quantity": 21
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 10,
+            "quantity": 12
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 16,
+            "quantity": 16
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 14,
+            "quantity": 16
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 13,
+            "quantity": 17
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 23,
+            "quantity": 24
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 16,
+            "quantity": 19
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 20,
+            "quantity": 20
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 24,
+            "quantity": 24
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 16,
+            "quantity": 16
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 14,
+            "quantity": 15
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 13,
+            "quantity": 13
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 14,
+            "quantity": 15
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 17,
+            "quantity": 17
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 10,
+            "quantity": 12
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 11,
+            "quantity": 11
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPBUL": {
+      "product": "Bulbasaur",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPBUL-28.81",
+          "strike": 28.81,
+          "yes_price": 0.14,
+          "no_price": 0.94,
+          "volume": 1071.82
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 84036,
+        "url": "https://www.tcgplayer.com/product/84036",
+        "name": "Bulbasaur",
+        "set": "Dark Explorers",
+        "market_prices": [
+          8.45,
+          31.13
+        ],
+        "price_gap": "8%",
+        "matched_by": "closest price"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:38.256437+00:00",
+        "total_transactions": 438,
+        "total_quantity": 564,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 3,
+            "quantity": 25
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 11,
+            "quantity": 22
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 9,
+            "quantity": 10
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 6,
+            "quantity": 7
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 15,
+            "quantity": 18
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 10,
+            "quantity": 38
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 12,
+            "quantity": 16
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 12,
+            "quantity": 19
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 16,
+            "quantity": 16
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 8,
+            "quantity": 9
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 16,
+            "quantity": 17
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 12,
+            "quantity": 20
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 11,
+            "quantity": 22
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 8,
+            "quantity": 10
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 10,
+            "quantity": 15
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 12,
+            "quantity": 17
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 6,
+            "quantity": 6
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 6,
+            "quantity": 8
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 4,
+            "quantity": 5
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 9,
+            "quantity": 10
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 9,
+            "quantity": 10
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 13,
+            "quantity": 22
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 12,
+            "quantity": 14
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 2,
+            "quantity": 2
+          }
+        ]
+      }
+    },
+    "KXPOKEMON-26SEPCHA": {
+      "product": "Charmander",
+      "markets": [
+        {
+          "ticker": "KXPOKEMON-26SEPCHA-39.87",
+          "strike": 39.87,
+          "yes_price": 0.11,
+          "no_price": 0.97,
+          "volume": 806.49
+        }
+      ],
+      "tcgplayer": {
+        "product_id": 534483,
+        "url": "https://www.tcgplayer.com/product/534483",
+        "name": "Charmander - 109/091",
+        "set": "SV: Paldean Fates",
+        "market_prices": [
+          41.11
+        ],
+        "price_gap": "3%",
+        "matched_by": "closest price"
+      },
+      "sales": {
+        "fetched_at": "2026-09-27T04:26:40.560058+00:00",
+        "total_transactions": 817,
+        "total_quantity": 882,
+        "weeks": [
+          {
+            "week": "2025-09-29",
+            "transactions": 17,
+            "quantity": 19
+          },
+          {
+            "week": "2025-10-06",
+            "transactions": 15,
+            "quantity": 17
+          },
+          {
+            "week": "2025-10-13",
+            "transactions": 29,
+            "quantity": 33
+          },
+          {
+            "week": "2025-10-20",
+            "transactions": 12,
+            "quantity": 16
+          },
+          {
+            "week": "2025-10-27",
+            "transactions": 30,
+            "quantity": 34
+          },
+          {
+            "week": "2025-11-03",
+            "transactions": 9,
+            "quantity": 9
+          },
+          {
+            "week": "2025-11-10",
+            "transactions": 10,
+            "quantity": 12
+          },
+          {
+            "week": "2025-11-17",
+            "transactions": 17,
+            "quantity": 17
+          },
+          {
+            "week": "2025-11-24",
+            "transactions": 24,
+            "quantity": 25
+          },
+          {
+            "week": "2025-12-01",
+            "transactions": 14,
+            "quantity": 18
+          },
+          {
+            "week": "2025-12-08",
+            "transactions": 18,
+            "quantity": 18
+          },
+          {
+            "week": "2025-12-15",
+            "transactions": 10,
+            "quantity": 11
+          },
+          {
+            "week": "2025-12-22",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2025-12-29",
+            "transactions": 16,
+            "quantity": 16
+          },
+          {
+            "week": "2026-01-05",
+            "transactions": 18,
+            "quantity": 21
+          },
+          {
+            "week": "2026-01-12",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-01-19",
+            "transactions": 28,
+            "quantity": 46
+          },
+          {
+            "week": "2026-01-26",
+            "transactions": 11,
+            "quantity": 11
+          },
+          {
+            "week": "2026-02-02",
+            "transactions": 14,
+            "quantity": 16
+          },
+          {
+            "week": "2026-02-09",
+            "transactions": 25,
+            "quantity": 25
+          },
+          {
+            "week": "2026-02-16",
+            "transactions": 22,
+            "quantity": 30
+          },
+          {
+            "week": "2026-02-23",
+            "transactions": 24,
+            "quantity": 24
+          },
+          {
+            "week": "2026-03-02",
+            "transactions": 23,
+            "quantity": 24
+          },
+          {
+            "week": "2026-03-09",
+            "transactions": 36,
+            "quantity": 37
+          },
+          {
+            "week": "2026-03-16",
+            "transactions": 16,
+            "quantity": 16
+          },
+          {
+            "week": "2026-03-23",
+            "transactions": 21,
+            "quantity": 23
+          },
+          {
+            "week": "2026-03-30",
+            "transactions": 26,
+            "quantity": 27
+          },
+          {
+            "week": "2026-04-06",
+            "transactions": 20,
+            "quantity": 21
+          },
+          {
+            "week": "2026-04-13",
+            "transactions": 32,
+            "quantity": 33
+          },
+          {
+            "week": "2026-04-20",
+            "transactions": 17,
+            "quantity": 17
+          },
+          {
+            "week": "2026-04-27",
+            "transactions": 15,
+            "quantity": 15
+          },
+          {
+            "week": "2026-05-04",
+            "transactions": 11,
+            "quantity": 12
+          },
+          {
+            "week": "2026-05-11",
+            "transactions": 25,
+            "quantity": 26
+          },
+          {
+            "week": "2026-05-18",
+            "transactions": 10,
+            "quantity": 11
+          },
+          {
+            "week": "2026-05-25",
+            "transactions": 17,
+            "quantity": 17
+          },
+          {
+            "week": "2026-06-01",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-06-08",
+            "transactions": 31,
+            "quantity": 31
+          },
+          {
+            "week": "2026-06-15",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-06-22",
+            "transactions": 1,
+            "quantity": 1
+          },
+          {
+            "week": "2026-06-29",
+            "transactions": 14,
+            "quantity": 14
+          },
+          {
+            "week": "2026-07-06",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-07-13",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-07-20",
+            "transactions": 7,
+            "quantity": 7
+          },
+          {
+            "week": "2026-07-27",
+            "transactions": 4,
+            "quantity": 4
+          },
+          {
+            "week": "2026-08-03",
+            "transactions": 5,
+            "quantity": 5
+          },
+          {
+            "week": "2026-08-10",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2026-08-17",
+            "transactions": 3,
+            "quantity": 3
+          },
+          {
+            "week": "2026-08-24",
+            "transactions": 8,
+            "quantity": 8
+          },
+          {
+            "week": "2026-08-31",
+            "transactions": 12,
+            "quantity": 12
+          },
+          {
+            "week": "2026-09-07",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-09-14",
+            "transactions": 10,
+            "quantity": 10
+          },
+          {
+            "week": "2026-09-21",
+            "transactions": 12,
+            "quantity": 12
+          }
+        ]
+      }
+    }
+  }
+}
