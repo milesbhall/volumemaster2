@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:13:57.145686+00:00",
+  "generated_at": "2026-09-27T06:33:51.207867+00:00",
   "events": {
     "KXPOKEMON-26SEPASCHERPO": {
       "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
@@ -17,6 +17,7 @@
         "url": "https://www.tcgplayer.com/product/668497",
         "name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
         "set": "ME: Ascended Heroes",
+        "variant": "Normal",
         "market_prices": [
           358.96
         ],
@@ -25,6 +26,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:07.127453+00:00",
+        "variant": "Normal",
         "total_transactions": 1606,
         "total_quantity": 1963,
         "weeks": [
@@ -344,14 +346,19 @@
       },
       "kalshi_volume": 4866.52,
       "sales_volume": {
-        "level": "low",
-        "ratio": 0.809,
+        "level": "moderate",
+        "ratio": 3.323,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 11,
-          "quantity": 11,
-          "dollars": 3939.43
-        }
+          "week": "2026-09-14",
+          "transactions": 21,
+          "quantity": 25,
+          "dollars": 9135.75
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 2749.64
       }
     },
     "KXPOKEMON-26SEPCELULTPR": {
@@ -370,6 +377,7 @@
         "url": "https://www.tcgplayer.com/product/245140",
         "name": "Celebrations Ultra-Premium Collection",
         "set": "Celebrations",
+        "variant": "Normal",
         "market_prices": [
           1226.14
         ],
@@ -378,6 +386,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:10.455723+00:00",
+        "variant": "Normal",
         "total_transactions": 212,
         "total_quantity": 220,
         "weeks": [
@@ -698,13 +707,18 @@
       "kalshi_volume": 4535.54,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.541,
+        "ratio": 2.513,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 2,
-          "quantity": 2,
-          "dollars": 2452.28
-        }
+          "week": "2026-09-14",
+          "transactions": 1,
+          "quantity": 1,
+          "dollars": 1236.93
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 492.29
       }
     },
     "KXPOKEMON-26SEPBLOWATPR": {
@@ -723,6 +737,7 @@
         "url": "https://www.tcgplayer.com/product/609597",
         "name": "Blooming Waters Premium Collection",
         "set": "SV: Scarlet & Violet 151",
+        "variant": "Normal",
         "market_prices": [
           334.54
         ],
@@ -731,6 +746,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:12.604468+00:00",
+        "variant": "Normal",
         "total_transactions": 798,
         "total_quantity": 1013,
         "weeks": [
@@ -1050,14 +1066,19 @@
       },
       "kalshi_volume": 1400.27,
       "sales_volume": {
-        "level": "low",
-        "ratio": 0.478,
+        "level": "moderate",
+        "ratio": 9.102,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 2,
-          "quantity": 2,
-          "dollars": 669.08
-        }
+          "week": "2026-09-14",
+          "transactions": 10,
+          "quantity": 14,
+          "dollars": 4698.68
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 516.24
       }
     },
     "KXPOKEMON-26SEP151ULTCO": {
@@ -1076,6 +1097,7 @@
         "url": "https://www.tcgplayer.com/product/502005",
         "name": "151 Ultra-Premium Collection",
         "set": "SV: Scarlet & Violet 151",
+        "variant": "Normal",
         "market_prices": [
           880.33
         ],
@@ -1084,6 +1106,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:14.836963+00:00",
+        "variant": "Normal",
         "total_transactions": 672,
         "total_quantity": 762,
         "weeks": [
@@ -1404,13 +1427,18 @@
       "kalshi_volume": 4076.02,
       "sales_volume": {
         "level": "moderate",
-        "ratio": 1.296,
+        "ratio": 4.434,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 6,
-          "quantity": 6,
-          "dollars": 5281.98
-        }
+          "week": "2026-09-14",
+          "transactions": 8,
+          "quantity": 8,
+          "dollars": 6852.24
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 1545.37
       }
     },
     "KXPOKEMON-26SEPCHAEX": {
@@ -1429,6 +1457,7 @@
         "url": "https://www.tcgplayer.com/product/517045",
         "name": "Charizard ex - 199/165",
         "set": "SV: Scarlet & Violet 151",
+        "variant": "Holofoil",
         "market_prices": [
           346.31
         ],
@@ -1437,6 +1466,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:17.065725+00:00",
+        "variant": "Holofoil",
         "total_transactions": 2215,
         "total_quantity": 2329,
         "weeks": [
@@ -1757,13 +1787,18 @@
       "kalshi_volume": 1949.32,
       "sales_volume": {
         "level": "high",
-        "ratio": 5.843,
+        "ratio": 12.45,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 30,
-          "quantity": 33,
-          "dollars": 11390.35
-        }
+          "week": "2026-09-14",
+          "transactions": 40,
+          "quantity": 46,
+          "dollars": 15683.72
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 1259.74
       }
     },
     "KXPOKEMON-26SEPMEGCHAXE": {
@@ -1782,6 +1817,7 @@
         "url": "https://www.tcgplayer.com/product/659612",
         "name": "Mega Charizard X ex - 023",
         "set": "ME: Mega Evolution Promo",
+        "variant": "Holofoil",
         "market_prices": [
           27.14
         ],
@@ -1790,6 +1826,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:20.282885+00:00",
+        "variant": "Holofoil",
         "total_transactions": 11515,
         "total_quantity": 18108,
         "weeks": [
@@ -2109,14 +2146,19 @@
       },
       "kalshi_volume": 4059.65,
       "sales_volume": {
-        "level": "moderate",
-        "ratio": 1.401,
+        "level": "high",
+        "ratio": 18.491,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 150,
-          "quantity": 209,
-          "dollars": 5687.61
-        }
+          "week": "2026-09-14",
+          "transactions": 126,
+          "quantity": 165,
+          "dollars": 4797.3
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 259.44
       }
     },
     "KXPOKEMON-26SEPFIRPARIL": {
@@ -2135,6 +2177,7 @@
         "url": "https://www.tcgplayer.com/product/673436",
         "name": "First Partner Illustration Collection (Series 1)",
         "set": "First Partner Collection 2026",
+        "variant": "Normal",
         "market_prices": [
           66.19
         ],
@@ -2143,6 +2186,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:22.752727+00:00",
+        "variant": "Normal",
         "total_transactions": 7362,
         "total_quantity": 14479,
         "weeks": [
@@ -2462,14 +2506,19 @@
       },
       "kalshi_volume": 1806.18,
       "sales_volume": {
-        "level": "moderate",
-        "ratio": 1.232,
+        "level": "high",
+        "ratio": 11.911,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 26,
-          "quantity": 34,
-          "dollars": 2224.62
-        }
+          "week": "2026-09-14",
+          "transactions": 45,
+          "quantity": 73,
+          "dollars": 4623.09
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 388.13
       }
     },
     "KXPOKEMON-26SEPASCHEREL": {
@@ -2488,6 +2537,7 @@
         "url": "https://www.tcgplayer.com/product/668496",
         "name": "Ascended Heroes Elite Trainer Box",
         "set": "ME: Ascended Heroes",
+        "variant": "Normal",
         "market_prices": [
           150.5
         ],
@@ -2496,6 +2546,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:25.318208+00:00",
+        "variant": "Normal",
         "total_transactions": 12616,
         "total_quantity": 19715,
         "weeks": [
@@ -2815,14 +2866,19 @@
       },
       "kalshi_volume": 4109.0,
       "sales_volume": {
-        "level": "moderate",
-        "ratio": 4.991,
+        "level": "high",
+        "ratio": 11.33,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 109,
-          "quantity": 134,
-          "dollars": 20507.36
-        }
+          "week": "2026-09-14",
+          "transactions": 149,
+          "quantity": 182,
+          "dollars": 26746.72
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 2360.69
       }
     },
     "KXPOKEMON-26SEPPERORDBO": {
@@ -2841,6 +2897,7 @@
         "url": "https://www.tcgplayer.com/product/672394",
         "name": "Perfect Order Booster Box",
         "set": "ME03: Perfect Order",
+        "variant": "Normal",
         "market_prices": [
           177.64
         ],
@@ -2849,6 +2906,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:28.116979+00:00",
+        "variant": "Normal",
         "total_transactions": 6766,
         "total_quantity": 8558,
         "weeks": [
@@ -3169,13 +3227,18 @@
       "kalshi_volume": 1965.91,
       "sales_volume": {
         "level": "high",
-        "ratio": 7.019,
+        "ratio": 22.677,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 66,
-          "quantity": 78,
-          "dollars": 13798.98
-        }
+          "week": "2026-09-14",
+          "transactions": 73,
+          "quantity": 76,
+          "dollars": 13370.68
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 589.62
       }
     },
     "KXPOKEMON-26SEPPERORDPO": {
@@ -3194,6 +3257,7 @@
         "url": "https://www.tcgplayer.com/product/672404",
         "name": "Perfect Order Pokemon Center Elite Trainer Box",
         "set": "ME03: Perfect Order",
+        "variant": "Normal",
         "market_prices": [
           123.9
         ],
@@ -3202,6 +3266,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:30.877852+00:00",
+        "variant": "Normal",
         "total_transactions": 1648,
         "total_quantity": 2058,
         "weeks": [
@@ -3521,14 +3586,19 @@
       },
       "kalshi_volume": 6294.78,
       "sales_volume": {
-        "level": "low",
-        "ratio": 0.276,
+        "level": "moderate",
+        "ratio": 3.117,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 12,
+          "week": "2026-09-14",
+          "transactions": 14,
           "quantity": 14,
-          "dollars": 1734.6
-        }
+          "dollars": 1750.0
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 561.5
       }
     },
     "KXPOKEMON-26SEPGENCOSHO": {
@@ -3547,6 +3617,7 @@
         "url": "https://www.tcgplayer.com/product/686505",
         "name": "Gengar (Cosmos Holo) (EB Games Exclusive)",
         "set": "Miscellaneous Cards & Products",
+        "variant": "Holofoil",
         "market_prices": [
           182.28
         ],
@@ -3555,6 +3626,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:33.222771+00:00",
+        "variant": "Holofoil",
         "total_transactions": 28,
         "total_quantity": 29,
         "weeks": [
@@ -3875,13 +3947,18 @@
       "kalshi_volume": 1587.44,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.156,
+        "ratio": 0.0,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 2,
-          "quantity": 2,
-          "dollars": 247.78
-        }
+          "week": "2026-09-14",
+          "transactions": 0,
+          "quantity": 0,
+          "dollars": 0.0
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 24.36
       }
     },
     "KXPOKEMON-26SEPSQU": {
@@ -3900,6 +3977,7 @@
         "url": "https://www.tcgplayer.com/product/89494",
         "name": "Squirtle",
         "set": "Secret Wonders",
+        "variant": "Reverse Holofoil",
         "market_prices": [
           7.87,
           29.92
@@ -3909,333 +3987,339 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:35.761081+00:00",
-        "total_transactions": 620,
-        "total_quantity": 656,
+        "variant": "Reverse Holofoil",
+        "total_transactions": 77,
+        "total_quantity": 78,
         "weeks": [
           {
             "week": "2025-09-29",
-            "transactions": 3,
-            "quantity": 3,
-            "dollars": 6.3
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3.7
           },
           {
             "week": "2025-10-06",
-            "transactions": 4,
-            "quantity": 4,
-            "dollars": 6.02
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 24.61
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 15.1
           },
           {
             "week": "2025-10-20",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 12.77
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 4.63
           },
           {
             "week": "2025-10-27",
-            "transactions": 11,
-            "quantity": 11,
-            "dollars": 16.77
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3.99
           },
           {
             "week": "2025-11-03",
-            "transactions": 8,
-            "quantity": 8,
-            "dollars": 14.43
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 5.71
           },
           {
             "week": "2025-11-10",
-            "transactions": 11,
-            "quantity": 14,
-            "dollars": 25.21
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3.61
           },
           {
             "week": "2025-11-17",
-            "transactions": 11,
-            "quantity": 11,
-            "dollars": 25.06
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 11.31
           },
           {
             "week": "2025-11-24",
-            "transactions": 2,
-            "quantity": 2,
-            "dollars": 2.68
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
-            "transactions": 6,
-            "quantity": 7,
-            "dollars": 9.8
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
-            "transactions": 14,
-            "quantity": 14,
-            "dollars": 35.66
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 17.62
           },
           {
             "week": "2025-12-15",
-            "transactions": 4,
-            "quantity": 4,
-            "dollars": 7.25
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3.17
           },
           {
             "week": "2025-12-22",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 9.42
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-29",
-            "transactions": 17,
-            "quantity": 17,
-            "dollars": 35.65
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 13.59
           },
           {
             "week": "2026-01-05",
-            "transactions": 13,
-            "quantity": 18,
-            "dollars": 24.4
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 5.92
           },
           {
             "week": "2026-01-12",
-            "transactions": 11,
-            "quantity": 21,
-            "dollars": 55.69
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 18.38
           },
           {
             "week": "2026-01-19",
-            "transactions": 10,
-            "quantity": 12,
-            "dollars": 13.74
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-26",
-            "transactions": 16,
-            "quantity": 16,
-            "dollars": 24.49
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-02-02",
-            "transactions": 11,
-            "quantity": 12,
-            "dollars": 20.49
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 6.99
           },
           {
             "week": "2026-02-09",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 14.85
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 7.22
           },
           {
             "week": "2026-02-16",
-            "transactions": 13,
-            "quantity": 13,
-            "dollars": 56.16
+            "transactions": 4,
+            "quantity": 4,
+            "dollars": 44.01
           },
           {
             "week": "2026-02-23",
-            "transactions": 8,
-            "quantity": 8,
-            "dollars": 35.81
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 29.61
           },
           {
             "week": "2026-03-02",
-            "transactions": 10,
-            "quantity": 10,
-            "dollars": 27.64
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 15.86
           },
           {
             "week": "2026-03-09",
-            "transactions": 15,
-            "quantity": 15,
-            "dollars": 32.11
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 8.14
           },
           {
             "week": "2026-03-16",
-            "transactions": 15,
-            "quantity": 15,
-            "dollars": 56.94
+            "transactions": 4,
+            "quantity": 4,
+            "dollars": 39.82
           },
           {
             "week": "2026-03-23",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 21.18
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 8.78
           },
           {
             "week": "2026-03-30",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 23.95
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 12.69
           },
           {
             "week": "2026-04-06",
-            "transactions": 12,
-            "quantity": 12,
-            "dollars": 37.61
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 21.71
           },
           {
             "week": "2026-04-13",
-            "transactions": 14,
-            "quantity": 14,
-            "dollars": 37.37
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 15.36
           },
           {
             "week": "2026-04-20",
-            "transactions": 14,
-            "quantity": 14,
-            "dollars": 27.69
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.38
           },
           {
             "week": "2026-04-27",
-            "transactions": 14,
-            "quantity": 16,
-            "dollars": 36.05
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-05-04",
-            "transactions": 13,
-            "quantity": 17,
-            "dollars": 42.78
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 11.54
           },
           {
             "week": "2026-05-11",
-            "transactions": 11,
-            "quantity": 11,
-            "dollars": 30.43
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 14.61
           },
           {
             "week": "2026-05-18",
-            "transactions": 23,
-            "quantity": 24,
-            "dollars": 101.32
+            "transactions": 6,
+            "quantity": 7,
+            "dollars": 71.35
           },
           {
             "week": "2026-05-25",
-            "transactions": 16,
-            "quantity": 19,
-            "dollars": 54.06
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 16.33
           },
           {
             "week": "2026-06-01",
-            "transactions": 12,
-            "quantity": 12,
-            "dollars": 77.01
+            "transactions": 5,
+            "quantity": 5,
+            "dollars": 64.59
           },
           {
             "week": "2026-06-08",
-            "transactions": 12,
-            "quantity": 12,
-            "dollars": 41.97
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 22.94
           },
           {
             "week": "2026-06-15",
-            "transactions": 20,
-            "quantity": 20,
-            "dollars": 54.36
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 18.87
           },
           {
             "week": "2026-06-22",
-            "transactions": 15,
-            "quantity": 15,
-            "dollars": 45.15
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-06-29",
-            "transactions": 24,
-            "quantity": 24,
-            "dollars": 67.81
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 7.03
           },
           {
             "week": "2026-07-06",
-            "transactions": 16,
-            "quantity": 16,
-            "dollars": 50.99
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 18.64
           },
           {
             "week": "2026-07-13",
-            "transactions": 14,
-            "quantity": 15,
-            "dollars": 45.5
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 6.86
           },
           {
             "week": "2026-07-20",
-            "transactions": 15,
-            "quantity": 15,
-            "dollars": 56.86
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 23.9
           },
           {
             "week": "2026-07-27",
-            "transactions": 12,
-            "quantity": 12,
-            "dollars": 36.38
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-08-03",
-            "transactions": 14,
-            "quantity": 14,
-            "dollars": 57.07
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 16.66
           },
           {
             "week": "2026-08-10",
-            "transactions": 13,
-            "quantity": 13,
-            "dollars": 57.46
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 28.86
           },
           {
             "week": "2026-08-17",
-            "transactions": 14,
-            "quantity": 15,
-            "dollars": 63.57
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 27.46
           },
           {
             "week": "2026-08-24",
-            "transactions": 17,
-            "quantity": 17,
-            "dollars": 56.86
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 7.01
           },
           {
             "week": "2026-08-31",
-            "transactions": 10,
-            "quantity": 12,
-            "dollars": 58.09
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 29.92
           },
           {
             "week": "2026-09-07",
-            "transactions": 14,
-            "quantity": 14,
-            "dollars": 74.17
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 34.52
           },
           {
             "week": "2026-09-14",
-            "transactions": 11,
-            "quantity": 11,
-            "dollars": 52.24
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 28.01
           },
           {
             "week": "2026-09-21",
-            "transactions": 11,
-            "quantity": 11,
-            "dollars": 63.58
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 24.48
           }
         ]
       },
       "kalshi_volume": 1527.12,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.042,
+        "ratio": 0.043,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 11,
-          "quantity": 11,
-          "dollars": 63.58
-        }
+          "week": "2026-09-14",
+          "transactions": 3,
+          "quantity": 3,
+          "dollars": 28.01
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 655.52
       }
     },
     "KXPOKEMON-26SEPBUL": {
@@ -4254,6 +4338,7 @@
         "url": "https://www.tcgplayer.com/product/84036",
         "name": "Bulbasaur",
         "set": "Dark Explorers",
+        "variant": "Reverse Holofoil",
         "market_prices": [
           8.45,
           31.13
@@ -4263,333 +4348,339 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:38.256437+00:00",
-        "total_transactions": 438,
-        "total_quantity": 564,
+        "variant": "Reverse Holofoil",
+        "total_transactions": 79,
+        "total_quantity": 84,
         "weeks": [
           {
             "week": "2025-09-29",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 15.27
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 4.01
           },
           {
             "week": "2025-10-06",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 24.79
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 17.07
           },
           {
             "week": "2025-10-13",
-            "transactions": 4,
-            "quantity": 4,
-            "dollars": 12.35
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 7.64
           },
           {
             "week": "2025-10-20",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 18.47
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 11.78
           },
           {
             "week": "2025-10-27",
-            "transactions": 8,
-            "quantity": 8,
-            "dollars": 19.4
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
-            "transactions": 3,
-            "quantity": 25,
-            "dollars": 73.75
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 43.81
+            "transactions": 4,
+            "quantity": 4,
+            "dollars": 34.22
           },
           {
             "week": "2025-11-17",
-            "transactions": 10,
-            "quantity": 10,
-            "dollars": 26.24
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.04
           },
           {
             "week": "2025-11-24",
-            "transactions": 11,
-            "quantity": 22,
-            "dollars": 50.43
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.47
           },
           {
             "week": "2025-12-01",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 25.62
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.3
           },
           {
             "week": "2025-12-08",
-            "transactions": 4,
-            "quantity": 4,
-            "dollars": 33.15
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 29.98
           },
           {
             "week": "2025-12-15",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 19.33
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.4
           },
           {
             "week": "2025-12-22",
-            "transactions": 3,
-            "quantity": 3,
-            "dollars": 4.75
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-29",
-            "transactions": 9,
-            "quantity": 10,
-            "dollars": 42.51
+            "transactions": 4,
+            "quantity": 4,
+            "dollars": 31.55
           },
           {
             "week": "2026-01-05",
-            "transactions": 6,
-            "quantity": 7,
-            "dollars": 18.25
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-12",
-            "transactions": 15,
-            "quantity": 18,
-            "dollars": 55.95
+            "transactions": 3,
+            "quantity": 5,
+            "dollars": 27.37
           },
           {
             "week": "2026-01-19",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 19.73
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.49
           },
           {
             "week": "2026-01-26",
-            "transactions": 10,
-            "quantity": 10,
-            "dollars": 28.66
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 13.79
           },
           {
             "week": "2026-02-02",
-            "transactions": 8,
-            "quantity": 8,
-            "dollars": 40.98
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 29.06
           },
           {
             "week": "2026-02-09",
-            "transactions": 10,
-            "quantity": 38,
-            "dollars": 108.14
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3.5
           },
           {
             "week": "2026-02-16",
-            "transactions": 14,
-            "quantity": 14,
-            "dollars": 50.73
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 21.66
           },
           {
             "week": "2026-02-23",
-            "transactions": 12,
-            "quantity": 16,
-            "dollars": 49.56
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 14.98
           },
           {
             "week": "2026-03-02",
-            "transactions": 3,
-            "quantity": 3,
-            "dollars": 14.86
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 9.84
           },
           {
             "week": "2026-03-09",
-            "transactions": 12,
-            "quantity": 19,
-            "dollars": 67.95
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 25.89
           },
           {
             "week": "2026-03-16",
-            "transactions": 16,
-            "quantity": 16,
-            "dollars": 86.85
+            "transactions": 7,
+            "quantity": 7,
+            "dollars": 64.6
           },
           {
             "week": "2026-03-23",
-            "transactions": 8,
-            "quantity": 9,
-            "dollars": 34.66
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 10.04
           },
           {
             "week": "2026-03-30",
-            "transactions": 16,
-            "quantity": 17,
-            "dollars": 52.69
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 15.8
           },
           {
             "week": "2026-04-06",
-            "transactions": 12,
-            "quantity": 20,
-            "dollars": 105.26
+            "transactions": 2,
+            "quantity": 4,
+            "dollars": 46.36
           },
           {
             "week": "2026-04-13",
-            "transactions": 11,
-            "quantity": 22,
-            "dollars": 89.52
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 28.87
           },
           {
             "week": "2026-04-20",
-            "transactions": 8,
-            "quantity": 10,
-            "dollars": 37.81
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-04-27",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 16.84
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-05-04",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 31.41
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 6.45
           },
           {
             "week": "2026-05-11",
-            "transactions": 10,
-            "quantity": 15,
-            "dollars": 80.61
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 10.45
           },
           {
             "week": "2026-05-18",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 47.59
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 17.13
           },
           {
             "week": "2026-05-25",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 49.8
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 19.42
           },
           {
             "week": "2026-06-01",
-            "transactions": 10,
-            "quantity": 10,
-            "dollars": 51.05
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 21.29
           },
           {
             "week": "2026-06-08",
-            "transactions": 12,
-            "quantity": 17,
-            "dollars": 110.71
+            "transactions": 4,
+            "quantity": 4,
+            "dollars": 63.48
           },
           {
             "week": "2026-06-15",
-            "transactions": 6,
-            "quantity": 6,
-            "dollars": 31.64
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-06-22",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 55.52
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 24.06
           },
           {
             "week": "2026-06-29",
-            "transactions": 6,
-            "quantity": 8,
-            "dollars": 55.61
+            "transactions": 2,
+            "quantity": 3,
+            "dollars": 38.07
           },
           {
             "week": "2026-07-06",
-            "transactions": 4,
-            "quantity": 5,
-            "dollars": 17.0
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-07-13",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 32.5
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-07-20",
-            "transactions": 9,
-            "quantity": 10,
-            "dollars": 53.41
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-07-27",
-            "transactions": 9,
-            "quantity": 10,
-            "dollars": 53.68
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-08-03",
-            "transactions": 4,
-            "quantity": 4,
-            "dollars": 19.46
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-08-10",
-            "transactions": 13,
-            "quantity": 22,
-            "dollars": 135.91
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 24.01
           },
           {
             "week": "2026-08-17",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 105.08
+            "transactions": 4,
+            "quantity": 4,
+            "dollars": 84.02
           },
           {
             "week": "2026-08-24",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 50.96
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 17.67
           },
           {
             "week": "2026-08-31",
-            "transactions": 12,
-            "quantity": 14,
-            "dollars": 67.55
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-09-07",
-            "transactions": 10,
-            "quantity": 10,
-            "dollars": 64.9
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 30.04
           },
           {
             "week": "2026-09-14",
-            "transactions": 9,
-            "quantity": 9,
-            "dollars": 58.94
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 21.2
           },
           {
             "week": "2026-09-21",
-            "transactions": 2,
-            "quantity": 2,
-            "dollars": 7.59
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           }
         ]
       },
       "kalshi_volume": 1071.82,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.007,
+        "ratio": 0.035,
         "week": {
-          "week": "2026-09-21",
+          "week": "2026-09-14",
           "transactions": 2,
           "quantity": 2,
-          "dollars": 7.59
-        }
+          "dollars": 21.2
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 609.27
       }
     },
     "KXPOKEMON-26SEPCHA": {
@@ -4608,6 +4699,7 @@
         "url": "https://www.tcgplayer.com/product/534483",
         "name": "Charmander - 109/091",
         "set": "SV: Paldean Fates",
+        "variant": "Holofoil",
         "market_prices": [
           41.11
         ],
@@ -4616,6 +4708,7 @@
       },
       "sales": {
         "fetched_at": "2026-09-27T04:26:40.560058+00:00",
+        "variant": "Holofoil",
         "total_transactions": 817,
         "total_quantity": 882,
         "weeks": [
@@ -4935,14 +5028,19 @@
       },
       "kalshi_volume": 806.49,
       "sales_volume": {
-        "level": "low",
-        "ratio": 0.62,
+        "level": "moderate",
+        "ratio": 2.26,
         "week": {
-          "week": "2026-09-21",
-          "transactions": 12,
-          "quantity": 12,
-          "dollars": 499.9
-        }
+          "week": "2026-09-14",
+          "transactions": 10,
+          "quantity": 10,
+          "dollars": 419.1
+        },
+        "window": {
+          "start": "2026-09-14T00:00:00+00:00",
+          "end": "2026-09-21T00:00:00+00:00"
+        },
+        "kalshi_week_volume": 185.42
       }
     }
   }

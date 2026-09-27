@@ -8,7 +8,8 @@
     "tcgplayer_market_prices": [
       358.96
     ],
-    "price_gap": "12%"
+    "price_gap": "12%",
+    "variant": "Normal"
   },
   "Celebrations Ultra Premium Collection": {
     "product_id": 245140,
@@ -19,7 +20,8 @@
     "tcgplayer_market_prices": [
       1226.14
     ],
-    "price_gap": "1%"
+    "price_gap": "1%",
+    "variant": "Normal"
   },
   "Blooming Waters Premium Collection": {
     "product_id": 609597,
@@ -30,7 +32,8 @@
     "tcgplayer_market_prices": [
       334.54
     ],
-    "price_gap": "3%"
+    "price_gap": "3%",
+    "variant": "Normal"
   },
   "151 Ultra-Premium Collection": {
     "product_id": 502005,
@@ -41,7 +44,8 @@
     "tcgplayer_market_prices": [
       880.33
     ],
-    "price_gap": "6%"
+    "price_gap": "6%",
+    "variant": "Normal"
   },
   "Charizard ex": {
     "product_id": 517045,
@@ -117,7 +121,8 @@
           41.99
         ]
       }
-    ]
+    ],
+    "variant": "Holofoil"
   },
   "Mega Charizard X ex": {
     "product_id": 659612,
@@ -184,7 +189,8 @@
           679.99
         ]
       }
-    ]
+    ],
+    "variant": "Holofoil"
   },
   "First Partner Illustration Collection (Series 1)": {
     "product_id": 673436,
@@ -195,7 +201,8 @@
     "tcgplayer_market_prices": [
       66.19
     ],
-    "price_gap": "4%"
+    "price_gap": "4%",
+    "variant": "Normal"
   },
   "Ascended Heroes Elite Trainer Box": {
     "product_id": 668496,
@@ -206,7 +213,8 @@
     "tcgplayer_market_prices": [
       150.5
     ],
-    "price_gap": "11%"
+    "price_gap": "11%",
+    "variant": "Normal"
   },
   "Perfect Order Booster Box": {
     "product_id": 672394,
@@ -217,7 +225,8 @@
     "tcgplayer_market_prices": [
       177.64
     ],
-    "price_gap": "2%"
+    "price_gap": "2%",
+    "variant": "Normal"
   },
   "Perfect Order Pokemon Center Elite Trainer Box": {
     "product_id": 672404,
@@ -228,7 +237,8 @@
     "tcgplayer_market_prices": [
       123.9
     ],
-    "price_gap": "2%"
+    "price_gap": "2%",
+    "variant": "Normal"
   },
   "Gengar (Cosmos Holo) (EB Games Exclusive)": {
     "product_id": 686505,
@@ -239,7 +249,8 @@
     "tcgplayer_market_prices": [
       182.28
     ],
-    "price_gap": "1%"
+    "price_gap": "1%",
+    "variant": "Holofoil"
   },
   "Squirtle": {
     "product_id": 89494,
@@ -319,7 +330,8 @@
           17.5
         ]
       }
-    ]
+    ],
+    "variant": "Reverse Holofoil"
   },
   "Bulbasaur": {
     "product_id": 84036,
@@ -398,7 +410,8 @@
           38.99
         ]
       }
-    ]
+    ],
+    "variant": "Reverse Holofoil"
   },
   "Charmander": {
     "product_id": 534483,
@@ -476,6 +489,7 @@
           5.2
         ]
       }
-    ]
+    ],
+    "variant": "Holofoil"
   }
 }

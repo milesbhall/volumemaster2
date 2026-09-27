@@ -7,8 +7,10 @@ market price is closest to the Kalshi strike, since Kalshi sets strikes near
 the current price.
 
 Every run re-checks each ID against today's TCGplayer price and warns when it
-is far from Kalshi's. IDs are saved in data/tcgplayer_ids.json; paste a
-different product_id there to override a match, and it will be kept.
+is far from Kalshi's. It also records the printing ("variant", e.g. Holofoil or
+Reverse Holofoil) whose price is closest to Kalshi's, so sales can be counted
+for that printing only. IDs are saved in data/tcgplayer_ids.json; paste a
+different product_id or variant there to override a match, and it will be kept.
 """
 
 import json
@@ -35,7 +37,9 @@ def load_catalog():
     """All Pokémon products with market prices, from TCGCSV (cached for a day)."""
     if CATALOG_CACHE.exists() and time.time() - CATALOG_CACHE.stat().st_mtime < REFRESH_SECONDS:
         with open(CATALOG_CACHE) as f:
-            return json.load(f)
+            catalog = json.load(f)
+        if catalog and "variant_prices" in catalog[0]:  # older caches lack per-printing prices
+            return catalog
 
     print("Downloading TCGplayer Pokémon catalog from TCGCSV (takes a minute or two)...")
     session = requests.Session()
@@ -47,17 +51,19 @@ def load_catalog():
         time.sleep(0.1)
         prices = session.get(f"{TCGCSV_URL}/{gid}/prices", timeout=30).json()["results"]
         time.sleep(0.1)
-        market = {}
+        market = {}  # productId -> {printing: market price}
         for p in prices:
             if p.get("marketPrice") is not None:
-                market.setdefault(p["productId"], []).append(p["marketPrice"])
+                market.setdefault(p["productId"], {})[p["subTypeName"]] = p["marketPrice"]
         for p in products:
+            variant_prices = market.get(p["productId"], {})
             catalog.append({
                 "product_id": p["productId"],
                 "name": p["name"],
                 "set": group["name"],
                 "url": p["url"],
-                "market_prices": market.get(p["productId"], []),
+                "market_prices": list(variant_prices.values()),
+                "variant_prices": variant_prices,
             })
 
     CATALOG_CACHE.parent.mkdir(parents=True, exist_ok=True)
@@ -76,6 +82,12 @@ def price_gap(product, price):
     if not product["market_prices"]:
         return None
     return min(abs(mp - price) for mp in product["market_prices"]) / price
+
+
+def closest_variant(product, price):
+    """The printing (e.g. "Reverse Holofoil") whose market price is closest to the Kalshi strike."""
+    variants = product["variant_prices"]
+    return min(variants, key=lambda v: abs(variants[v] - price)) if variants else None
 
 
 def match_product(name, price, catalog):
@@ -118,13 +130,15 @@ def main(products=None):
         entry["kalshi_price"] = price
         if product:
             gap = price_gap(product, price)
+            if entry.get("variant") not in product["variant_prices"]:
+                entry["variant"] = closest_variant(product, price)
             entry.update({
                 "tcgplayer_name": product["name"],
                 "set": product["set"],
                 "tcgplayer_market_prices": product["market_prices"],
                 "price_gap": None if gap is None else f"{gap:.0%}",
             })
-            label = f"{product['name']} ({product['set']})"
+            label = f"{product['name']} ({product['set']}, {entry['variant'] or 'no printing'})"
             if gap is None:
                 print(f"  [warn] {name}: {label} has no TCGplayer market price to confirm against")
             elif gap > WARN_GAP:

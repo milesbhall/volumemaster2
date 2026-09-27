@@ -94,6 +94,12 @@ def main():
     return active_products()
 
 
+def traded_volume(ticker, start_ts, end_ts):
+    """Contracts traded in one market between two Unix timestamps."""
+    trades = get_all("/markets/trades", "trades", {"ticker": ticker, "min_ts": start_ts, "max_ts": end_ts})
+    return sum(float(t["count_fp"]) for t in trades)
+
+
 def active_products():
     """{product name: strike price} for every active market in KALSHI_FILE."""
     with open(KALSHI_FILE) as f:

@@ -61,8 +61,9 @@ const weekDate = (day) => shortDate(day + "T00:00");
 
 function compareBars(event, compact) {
   const sv = event.sales_volume;
-  const kalshi = event.kalshi_volume ?? 0;
+  const kalshi = (sv ? sv.kalshi_week_volume : event.kalshi_volume) ?? 0;
   const tcg = sv ? sv.week.dollars : 0;
+  const when = sv ? `wk of ${weekDate(sv.week.week)}` : "all time";
   const max = Math.max(kalshi, tcg, 1);
   const row = (cls, label, value) =>
     h("div", { class: `bar-row ${cls}` },
@@ -70,17 +71,17 @@ function compareBars(event, compact) {
       h("div", { class: "bar-track" }, h("div", { class: "bar-fill", style: `width:${Math.max(1, (value / max) * 100)}%` })),
       h("div", { class: "bar-value" }, compact ? compactDollars(value) : dollars(value)));
   return h("div", { class: `compare${compact ? " compact" : ""}` },
-    row("kalshi", "Kalshi volume, all time", kalshi),
-    row("tcg", sv ? `TCGplayer sales, wk of ${weekDate(sv.week.week)}` : "TCGplayer sales, last week", tcg));
+    row("kalshi", `Kalshi volume, ${when}`, kalshi),
+    row("tcg", `TCGplayer sales, ${when}`, tcg));
 }
 
 function warningText(event) {
   const sv = event.sales_volume;
   const { quantity, dollars: spent } = sv.week;
   const vsKalshi = sv.ratio == null ? ""
-    : sv.ratio < 1 ? `, ${Math.round(sv.ratio * 100)}% of the Kalshi volume`
-    : `, ${sv.ratio.toFixed(1)}× the Kalshi volume`;
-  const sold = `${count(quantity)} sold on TCGplayer last week (~${dollars(spent)}${vsKalshi}).`;
+    : sv.ratio < 1 ? `, ${Math.round(sv.ratio * 100)}% of Kalshi's volume that week`
+    : `, ${sv.ratio.toFixed(1)}× Kalshi's volume that week`;
+  const sold = `${count(quantity)} sold on TCGplayer in the week of ${weekDate(sv.week.week)} (~${dollars(spent)}${vsKalshi}).`;
   if (sv.level === "low") return `${sold} With this few sales, a handful of trades can move the price this market settles on.`;
   if (sv.level === "moderate") return `${sold} Enough activity that single sales matter less, but the price can still swing.`;
   return `${sold} A busy market: the settlement price is backed by steady sales.`;
@@ -95,12 +96,14 @@ function badge(level) {
 function overviewView(overlay) {
   const rows = Object.entries(overlay.events).sort(([, a], [, b]) =>
     (LEVELS[a.sales_volume?.level]?.order ?? 3) - (LEVELS[b.sales_volume?.level]?.order ?? 3) ||
-    (b.kalshi_volume ?? 0) - (a.kalshi_volume ?? 0));
+    (b.sales_volume?.kalshi_week_volume ?? 0) - (a.sales_volume?.kalshi_week_volume ?? 0));
+  const week = Object.values(overlay.events).find((e) => e.sales_volume)?.sales_volume.week.week;
 
   return [
     h("div", { class: "legend" },
       h("span", { class: "key kalshi" }, "Kalshi volume"),
-      h("span", { class: "key tcg" }, "TCGplayer sales, last week")),
+      h("span", { class: "key tcg" }, "TCGplayer sales"),
+      week && h("span", { class: "when" }, `wk of ${weekDate(week)}`)),
     h("div", { class: "list" }, ...rows.map(([ticker, event]) =>
       h("button", { class: "row", onclick: () => choose(ticker) },
         h("div", { class: "row-head" },
@@ -118,6 +121,9 @@ function eventView(event) {
   const body = [];
 
   body.push(compareBars(event, false));
+  if (event.kalshi_volume != null) {
+    body.push(h("div", { class: "note" }, `Kalshi volume since the market opened: ${dollars(event.kalshi_volume)}`));
+  }
   if (sv) {
     body.push(h("div", { class: `warning ${sv.level}` },
       h("strong", {}, (sv.level === "low" ? "⚠ " : "") + LEVELS[sv.level].label),
@@ -135,21 +141,23 @@ function eventView(event) {
         strike != null ? ` · Kalshi strike ${money(strike)}` : "",
         tcg.price_gap ? ` (${tcg.price_gap} apart)` : ""),
     );
-    if (tcg.matched_by === "closest price") {
-      body.push(h("div", { class: "note" }, "Printing matched by price; Kalshi doesn't name the set."));
-    }
+    const notes = [];
+    if (tcg.matched_by === "closest price") notes.push("Card matched by price; Kalshi doesn't name the set.");
+    if (sales?.variant) notes.push(`Sales counted for the ${sales.variant} printing only (English, all conditions).`);
+    if (notes.length) body.push(h("div", { class: "note" }, notes.join(" ")));
   } else {
     body.push(h("div", { class: "note" }, "No TCGplayer product matched yet."));
   }
 
   if (sales && sales.weeks.length) {
     const weeks = sales.weeks;
-    const last = weeks[weeks.length - 1];
-    const recent = weeks.slice(-4);
+    // Stats use complete weeks; the newest bucket may still be in progress.
+    const fullWeek = sv ? weeks.findIndex((w) => w.week === sv.week.week) : weeks.length - 1;
+    const recent = weeks.slice(Math.max(0, fullWeek - 3), fullWeek + 1);
     const avg = recent.reduce((s, w) => s + w.quantity, 0) / recent.length;
     body.push(
       h("div", { class: "stats" },
-        stat("sold last week", count(last.quantity)),
+        stat("sold, last full wk", count(weeks[fullWeek].quantity)),
         stat("4-wk avg / wk", count(Math.round(avg))),
         stat("sold, 52 wks", count(sales.total_quantity))),
       sparkline(weeks),
@@ -213,7 +221,7 @@ function renderPanel(overlay, ticker) {
     h("div", { class: "body" },
       ...(event ? eventView(event) : overviewView(overlay)),
       h("div", { class: "footer" },
-        "Kalshi volume is contracts traded at $1 face value. TCGplayer sales are units × market price, all conditions & printings. ",
+        "Kalshi volume is contracts traded at $1 face value. TCGplayer sales are units × market price for the matched printing. Both cover the same week. ",
         `Data updated ${shortDate(overlay.generated_at)}.`)));
 }
 
@@ -310,6 +318,7 @@ const STYLES = `
   .key::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 5px; vertical-align: 0; }
   .key.kalshi::before { background: var(--kalshi); }
   .key.tcg::before { background: var(--tcg); }
+  .legend .when { margin-left: auto; }
   .list { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2px; margin: 0 -6px; }
   .row { all: unset; cursor: pointer; display: grid; grid-template-columns: minmax(0, 1fr); gap: 4px; padding: 8px 6px; border-radius: 8px; box-sizing: border-box; width: 100%; min-width: 0; }
   .row:hover { background: var(--hover); }
