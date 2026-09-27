@@ -29,6 +29,6 @@ It needs the Apify token as a repository secret named `APIFY_TOKEN` (**Settings 
 
 ## Firefox extension
 
-The extension in `extension/` loads `data/overlay.json` from this repo on GitHub and shows a panel on Kalshi Pokémon market pages.
+The extension in `extension/` loads `data/overlay.json` from this repo on GitHub and shows a panel on Kalshi's Pokémon page (https://kalshi.com/category/culture/pok-mon). The panel opens minimized on an overview of every active market; click a row to open that market.
 
 To load it: open `about:debugging#/runtime/this-firefox`, click **Load Temporary Add-on…**, and pick `extension/manifest.json`. Temporary add-ons are removed when Firefox restarts; to keep it installed, sign it as an unlisted add-on on addons.mozilla.org.

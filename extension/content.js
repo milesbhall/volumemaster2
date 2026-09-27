@@ -1,12 +1,14 @@
-// Shows TCGplayer sales data from the pipeline's overlay.json on Kalshi pages.
+// Shows TCGplayer sales data from the pipeline's overlay.json on Kalshi's Pokémon page.
 //
-// The panel stays on every Kalshi page. On a Pokémon market it shows that market;
-// elsewhere it lists all active Pokémon markets. Kalshi is a single-page app, so
-// the page is re-checked every second for navigation.
+// The panel appears only on PAGE_PATH, starting minimized on the overview of all
+// active markets; clicking a row opens that market. Kalshi is a single-page app, so
+// this script loads on all of kalshi.com and re-checks the URL every second to show
+// or hide the panel as you navigate.
 
 const DATA_URL = "https://raw.githubusercontent.com/milesbhall/volumemaster2/main/data/overlay.json";
 const DATA_MAX_AGE_MS = 30 * 60 * 1000;
 const RETRY_AFTER_MS = 60 * 1000;
+const PAGE_PATH = "/category/culture/pok-mon";
 
 const LEVELS = {
   low: { label: "Low sales volume", order: 0 },
@@ -19,8 +21,8 @@ let dataLoadedAt = 0;
 let failedAt = 0;
 let host = null;          // element holding the panel's shadow root
 let renderedKey = null;   // what the panel currently shows, to avoid redrawing every second
-let collapsed = false;    // remembered across pages and sessions
-let chosen = null;        // {href, ticker}: a market or the overview (ticker null) picked in the panel
+let collapsed = true;     // starts minimized each time the panel appears
+let chosen = null;        // ticker of the market opened in the panel; null shows the overview
 
 async function loadData() {
   if (data && Date.now() - dataLoadedAt < DATA_MAX_AGE_MS) return data;
@@ -31,19 +33,8 @@ async function loadData() {
   return data;
 }
 
-// Find the Kalshi event for this page: by ticker in the URL, else by product name on the page.
-function findEvent(events) {
-  const fromUrl = location.href.match(/kxpokemon-[a-z0-9]+/i);
-  if (fromUrl && events[fromUrl[0].toUpperCase()]) return fromUrl[0].toUpperCase();
-
-  const headings = [...document.querySelectorAll("h1, h2")].map((el) => el.textContent);
-  const pageText = [document.title, ...headings].join(" \n ").toLowerCase();
-  let best = null;
-  for (const [ticker, event] of Object.entries(events)) {
-    const name = event.product.toLowerCase();
-    if (pageText.includes(name) && (!best || name.length > events[best].product.length)) best = ticker;
-  }
-  return best;
+function onPokemonPage() {
+  return location.hostname === "kalshi.com" && location.pathname.replace(/\/+$/, "") === PAGE_PATH;
 }
 
 // Tiny element builder; all text goes through textContent.
@@ -240,19 +231,27 @@ function draw(overlay, ticker) {
 }
 
 function choose(ticker) {
-  chosen = { href: location.href, ticker };
+  chosen = ticker;
   renderedKey = null;
   check();
 }
 
 function setCollapsed(value) {
   collapsed = value;
-  browser.storage.local.set({ collapsed }).catch(() => {});
   renderedKey = null;
   check();
 }
 
 async function check() {
+  if (!onPokemonPage()) {
+    // Leaving the page resets the panel, so it reopens minimized on the overview.
+    if (host) {
+      removePanel();
+      collapsed = true;
+      chosen = null;
+    }
+    return;
+  }
   if (Date.now() - failedAt < RETRY_AFTER_MS) return;
   let overlay;
   try {
@@ -263,14 +262,18 @@ async function check() {
     return;
   }
 
-  // A market picked in the panel wins until the page changes; then follow the page.
-  if (chosen && chosen.href !== location.href) chosen = null;
-  const ticker = chosen ? chosen.ticker : findEvent(overlay.events);
-
-  const key = [location.href, ticker, collapsed, overlay.generated_at].join("|");
+  if (!onPokemonPage()) return; // navigated away while the data was loading
+  const ticker = chosen && overlay.events[chosen] ? chosen : null;
+  const key = [ticker, collapsed, overlay.generated_at].join("|");
   if (key === renderedKey && host?.isConnected) return;
   draw(overlay, ticker);
   renderedKey = key;
+}
+
+function removePanel() {
+  host?.remove();
+  host = null;
+  renderedKey = null;
 }
 
 const STYLES = `
@@ -352,10 +355,5 @@ const STYLES = `
   .footer { border-top: 1px solid var(--border); padding-top: 8px; font-size: 11px; }
 `;
 
-browser.storage.local.get("collapsed")
-  .then((saved) => { collapsed = Boolean(saved.collapsed); })
-  .catch(() => {})
-  .finally(() => {
-    check();
-    setInterval(check, 1000);
-  });
+check();
+setInterval(check, 1000);

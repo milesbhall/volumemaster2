@@ -1,25 +1,21 @@
 {
   "manifest_version": 3,
   "name": "volumemaster2",
-  "version": "0.2.0",
-  "description": "Shows TCGplayer sales volume on Kalshi's Pok\u00e9mon price markets.",
+  "version": "0.3.0",
+  "description": "Shows TCGplayer sales volume on Kalshi's Pok\u00e9mon markets page.",
   "browser_specific_settings": {
     "gecko": {
       "id": "volumemaster2@milesbhall.github.io",
       "strict_min_version": "115.0"
     }
   },
-  "permissions": [
-    "storage"
-  ],
   "host_permissions": [
     "https://raw.githubusercontent.com/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://kalshi.com/*",
-        "https://*.kalshi.com/*"
+        "https://kalshi.com/*"
       ],
       "js": [
         "content.js"
