@@ -6,7 +6,7 @@
     "tcgplayer_name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      358.96
+      358.13
     ],
     "price_gap": "12%",
     "variant": "Normal"
@@ -30,7 +30,7 @@
     "tcgplayer_name": "Blooming Waters Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      334.54
+      335.74
     ],
     "price_gap": "3%",
     "variant": "Normal"
@@ -42,9 +42,9 @@
     "tcgplayer_name": "151 Ultra-Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      880.33
+      881.05
     ],
-    "price_gap": "6%",
+    "price_gap": "5%",
     "variant": "Normal"
   },
   "Charizard ex": {
@@ -54,9 +54,9 @@
     "tcgplayer_name": "Charizard ex - 199/165",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      346.31
+      348.31
     ],
-    "price_gap": "5%",
+    "price_gap": "4%",
     "other_candidates": [
       {
         "product_id": 91238,
@@ -131,9 +131,9 @@
     "tcgplayer_name": "Mega Charizard X ex - 023",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      27.14
+      27.64
     ],
-    "price_gap": "21%",
+    "price_gap": "19%",
     "other_candidates": [
       {
         "product_id": 662183,
@@ -199,9 +199,9 @@
     "tcgplayer_name": "First Partner Illustration Collection (Series 1)",
     "set": "First Partner Collection 2026",
     "tcgplayer_market_prices": [
-      66.19
+      65.04
     ],
-    "price_gap": "4%",
+    "price_gap": "5%",
     "variant": "Normal"
   },
   "Ascended Heroes Elite Trainer Box": {
@@ -211,9 +211,9 @@
     "tcgplayer_name": "Ascended Heroes Elite Trainer Box",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      150.5
+      151.75
     ],
-    "price_gap": "11%",
+    "price_gap": "10%",
     "variant": "Normal"
   },
   "Perfect Order Booster Box": {
@@ -223,9 +223,9 @@
     "tcgplayer_name": "Perfect Order Booster Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      177.64
+      176.28
     ],
-    "price_gap": "2%",
+    "price_gap": "1%",
     "variant": "Normal"
   },
   "Perfect Order Pokemon Center Elite Trainer Box": {
@@ -235,7 +235,7 @@
     "tcgplayer_name": "Perfect Order Pokemon Center Elite Trainer Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      123.9
+      123.39
     ],
     "price_gap": "2%",
     "variant": "Normal"
@@ -259,7 +259,7 @@
     "tcgplayer_name": "Squirtle",
     "set": "Secret Wonders",
     "tcgplayer_market_prices": [
-      7.87,
+      8.08,
       29.92
     ],
     "price_gap": "8%",
@@ -420,7 +420,7 @@
     "tcgplayer_name": "Charmander - 109/091",
     "set": "SV: Paldean Fates",
     "tcgplayer_market_prices": [
-      41.11
+      41.23
     ],
     "price_gap": "3%",
     "other_candidates": [

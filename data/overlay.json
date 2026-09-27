@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:48:16.934022+00:00",
+  "generated_at": "2026-09-27T23:28:08.237522+00:00",
   "events": {
     "KXPOKEMON-26SEPASCHERPO": {
       "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
@@ -9,7 +9,7 @@
           "strike": 407.86,
           "yes_price": 0.12,
           "no_price": 0.93,
-          "volume": 4866.52,
+          "volume": 4958.69,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -21,7 +21,7 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          358.96
+          358.13
         ],
         "price_gap": "12%",
         "matched_by": "exact name"
@@ -346,7 +346,7 @@
           }
         ]
       },
-      "kalshi_volume": 4866.52,
+      "kalshi_volume": 4958.69,
       "sales_volume": {
         "level": "moderate",
         "ratio": 4.573,
@@ -370,9 +370,9 @@
         {
           "ticker": "KXPOKEMON-26SEPCELULTPR-1237.81",
           "strike": 1237.81,
-          "yes_price": 0.32,
-          "no_price": 0.74,
-          "volume": 4535.54,
+          "yes_price": 0.21,
+          "no_price": 0.97,
+          "volume": 4970.72,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -709,7 +709,7 @@
           }
         ]
       },
-      "kalshi_volume": 4535.54,
+      "kalshi_volume": 4970.72,
       "sales_volume": {
         "level": "low",
         "ratio": 1.666,
@@ -747,7 +747,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          334.54
+          335.74
         ],
         "price_gap": "3%",
         "matched_by": "exact name"
@@ -1110,9 +1110,9 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          880.33
+          881.05
         ],
-        "price_gap": "6%",
+        "price_gap": "5%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -1459,9 +1459,9 @@
         {
           "ticker": "KXPOKEMON-26SEPCHAEX-364.08",
           "strike": 364.08,
-          "yes_price": 0.15,
-          "no_price": 0.93,
-          "volume": 1949.32,
+          "yes_price": 0.1,
+          "no_price": 0.97,
+          "volume": 2156.71,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -1473,9 +1473,9 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Holofoil",
         "market_prices": [
-          346.31
+          348.31
         ],
-        "price_gap": "5%",
+        "price_gap": "4%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -1798,7 +1798,7 @@
           }
         ]
       },
-      "kalshi_volume": 1949.32,
+      "kalshi_volume": 2156.71,
       "sales_volume": {
         "level": "high",
         "ratio": 22.59,
@@ -1836,9 +1836,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          27.14
+          27.64
         ],
-        "price_gap": "21%",
+        "price_gap": "19%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -2199,9 +2199,9 @@
         "set": "First Partner Collection 2026",
         "variant": "Normal",
         "market_prices": [
-          66.19
+          65.04
         ],
-        "price_gap": "4%",
+        "price_gap": "5%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -2548,9 +2548,9 @@
         {
           "ticker": "KXPOKEMON-26SEPASCHEREL-169.14",
           "strike": 169.14,
-          "yes_price": 0.12,
-          "no_price": 0.95,
-          "volume": 4109.0,
+          "yes_price": 0.14,
+          "no_price": 0.92,
+          "volume": 4179.28,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -2562,9 +2562,9 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          150.5
+          151.75
         ],
-        "price_gap": "11%",
+        "price_gap": "10%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -2887,7 +2887,7 @@
           }
         ]
       },
-      "kalshi_volume": 4109.0,
+      "kalshi_volume": 4179.28,
       "sales_volume": {
         "level": "high",
         "ratio": 20.541,
@@ -2911,9 +2911,9 @@
         {
           "ticker": "KXPOKEMON-26SEPPERORDBO-174.14",
           "strike": 174.14,
-          "yes_price": 0.88,
+          "yes_price": 0.87,
           "no_price": 0.2,
-          "volume": 1965.91,
+          "volume": 2007.61,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -2925,9 +2925,9 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          177.64
+          176.28
         ],
-        "price_gap": "2%",
+        "price_gap": "1%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -3250,7 +3250,7 @@
           }
         ]
       },
-      "kalshi_volume": 1965.91,
+      "kalshi_volume": 2007.61,
       "sales_volume": {
         "level": "high",
         "ratio": 29.792,
@@ -3274,9 +3274,9 @@
         {
           "ticker": "KXPOKEMON-26SEPPERORDPO-121.39",
           "strike": 121.39,
-          "yes_price": 0.85,
+          "yes_price": 0.86,
           "no_price": 0.2,
-          "volume": 6294.78,
+          "volume": 6308.58,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -3288,7 +3288,7 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          123.9
+          123.39
         ],
         "price_gap": "2%",
         "matched_by": "exact name"
@@ -3613,7 +3613,7 @@
           }
         ]
       },
-      "kalshi_volume": 6294.78,
+      "kalshi_volume": 6308.58,
       "sales_volume": {
         "level": "moderate",
         "ratio": 1.452,
@@ -3637,9 +3637,9 @@
         {
           "ticker": "KXPOKEMON-26SEPGENCOSHO-183.5",
           "strike": 183.5,
-          "yes_price": 0.77,
-          "no_price": 0.59,
-          "volume": 1587.44,
+          "yes_price": 0.78,
+          "no_price": 0.6,
+          "volume": 1588.44,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -3976,7 +3976,7 @@
           }
         ]
       },
-      "kalshi_volume": 1587.44,
+      "kalshi_volume": 1588.44,
       "sales_volume": {
         "level": "low",
         "ratio": 0.504,
@@ -4014,7 +4014,7 @@
         "set": "Secret Wonders",
         "variant": "Reverse Holofoil",
         "market_prices": [
-          7.87,
+          8.08,
           29.92
         ],
         "price_gap": "8%",
@@ -4365,8 +4365,8 @@
           "ticker": "KXPOKEMON-26SEPBUL-28.81",
           "strike": 28.81,
           "yes_price": 0.14,
-          "no_price": 0.94,
-          "volume": 1071.82,
+          "no_price": 0.93,
+          "volume": 1073.93,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -4704,7 +4704,7 @@
           }
         ]
       },
-      "kalshi_volume": 1071.82,
+      "kalshi_volume": 1073.93,
       "sales_volume": {
         "level": "low",
         "ratio": 0.048,
@@ -4728,9 +4728,9 @@
         {
           "ticker": "KXPOKEMON-26SEPCHA-39.87",
           "strike": 39.87,
-          "yes_price": 0.11,
+          "yes_price": 0.1,
           "no_price": 0.97,
-          "volume": 806.49,
+          "volume": 845.76,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -4742,7 +4742,7 @@
         "set": "SV: Paldean Fates",
         "variant": "Holofoil",
         "market_prices": [
-          41.11
+          41.23
         ],
         "price_gap": "3%",
         "matched_by": "closest price"
@@ -5067,7 +5067,7 @@
           }
         ]
       },
-      "kalshi_volume": 806.49,
+      "kalshi_volume": 845.76,
       "sales_volume": {
         "level": "moderate",
         "ratio": 2.033,
