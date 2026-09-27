@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:43:16.299096+00:00",
+  "generated_at": "2026-09-27T05:13:57.145686+00:00",
   "events": {
     "KXPOKEMON-26SEPASCHERPO": {
       "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
@@ -31,264 +31,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-17",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-15",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-22",
             "transactions": 9,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 4633.68
           },
           {
             "week": "2025-12-29",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 2702.84
           },
           {
             "week": "2026-01-05",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 760.56
           },
           {
             "week": "2026-01-12",
             "transactions": 20,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 7104.68
           },
           {
             "week": "2026-01-19",
             "transactions": 25,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 10370.4
           },
           {
             "week": "2026-01-26",
             "transactions": 20,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 8664.25
           },
           {
             "week": "2026-02-02",
             "transactions": 22,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 8496.25
           },
           {
             "week": "2026-02-09",
             "transactions": 22,
-            "quantity": 29
+            "quantity": 29,
+            "dollars": 10051.4
           },
           {
             "week": "2026-02-16",
             "transactions": 413,
-            "quantity": 538
+            "quantity": 538,
+            "dollars": 129754.84
           },
           {
             "week": "2026-02-23",
             "transactions": 188,
-            "quantity": 223
+            "quantity": 223,
+            "dollars": 65994.62
           },
           {
             "week": "2026-03-02",
             "transactions": 103,
-            "quantity": 135
+            "quantity": 135,
+            "dollars": 43407.9
           },
           {
             "week": "2026-03-09",
             "transactions": 75,
-            "quantity": 83
+            "quantity": 83,
+            "dollars": 27277.95
           },
           {
             "week": "2026-03-16",
             "transactions": 74,
-            "quantity": 85
+            "quantity": 85,
+            "dollars": 32843.15
           },
           {
             "week": "2026-03-23",
             "transactions": 46,
-            "quantity": 57
+            "quantity": 57,
+            "dollars": 21878.88
           },
           {
             "week": "2026-03-30",
             "transactions": 53,
-            "quantity": 58
+            "quantity": 58,
+            "dollars": 22941.9
           },
           {
             "week": "2026-04-06",
             "transactions": 50,
-            "quantity": 62
+            "quantity": 62,
+            "dollars": 26918.54
           },
           {
             "week": "2026-04-13",
             "transactions": 49,
-            "quantity": 54
+            "quantity": 54,
+            "dollars": 24963.66
           },
           {
             "week": "2026-04-20",
             "transactions": 35,
-            "quantity": 47
+            "quantity": 47,
+            "dollars": 21207.81
           },
           {
             "week": "2026-04-27",
             "transactions": 31,
-            "quantity": 39
+            "quantity": 39,
+            "dollars": 19039.41
           },
           {
             "week": "2026-05-04",
             "transactions": 29,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 16991.37
           },
           {
             "week": "2026-05-11",
             "transactions": 23,
-            "quantity": 26
+            "quantity": 26,
+            "dollars": 13558.22
           },
           {
             "week": "2026-05-18",
             "transactions": 25,
-            "quantity": 28
+            "quantity": 28,
+            "dollars": 14555.8
           },
           {
             "week": "2026-05-25",
             "transactions": 28,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 15477.9
           },
           {
             "week": "2026-06-01",
             "transactions": 18,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 10993.29
           },
           {
             "week": "2026-06-08",
             "transactions": 20,
-            "quantity": 20
+            "quantity": 20,
+            "dollars": 9960.8
           },
           {
             "week": "2026-06-15",
             "transactions": 18,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 9607.29
           },
           {
             "week": "2026-06-22",
             "transactions": 16,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 8332.38
           },
           {
             "week": "2026-06-29",
             "transactions": 17,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 9937.2
           },
           {
             "week": "2026-07-06",
             "transactions": 16,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 7867.09
           },
           {
             "week": "2026-07-13",
             "transactions": 9,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 5073.31
           },
           {
             "week": "2026-07-20",
             "transactions": 7,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 4992.13
           },
           {
             "week": "2026-07-27",
             "transactions": 24,
-            "quantity": 31
+            "quantity": 31,
+            "dollars": 12907.16
           },
           {
             "week": "2026-08-03",
             "transactions": 15,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 10896.75
           },
           {
             "week": "2026-08-10",
             "transactions": 15,
-            "quantity": 23
+            "quantity": 23,
+            "dollars": 9797.31
           },
           {
             "week": "2026-08-17",
             "transactions": 14,
-            "quantity": 20
+            "quantity": 20,
+            "dollars": 8276.4
           },
           {
             "week": "2026-08-24",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 3678.21
           },
           {
             "week": "2026-08-31",
             "transactions": 12,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 5509.42
           },
           {
             "week": "2026-09-07",
             "transactions": 16,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 6098.08
           },
           {
             "week": "2026-09-14",
             "transactions": 21,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 9135.75
           },
           {
             "week": "2026-09-21",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 3939.43
           }
         ]
+      },
+      "kalshi_volume": 4866.52,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.809,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 11,
+          "quantity": 11,
+          "dollars": 3939.43
+        }
       }
     },
     "KXPOKEMON-26SEPCELULTPR": {
@@ -321,264 +384,327 @@
           {
             "week": "2025-09-29",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2630.85
           },
           {
             "week": "2025-10-06",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 1771.32
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 1789.96
           },
           {
             "week": "2025-10-27",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2717.1
           },
           {
             "week": "2025-11-03",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 6335.98
           },
           {
             "week": "2025-11-10",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2708.7
           },
           {
             "week": "2025-11-17",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 901.62
           },
           {
             "week": "2025-11-24",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 5254.68
           },
           {
             "week": "2025-12-01",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 6659.12
           },
           {
             "week": "2025-12-08",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 5782.49
           },
           {
             "week": "2025-12-15",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 3265.56
           },
           {
             "week": "2025-12-22",
             "transactions": 8,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 8156.0
           },
           {
             "week": "2025-12-29",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 6573.92
           },
           {
             "week": "2026-01-05",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 4959.72
           },
           {
             "week": "2026-01-12",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 5869.85
           },
           {
             "week": "2026-01-19",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 7880.31
           },
           {
             "week": "2026-01-26",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2645.61
           },
           {
             "week": "2026-02-02",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2687.19
           },
           {
             "week": "2026-02-09",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 4557.7
           },
           {
             "week": "2026-02-16",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2772.36
           },
           {
             "week": "2026-02-23",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 6662.81
           },
           {
             "week": "2026-03-02",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 2861.13
           },
           {
             "week": "2026-03-09",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 4811.15
           },
           {
             "week": "2026-03-16",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 4879.15
           },
           {
             "week": "2026-03-23",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 973.51
           },
           {
             "week": "2026-03-30",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 6963.04
           },
           {
             "week": "2026-04-06",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 3048.72
           },
           {
             "week": "2026-04-13",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 4174.72
           },
           {
             "week": "2026-04-20",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 6561.18
           },
           {
             "week": "2026-04-27",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 10608.21
           },
           {
             "week": "2026-05-04",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2390.46
           },
           {
             "week": "2026-05-11",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 8596.0
           },
           {
             "week": "2026-05-18",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 3758.16
           },
           {
             "week": "2026-05-25",
             "transactions": 2,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 3808.56
           },
           {
             "week": "2026-06-01",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 3846.75
           },
           {
             "week": "2026-06-08",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 5189.64
           },
           {
             "week": "2026-06-15",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-06-22",
             "transactions": 5,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 7809.72
           },
           {
             "week": "2026-06-29",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2612.16
           },
           {
             "week": "2026-07-06",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 3949.2
           },
           {
             "week": "2026-07-13",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 5274.56
           },
           {
             "week": "2026-07-20",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 5196.76
           },
           {
             "week": "2026-07-27",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2597.26
           },
           {
             "week": "2026-08-03",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 7684.74
           },
           {
             "week": "2026-08-10",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 3822.81
           },
           {
             "week": "2026-08-17",
             "transactions": 7,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 11241.45
           },
           {
             "week": "2026-08-24",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2481.06
           },
           {
             "week": "2026-08-31",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2478.02
           },
           {
             "week": "2026-09-07",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2480.02
           },
           {
             "week": "2026-09-14",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 1236.93
           },
           {
             "week": "2026-09-21",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2452.28
           }
         ]
+      },
+      "kalshi_volume": 4535.54,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.541,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 2,
+          "quantity": 2,
+          "dollars": 2452.28
+        }
       }
     },
     "KXPOKEMON-26SEPBLOWATPR": {
@@ -611,264 +737,327 @@
           {
             "week": "2025-09-29",
             "transactions": 27,
-            "quantity": 55
+            "quantity": 55,
+            "dollars": 9890.65
           },
           {
             "week": "2025-10-06",
             "transactions": 21,
-            "quantity": 31
+            "quantity": 31,
+            "dollars": 5585.27
           },
           {
             "week": "2025-10-13",
             "transactions": 12,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 2740.05
           },
           {
             "week": "2025-10-20",
             "transactions": 19,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 4031.94
           },
           {
             "week": "2025-10-27",
             "transactions": 24,
-            "quantity": 41
+            "quantity": 41,
+            "dollars": 6983.53
           },
           {
             "week": "2025-11-03",
             "transactions": 21,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 3968.36
           },
           {
             "week": "2025-11-10",
             "transactions": 14,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 2979.59
           },
           {
             "week": "2025-11-17",
             "transactions": 20,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 3863.86
           },
           {
             "week": "2025-11-24",
             "transactions": 31,
-            "quantity": 43
+            "quantity": 43,
+            "dollars": 7543.06
           },
           {
             "week": "2025-12-01",
             "transactions": 34,
-            "quantity": 42
+            "quantity": 42,
+            "dollars": 7143.78
           },
           {
             "week": "2025-12-08",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 2468.06
           },
           {
             "week": "2025-12-15",
             "transactions": 15,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 2873.44
           },
           {
             "week": "2025-12-22",
             "transactions": 13,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 3053.37
           },
           {
             "week": "2025-12-29",
             "transactions": 33,
-            "quantity": 40
+            "quantity": 40,
+            "dollars": 7264.0
           },
           {
             "week": "2026-01-05",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 2228.76
           },
           {
             "week": "2026-01-12",
             "transactions": 18,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 4647.6
           },
           {
             "week": "2026-01-19",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 2370.96
           },
           {
             "week": "2026-01-26",
             "transactions": 16,
-            "quantity": 28
+            "quantity": 28,
+            "dollars": 5631.64
           },
           {
             "week": "2026-02-02",
             "transactions": 20,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 4963.44
           },
           {
             "week": "2026-02-09",
             "transactions": 14,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 3449.6
           },
           {
             "week": "2026-02-16",
             "transactions": 24,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 7041.6
           },
           {
             "week": "2026-02-23",
             "transactions": 22,
-            "quantity": 29
+            "quantity": 29,
+            "dollars": 7394.42
           },
           {
             "week": "2026-03-02",
             "transactions": 21,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 6750.24
           },
           {
             "week": "2026-03-09",
             "transactions": 24,
-            "quantity": 27
+            "quantity": 27,
+            "dollars": 8224.2
           },
           {
             "week": "2026-03-16",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 3160.8
           },
           {
             "week": "2026-03-23",
             "transactions": 15,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 5492.36
           },
           {
             "week": "2026-03-30",
             "transactions": 7,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 5193.12
           },
           {
             "week": "2026-04-06",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 3625.71
           },
           {
             "week": "2026-04-13",
             "transactions": 13,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 4556.44
           },
           {
             "week": "2026-04-20",
             "transactions": 9,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 3266.7
           },
           {
             "week": "2026-04-27",
             "transactions": 22,
-            "quantity": 23
+            "quantity": 23,
+            "dollars": 7725.93
           },
           {
             "week": "2026-05-04",
             "transactions": 22,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 10834.5
           },
           {
             "week": "2026-05-11",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 2809.12
           },
           {
             "week": "2026-05-18",
             "transactions": 10,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 3789.39
           },
           {
             "week": "2026-05-25",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 2449.09
           },
           {
             "week": "2026-06-01",
             "transactions": 15,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 5500.0
           },
           {
             "week": "2026-06-08",
             "transactions": 12,
-            "quantity": 18
+            "quantity": 18,
+            "dollars": 6195.24
           },
           {
             "week": "2026-06-15",
             "transactions": 10,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 4179.84
           },
           {
             "week": "2026-06-22",
             "transactions": 38,
-            "quantity": 46
+            "quantity": 46,
+            "dollars": 18453.82
           },
           {
             "week": "2026-06-29",
             "transactions": 7,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 3591.09
           },
           {
             "week": "2026-07-06",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 2710.19
           },
           {
             "week": "2026-07-13",
             "transactions": 8,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 3990.25
           },
           {
             "week": "2026-07-20",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 3454.9
           },
           {
             "week": "2026-07-27",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 3927.48
           },
           {
             "week": "2026-08-03",
             "transactions": 11,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 5447.31
           },
           {
             "week": "2026-08-10",
             "transactions": 11,
-            "quantity": 19
+            "quantity": 19,
+            "dollars": 6243.4
           },
           {
             "week": "2026-08-17",
             "transactions": 10,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 4288.57
           },
           {
             "week": "2026-08-24",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 3915.72
           },
           {
             "week": "2026-08-31",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 1957.8
           },
           {
             "week": "2026-09-07",
             "transactions": 8,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 2939.4
           },
           {
             "week": "2026-09-14",
             "transactions": 10,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 4698.68
           },
           {
             "week": "2026-09-21",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 669.08
           }
         ]
+      },
+      "kalshi_volume": 1400.27,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.478,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 2,
+          "quantity": 2,
+          "dollars": 669.08
+        }
       }
     },
     "KXPOKEMON-26SEP151ULTCO": {
@@ -901,264 +1090,327 @@
           {
             "week": "2025-09-29",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 7454.76
           },
           {
             "week": "2025-10-06",
             "transactions": 9,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 6139.1
           },
           {
             "week": "2025-10-13",
             "transactions": 16,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 10156.99
           },
           {
             "week": "2025-10-20",
             "transactions": 7,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 4776.72
           },
           {
             "week": "2025-10-27",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 8395.24
           },
           {
             "week": "2025-11-03",
             "transactions": 4,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 2979.9
           },
           {
             "week": "2025-11-10",
             "transactions": 8,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 5284.44
           },
           {
             "week": "2025-11-17",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 5120.28
           },
           {
             "week": "2025-11-24",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 7394.27
           },
           {
             "week": "2025-12-01",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 6868.44
           },
           {
             "week": "2025-12-08",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 8124.06
           },
           {
             "week": "2025-12-15",
             "transactions": 8,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 5334.75
           },
           {
             "week": "2025-12-22",
             "transactions": 14,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 10040.71
           },
           {
             "week": "2025-12-29",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 8913.45
           },
           {
             "week": "2026-01-05",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 6536.86
           },
           {
             "week": "2026-01-12",
             "transactions": 14,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 9057.45
           },
           {
             "week": "2026-01-19",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 8926.05
           },
           {
             "week": "2026-01-26",
             "transactions": 18,
-            "quantity": 18
+            "quantity": 18,
+            "dollars": 10859.94
           },
           {
             "week": "2026-02-02",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 5724.81
           },
           {
             "week": "2026-02-09",
             "transactions": 9,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 7250.87
           },
           {
             "week": "2026-02-16",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 8998.73
           },
           {
             "week": "2026-02-23",
             "transactions": 23,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 18817.0
           },
           {
             "week": "2026-03-02",
             "transactions": 25,
-            "quantity": 38
+            "quantity": 38,
+            "dollars": 32431.48
           },
           {
             "week": "2026-03-09",
             "transactions": 33,
-            "quantity": 41
+            "quantity": 41,
+            "dollars": 42319.38
           },
           {
             "week": "2026-03-16",
             "transactions": 20,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 21222.81
           },
           {
             "week": "2026-03-23",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 12228.06
           },
           {
             "week": "2026-03-30",
             "transactions": 29,
-            "quantity": 36
+            "quantity": 36,
+            "dollars": 35069.4
           },
           {
             "week": "2026-04-06",
             "transactions": 5,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 7933.12
           },
           {
             "week": "2026-04-13",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 3992.92
           },
           {
             "week": "2026-04-20",
             "transactions": 15,
-            "quantity": 29
+            "quantity": 29,
+            "dollars": 27678.18
           },
           {
             "week": "2026-04-27",
             "transactions": 23,
-            "quantity": 34
+            "quantity": 34,
+            "dollars": 32950.76
           },
           {
             "week": "2026-05-04",
             "transactions": 74,
-            "quantity": 77
+            "quantity": 77,
+            "dollars": 98959.63
           },
           {
             "week": "2026-05-11",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 8456.98
           },
           {
             "week": "2026-05-18",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 7519.8
           },
           {
             "week": "2026-05-25",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 10443.6
           },
           {
             "week": "2026-06-01",
             "transactions": 9,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 10742.7
           },
           {
             "week": "2026-06-08",
             "transactions": 8,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 14367.22
           },
           {
             "week": "2026-06-15",
             "transactions": 13,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 16681.76
           },
           {
             "week": "2026-06-22",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 7653.68
           },
           {
             "week": "2026-06-29",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 12248.21
           },
           {
             "week": "2026-07-06",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 5518.14
           },
           {
             "week": "2026-07-13",
             "transactions": 10,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 11152.8
           },
           {
             "week": "2026-07-20",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 4595.75
           },
           {
             "week": "2026-07-27",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 12184.25
           },
           {
             "week": "2026-08-03",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 7427.28
           },
           {
             "week": "2026-08-10",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 11258.52
           },
           {
             "week": "2026-08-17",
             "transactions": 8,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 8400.33
           },
           {
             "week": "2026-08-24",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 4657.05
           },
           {
             "week": "2026-08-31",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 3727.28
           },
           {
             "week": "2026-09-07",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 7369.36
           },
           {
             "week": "2026-09-14",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 6852.24
           },
           {
             "week": "2026-09-21",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 5281.98
           }
         ]
+      },
+      "kalshi_volume": 4076.02,
+      "sales_volume": {
+        "level": "moderate",
+        "ratio": 1.296,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 6,
+          "quantity": 6,
+          "dollars": 5281.98
+        }
       }
     },
     "KXPOKEMON-26SEPCHAEX": {
@@ -1191,264 +1443,327 @@
           {
             "week": "2025-09-29",
             "transactions": 38,
-            "quantity": 40
+            "quantity": 40,
+            "dollars": 10995.35
           },
           {
             "week": "2025-10-06",
             "transactions": 59,
-            "quantity": 63
+            "quantity": 63,
+            "dollars": 17709.82
           },
           {
             "week": "2025-10-13",
             "transactions": 23,
-            "quantity": 23
+            "quantity": 23,
+            "dollars": 6080.6
           },
           {
             "week": "2025-10-20",
             "transactions": 26,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 7533.93
           },
           {
             "week": "2025-10-27",
             "transactions": 72,
-            "quantity": 76
+            "quantity": 76,
+            "dollars": 19558.23
           },
           {
             "week": "2025-11-03",
             "transactions": 35,
-            "quantity": 35
+            "quantity": 35,
+            "dollars": 8660.24
           },
           {
             "week": "2025-11-10",
             "transactions": 29,
-            "quantity": 29
+            "quantity": 29,
+            "dollars": 6474.32
           },
           {
             "week": "2025-11-17",
             "transactions": 65,
-            "quantity": 71
+            "quantity": 71,
+            "dollars": 17089.23
           },
           {
             "week": "2025-11-24",
             "transactions": 89,
-            "quantity": 90
+            "quantity": 90,
+            "dollars": 21541.45
           },
           {
             "week": "2025-12-01",
             "transactions": 51,
-            "quantity": 52
+            "quantity": 52,
+            "dollars": 11885.33
           },
           {
             "week": "2025-12-08",
             "transactions": 71,
-            "quantity": 87
+            "quantity": 87,
+            "dollars": 20631.24
           },
           {
             "week": "2025-12-15",
             "transactions": 62,
-            "quantity": 67
+            "quantity": 67,
+            "dollars": 16255.81
           },
           {
             "week": "2025-12-22",
             "transactions": 35,
-            "quantity": 35
+            "quantity": 35,
+            "dollars": 8475.6
           },
           {
             "week": "2025-12-29",
             "transactions": 54,
-            "quantity": 55
+            "quantity": 55,
+            "dollars": 12910.42
           },
           {
             "week": "2026-01-05",
             "transactions": 31,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 8274.76
           },
           {
             "week": "2026-01-12",
             "transactions": 37,
-            "quantity": 39
+            "quantity": 39,
+            "dollars": 9353.11
           },
           {
             "week": "2026-01-19",
             "transactions": 46,
-            "quantity": 50
+            "quantity": 50,
+            "dollars": 12599.0
           },
           {
             "week": "2026-01-26",
             "transactions": 42,
-            "quantity": 42
+            "quantity": 42,
+            "dollars": 10310.01
           },
           {
             "week": "2026-02-02",
             "transactions": 24,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 6078.86
           },
           {
             "week": "2026-02-09",
             "transactions": 31,
-            "quantity": 31
+            "quantity": 31,
+            "dollars": 8235.23
           },
           {
             "week": "2026-02-16",
             "transactions": 67,
-            "quantity": 69
+            "quantity": 69,
+            "dollars": 19148.75
           },
           {
             "week": "2026-02-23",
             "transactions": 83,
-            "quantity": 85
+            "quantity": 85,
+            "dollars": 28665.05
           },
           {
             "week": "2026-03-02",
             "transactions": 91,
-            "quantity": 98
+            "quantity": 98,
+            "dollars": 43764.49
           },
           {
             "week": "2026-03-09",
             "transactions": 75,
-            "quantity": 86
+            "quantity": 86,
+            "dollars": 37777.74
           },
           {
             "week": "2026-03-16",
             "transactions": 40,
-            "quantity": 40
+            "quantity": 40,
+            "dollars": 16661.02
           },
           {
             "week": "2026-03-23",
             "transactions": 51,
-            "quantity": 52
+            "quantity": 52,
+            "dollars": 20313.21
           },
           {
             "week": "2026-03-30",
             "transactions": 39,
-            "quantity": 39
+            "quantity": 39,
+            "dollars": 15547.16
           },
           {
             "week": "2026-04-06",
             "transactions": 25,
-            "quantity": 27
+            "quantity": 27,
+            "dollars": 11309.46
           },
           {
             "week": "2026-04-13",
             "transactions": 36,
-            "quantity": 36
+            "quantity": 36,
+            "dollars": 15175.16
           },
           {
             "week": "2026-04-20",
             "transactions": 44,
-            "quantity": 45
+            "quantity": 45,
+            "dollars": 19028.62
           },
           {
             "week": "2026-04-27",
             "transactions": 27,
-            "quantity": 28
+            "quantity": 28,
+            "dollars": 11556.98
           },
           {
             "week": "2026-05-04",
             "transactions": 49,
-            "quantity": 50
+            "quantity": 50,
+            "dollars": 21760.68
           },
           {
             "week": "2026-05-11",
             "transactions": 22,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 9637.06
           },
           {
             "week": "2026-05-18",
             "transactions": 46,
-            "quantity": 52
+            "quantity": 52,
+            "dollars": 24618.86
           },
           {
             "week": "2026-05-25",
             "transactions": 47,
-            "quantity": 48
+            "quantity": 48,
+            "dollars": 20469.41
           },
           {
             "week": "2026-06-01",
             "transactions": 33,
-            "quantity": 34
+            "quantity": 34,
+            "dollars": 15220.64
           },
           {
             "week": "2026-06-08",
             "transactions": 49,
-            "quantity": 57
+            "quantity": 57,
+            "dollars": 27045.55
           },
           {
             "week": "2026-06-15",
             "transactions": 33,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 14684.23
           },
           {
             "week": "2026-06-22",
             "transactions": 25,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 10354.81
           },
           {
             "week": "2026-06-29",
             "transactions": 22,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 8755.45
           },
           {
             "week": "2026-07-06",
             "transactions": 23,
-            "quantity": 23
+            "quantity": 23,
+            "dollars": 8870.28
           },
           {
             "week": "2026-07-13",
             "transactions": 26,
-            "quantity": 27
+            "quantity": 27,
+            "dollars": 10451.62
           },
           {
             "week": "2026-07-20",
             "transactions": 30,
-            "quantity": 32
+            "quantity": 32,
+            "dollars": 12036.88
           },
           {
             "week": "2026-07-27",
             "transactions": 36,
-            "quantity": 37
+            "quantity": 37,
+            "dollars": 13079.77
           },
           {
             "week": "2026-08-03",
             "transactions": 29,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 10930.9
           },
           {
             "week": "2026-08-10",
             "transactions": 38,
-            "quantity": 38
+            "quantity": 38,
+            "dollars": 13525.51
           },
           {
             "week": "2026-08-17",
             "transactions": 39,
-            "quantity": 39
+            "quantity": 39,
+            "dollars": 14111.85
           },
           {
             "week": "2026-08-24",
             "transactions": 37,
-            "quantity": 40
+            "quantity": 40,
+            "dollars": 14052.42
           },
           {
             "week": "2026-08-31",
             "transactions": 34,
-            "quantity": 35
+            "quantity": 35,
+            "dollars": 12215.84
           },
           {
             "week": "2026-09-07",
             "transactions": 29,
-            "quantity": 29
+            "quantity": 29,
+            "dollars": 10128.67
           },
           {
             "week": "2026-09-14",
             "transactions": 40,
-            "quantity": 46
+            "quantity": 46,
+            "dollars": 15683.72
           },
           {
             "week": "2026-09-21",
             "transactions": 30,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 11390.35
           }
         ]
+      },
+      "kalshi_volume": 1949.32,
+      "sales_volume": {
+        "level": "high",
+        "ratio": 5.843,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 30,
+          "quantity": 33,
+          "dollars": 11390.35
+        }
       }
     },
     "KXPOKEMON-26SEPMEGCHAXE": {
@@ -1481,264 +1796,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 217,
-            "quantity": 339
+            "quantity": 339,
+            "dollars": 26411.96
           },
           {
             "week": "2025-11-17",
             "transactions": 344,
-            "quantity": 511
+            "quantity": 511,
+            "dollars": 33664.06
           },
           {
             "week": "2025-11-24",
             "transactions": 300,
-            "quantity": 477
+            "quantity": 477,
+            "dollars": 29612.05
           },
           {
             "week": "2025-12-01",
             "transactions": 264,
-            "quantity": 420
+            "quantity": 420,
+            "dollars": 19268.84
           },
           {
             "week": "2025-12-08",
             "transactions": 238,
-            "quantity": 627
+            "quantity": 627,
+            "dollars": 26818.66
           },
           {
             "week": "2025-12-15",
             "transactions": 250,
-            "quantity": 335
+            "quantity": 335,
+            "dollars": 12507.89
           },
           {
             "week": "2025-12-22",
             "transactions": 335,
-            "quantity": 500
+            "quantity": 500,
+            "dollars": 18801.06
           },
           {
             "week": "2025-12-29",
             "transactions": 343,
-            "quantity": 603
+            "quantity": 603,
+            "dollars": 21745.14
           },
           {
             "week": "2026-01-05",
             "transactions": 358,
-            "quantity": 537
+            "quantity": 537,
+            "dollars": 18323.13
           },
           {
             "week": "2026-01-12",
             "transactions": 342,
-            "quantity": 576
+            "quantity": 576,
+            "dollars": 19742.65
           },
           {
             "week": "2026-01-19",
             "transactions": 392,
-            "quantity": 825
+            "quantity": 825,
+            "dollars": 27169.0
           },
           {
             "week": "2026-01-26",
             "transactions": 395,
-            "quantity": 554
+            "quantity": 554,
+            "dollars": 16963.02
           },
           {
             "week": "2026-02-02",
             "transactions": 382,
-            "quantity": 634
+            "quantity": 634,
+            "dollars": 18687.43
           },
           {
             "week": "2026-02-09",
             "transactions": 335,
-            "quantity": 621
+            "quantity": 621,
+            "dollars": 19322.3
           },
           {
             "week": "2026-02-16",
             "transactions": 343,
-            "quantity": 643
+            "quantity": 643,
+            "dollars": 19025.81
           },
           {
             "week": "2026-02-23",
             "transactions": 339,
-            "quantity": 518
+            "quantity": 518,
+            "dollars": 15692.56
           },
           {
             "week": "2026-03-02",
             "transactions": 384,
-            "quantity": 679
+            "quantity": 679,
+            "dollars": 24547.84
           },
           {
             "week": "2026-03-09",
             "transactions": 316,
-            "quantity": 438
+            "quantity": 438,
+            "dollars": 17700.25
           },
           {
             "week": "2026-03-16",
             "transactions": 292,
-            "quantity": 449
+            "quantity": 449,
+            "dollars": 17993.13
           },
           {
             "week": "2026-03-23",
             "transactions": 262,
-            "quantity": 471
+            "quantity": 471,
+            "dollars": 18566.77
           },
           {
             "week": "2026-03-30",
             "transactions": 323,
-            "quantity": 452
+            "quantity": 452,
+            "dollars": 18134.25
           },
           {
             "week": "2026-04-06",
             "transactions": 232,
-            "quantity": 378
+            "quantity": 378,
+            "dollars": 15403.62
           },
           {
             "week": "2026-04-13",
             "transactions": 328,
-            "quantity": 476
+            "quantity": 476,
+            "dollars": 21065.89
           },
           {
             "week": "2026-04-20",
             "transactions": 287,
-            "quantity": 424
+            "quantity": 424,
+            "dollars": 19586.55
           },
           {
             "week": "2026-04-27",
             "transactions": 209,
-            "quantity": 269
+            "quantity": 269,
+            "dollars": 12562.08
           },
           {
             "week": "2026-05-04",
             "transactions": 210,
-            "quantity": 268
+            "quantity": 268,
+            "dollars": 12627.3
           },
           {
             "week": "2026-05-11",
             "transactions": 215,
-            "quantity": 298
+            "quantity": 298,
+            "dollars": 13824.63
           },
           {
             "week": "2026-05-18",
             "transactions": 125,
-            "quantity": 202
+            "quantity": 202,
+            "dollars": 9008.29
           },
           {
             "week": "2026-05-25",
             "transactions": 279,
-            "quantity": 433
+            "quantity": 433,
+            "dollars": 19400.07
           },
           {
             "week": "2026-06-01",
             "transactions": 193,
-            "quantity": 269
+            "quantity": 269,
+            "dollars": 11442.44
           },
           {
             "week": "2026-06-08",
             "transactions": 160,
-            "quantity": 233
+            "quantity": 233,
+            "dollars": 10459.2
           },
           {
             "week": "2026-06-15",
             "transactions": 164,
-            "quantity": 236
+            "quantity": 236,
+            "dollars": 10098.65
           },
           {
             "week": "2026-06-22",
             "transactions": 161,
-            "quantity": 267
+            "quantity": 267,
+            "dollars": 10719.19
           },
           {
             "week": "2026-06-29",
             "transactions": 143,
-            "quantity": 212
+            "quantity": 212,
+            "dollars": 8039.94
           },
           {
             "week": "2026-07-06",
             "transactions": 185,
-            "quantity": 278
+            "quantity": 278,
+            "dollars": 10468.01
           },
           {
             "week": "2026-07-13",
             "transactions": 146,
-            "quantity": 212
+            "quantity": 212,
+            "dollars": 7938.46
           },
           {
             "week": "2026-07-20",
             "transactions": 218,
-            "quantity": 297
+            "quantity": 297,
+            "dollars": 10374.47
           },
           {
             "week": "2026-07-27",
             "transactions": 190,
-            "quantity": 255
+            "quantity": 255,
+            "dollars": 8934.63
           },
           {
             "week": "2026-08-03",
             "transactions": 169,
-            "quantity": 313
+            "quantity": 313,
+            "dollars": 10887.54
           },
           {
             "week": "2026-08-10",
             "transactions": 228,
-            "quantity": 331
+            "quantity": 331,
+            "dollars": 12123.64
           },
           {
             "week": "2026-08-17",
             "transactions": 170,
-            "quantity": 220
+            "quantity": 220,
+            "dollars": 7550.61
           },
           {
             "week": "2026-08-24",
             "transactions": 174,
-            "quantity": 252
+            "quantity": 252,
+            "dollars": 8614.85
           },
           {
             "week": "2026-08-31",
             "transactions": 161,
-            "quantity": 209
+            "quantity": 209,
+            "dollars": 7197.34
           },
           {
             "week": "2026-09-07",
             "transactions": 138,
-            "quantity": 193
+            "quantity": 193,
+            "dollars": 5706.03
           },
           {
             "week": "2026-09-14",
             "transactions": 126,
-            "quantity": 165
+            "quantity": 165,
+            "dollars": 4797.3
           },
           {
             "week": "2026-09-21",
             "transactions": 150,
-            "quantity": 209
+            "quantity": 209,
+            "dollars": 5687.61
           }
         ]
+      },
+      "kalshi_volume": 4059.65,
+      "sales_volume": {
+        "level": "moderate",
+        "ratio": 1.401,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 150,
+          "quantity": 209,
+          "dollars": 5687.61
+        }
       }
     },
     "KXPOKEMON-26SEPFIRPARIL": {
@@ -1771,264 +2149,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-17",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-15",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-22",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-05",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-12",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-19",
             "transactions": 4,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 300.0
           },
           {
             "week": "2026-01-26",
             "transactions": 21,
-            "quantity": 37
+            "quantity": 37,
+            "dollars": 2197.06
           },
           {
             "week": "2026-02-02",
             "transactions": 10,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 1502.82
           },
           {
             "week": "2026-02-09",
             "transactions": 80,
-            "quantity": 148
+            "quantity": 148,
+            "dollars": 10257.88
           },
           {
             "week": "2026-02-16",
             "transactions": 56,
-            "quantity": 105
+            "quantity": 105,
+            "dollars": 7220.85
           },
           {
             "week": "2026-02-23",
             "transactions": 116,
-            "quantity": 211
+            "quantity": 211,
+            "dollars": 14839.63
           },
           {
             "week": "2026-03-02",
             "transactions": 64,
-            "quantity": 110
+            "quantity": 110,
+            "dollars": 7626.3
           },
           {
             "week": "2026-03-09",
             "transactions": 360,
-            "quantity": 716
+            "quantity": 716,
+            "dollars": 39551.84
           },
           {
             "week": "2026-03-16",
             "transactions": 1607,
-            "quantity": 3375
+            "quantity": 3375,
+            "dollars": 184376.25
           },
           {
             "week": "2026-03-23",
             "transactions": 701,
-            "quantity": 1715
+            "quantity": 1715,
+            "dollars": 93690.45
           },
           {
             "week": "2026-03-30",
             "transactions": 468,
-            "quantity": 890
+            "quantity": 890,
+            "dollars": 47437.0
           },
           {
             "week": "2026-04-06",
             "transactions": 388,
-            "quantity": 652
+            "quantity": 652,
+            "dollars": 32397.88
           },
           {
             "week": "2026-04-13",
             "transactions": 356,
-            "quantity": 716
+            "quantity": 716,
+            "dollars": 38306.0
           },
           {
             "week": "2026-04-20",
             "transactions": 325,
-            "quantity": 658
+            "quantity": 658,
+            "dollars": 35097.72
           },
           {
             "week": "2026-04-27",
             "transactions": 306,
-            "quantity": 579
+            "quantity": 579,
+            "dollars": 32256.09
           },
           {
             "week": "2026-05-04",
             "transactions": 297,
-            "quantity": 595
+            "quantity": 595,
+            "dollars": 33677.0
           },
           {
             "week": "2026-05-11",
             "transactions": 326,
-            "quantity": 661
+            "quantity": 661,
+            "dollars": 45252.06
           },
           {
             "week": "2026-05-18",
             "transactions": 183,
-            "quantity": 359
+            "quantity": 359,
+            "dollars": 22771.37
           },
           {
             "week": "2026-05-25",
             "transactions": 200,
-            "quantity": 411
+            "quantity": 411,
+            "dollars": 27664.41
           },
           {
             "week": "2026-06-01",
             "transactions": 138,
-            "quantity": 213
+            "quantity": 213,
+            "dollars": 14496.78
           },
           {
             "week": "2026-06-08",
             "transactions": 111,
-            "quantity": 191
+            "quantity": 191,
+            "dollars": 12882.95
           },
           {
             "week": "2026-06-15",
             "transactions": 137,
-            "quantity": 283
+            "quantity": 283,
+            "dollars": 20854.27
           },
           {
             "week": "2026-06-22",
             "transactions": 181,
-            "quantity": 287
+            "quantity": 287,
+            "dollars": 22483.58
           },
           {
             "week": "2026-06-29",
             "transactions": 97,
-            "quantity": 161
+            "quantity": 161,
+            "dollars": 10547.11
           },
           {
             "week": "2026-07-06",
             "transactions": 101,
-            "quantity": 216
+            "quantity": 216,
+            "dollars": 14260.32
           },
           {
             "week": "2026-07-13",
             "transactions": 82,
-            "quantity": 127
+            "quantity": 127,
+            "dollars": 7915.91
           },
           {
             "week": "2026-07-20",
             "transactions": 79,
-            "quantity": 130
+            "quantity": 130,
+            "dollars": 7892.3
           },
           {
             "week": "2026-07-27",
             "transactions": 77,
-            "quantity": 121
+            "quantity": 121,
+            "dollars": 7688.34
           },
           {
             "week": "2026-08-03",
             "transactions": 112,
-            "quantity": 190
+            "quantity": 190,
+            "dollars": 12188.5
           },
           {
             "week": "2026-08-10",
             "transactions": 117,
-            "quantity": 172
+            "quantity": 172,
+            "dollars": 10951.24
           },
           {
             "week": "2026-08-17",
             "transactions": 63,
-            "quantity": 98
+            "quantity": 98,
+            "dollars": 5940.76
           },
           {
             "week": "2026-08-24",
             "transactions": 50,
-            "quantity": 75
+            "quantity": 75,
+            "dollars": 5195.25
           },
           {
             "week": "2026-08-31",
             "transactions": 38,
-            "quantity": 68
+            "quantity": 68,
+            "dollars": 4621.96
           },
           {
             "week": "2026-09-07",
             "transactions": 40,
-            "quantity": 74
+            "quantity": 74,
+            "dollars": 4891.4
           },
           {
             "week": "2026-09-14",
             "transactions": 45,
-            "quantity": 73
+            "quantity": 73,
+            "dollars": 4623.09
           },
           {
             "week": "2026-09-21",
             "transactions": 26,
-            "quantity": 34
+            "quantity": 34,
+            "dollars": 2224.62
           }
         ]
+      },
+      "kalshi_volume": 1806.18,
+      "sales_volume": {
+        "level": "moderate",
+        "ratio": 1.232,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 26,
+          "quantity": 34,
+          "dollars": 2224.62
+        }
       }
     },
     "KXPOKEMON-26SEPASCHEREL": {
@@ -2061,264 +2502,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-17",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
             "transactions": 4,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 898.0
           },
           {
             "week": "2025-12-15",
             "transactions": 19,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 4204.08
           },
           {
             "week": "2025-12-22",
             "transactions": 46,
-            "quantity": 81
+            "quantity": 81,
+            "dollars": 10853.19
           },
           {
             "week": "2025-12-29",
             "transactions": 137,
-            "quantity": 186
+            "quantity": 186,
+            "dollars": 24300.9
           },
           {
             "week": "2026-01-05",
             "transactions": 215,
-            "quantity": 327
+            "quantity": 327,
+            "dollars": 38713.53
           },
           {
             "week": "2026-01-12",
             "transactions": 343,
-            "quantity": 537
+            "quantity": 537,
+            "dollars": 63312.3
           },
           {
             "week": "2026-01-19",
             "transactions": 401,
-            "quantity": 621
+            "quantity": 621,
+            "dollars": 73091.7
           },
           {
             "week": "2026-01-26",
             "transactions": 281,
-            "quantity": 414
+            "quantity": 414,
+            "dollars": 67175.64
           },
           {
             "week": "2026-02-02",
             "transactions": 201,
-            "quantity": 296
+            "quantity": 296,
+            "dollars": 42360.56
           },
           {
             "week": "2026-02-09",
             "transactions": 364,
-            "quantity": 531
+            "quantity": 531,
+            "dollars": 72428.4
           },
           {
             "week": "2026-02-16",
             "transactions": 1133,
-            "quantity": 1612
+            "quantity": 1612,
+            "dollars": 192488.92
           },
           {
             "week": "2026-02-23",
             "transactions": 1285,
-            "quantity": 1999
+            "quantity": 1999,
+            "dollars": 224567.66
           },
           {
             "week": "2026-03-02",
             "transactions": 1186,
-            "quantity": 2265
+            "quantity": 2265,
+            "dollars": 245707.2
           },
           {
             "week": "2026-03-09",
             "transactions": 839,
-            "quantity": 1512
+            "quantity": 1512,
+            "dollars": 168361.2
           },
           {
             "week": "2026-03-16",
             "transactions": 593,
-            "quantity": 1080
+            "quantity": 1080,
+            "dollars": 130960.8
           },
           {
             "week": "2026-03-23",
             "transactions": 502,
-            "quantity": 858
+            "quantity": 858,
+            "dollars": 105945.84
           },
           {
             "week": "2026-03-30",
             "transactions": 451,
-            "quantity": 663
+            "quantity": 663,
+            "dollars": 87496.11
           },
           {
             "week": "2026-04-06",
             "transactions": 422,
-            "quantity": 681
+            "quantity": 681,
+            "dollars": 101189.79
           },
           {
             "week": "2026-04-13",
             "transactions": 342,
-            "quantity": 571
+            "quantity": 571,
+            "dollars": 89041.74
           },
           {
             "week": "2026-04-20",
             "transactions": 267,
-            "quantity": 419
+            "quantity": 419,
+            "dollars": 67140.56
           },
           {
             "week": "2026-04-27",
             "transactions": 237,
-            "quantity": 375
+            "quantity": 375,
+            "dollars": 65797.5
           },
           {
             "week": "2026-05-04",
             "transactions": 184,
-            "quantity": 261
+            "quantity": 261,
+            "dollars": 47551.59
           },
           {
             "week": "2026-05-11",
             "transactions": 179,
-            "quantity": 219
+            "quantity": 219,
+            "dollars": 39437.52
           },
           {
             "week": "2026-05-18",
             "transactions": 160,
-            "quantity": 197
+            "quantity": 197,
+            "dollars": 35716.1
           },
           {
             "week": "2026-05-25",
             "transactions": 406,
-            "quantity": 930
+            "quantity": 930,
+            "dollars": 165567.9
           },
           {
             "week": "2026-06-01",
             "transactions": 192,
-            "quantity": 248
+            "quantity": 248,
+            "dollars": 45289.76
           },
           {
             "week": "2026-06-08",
             "transactions": 178,
-            "quantity": 229
+            "quantity": 229,
+            "dollars": 40445.98
           },
           {
             "week": "2026-06-15",
             "transactions": 169,
-            "quantity": 213
+            "quantity": 213,
+            "dollars": 38216.46
           },
           {
             "week": "2026-06-22",
             "transactions": 186,
-            "quantity": 243
+            "quantity": 243,
+            "dollars": 42102.18
           },
           {
             "week": "2026-06-29",
             "transactions": 143,
-            "quantity": 170
+            "quantity": 170,
+            "dollars": 29398.1
           },
           {
             "week": "2026-07-06",
             "transactions": 154,
-            "quantity": 191
+            "quantity": 191,
+            "dollars": 32114.74
           },
           {
             "week": "2026-07-13",
             "transactions": 154,
-            "quantity": 199
+            "quantity": 199,
+            "dollars": 34689.68
           },
           {
             "week": "2026-07-20",
             "transactions": 121,
-            "quantity": 155
+            "quantity": 155,
+            "dollars": 26536.0
           },
           {
             "week": "2026-07-27",
             "transactions": 117,
-            "quantity": 144
+            "quantity": 144,
+            "dollars": 24939.36
           },
           {
             "week": "2026-08-03",
             "transactions": 104,
-            "quantity": 131
+            "quantity": 131,
+            "dollars": 22082.67
           },
           {
             "week": "2026-08-10",
             "transactions": 139,
-            "quantity": 197
+            "quantity": 197,
+            "dollars": 33647.6
           },
           {
             "week": "2026-08-17",
             "transactions": 143,
-            "quantity": 161
+            "quantity": 161,
+            "dollars": 27027.07
           },
           {
             "week": "2026-08-24",
             "transactions": 119,
-            "quantity": 157
+            "quantity": 157,
+            "dollars": 26479.62
           },
           {
             "week": "2026-08-31",
             "transactions": 115,
-            "quantity": 156
+            "quantity": 156,
+            "dollars": 26014.56
           },
           {
             "week": "2026-09-07",
             "transactions": 127,
-            "quantity": 141
+            "quantity": 141,
+            "dollars": 22596.66
           },
           {
             "week": "2026-09-14",
             "transactions": 149,
-            "quantity": 182
+            "quantity": 182,
+            "dollars": 26746.72
           },
           {
             "week": "2026-09-21",
             "transactions": 109,
-            "quantity": 134
+            "quantity": 134,
+            "dollars": 20507.36
           }
         ]
+      },
+      "kalshi_volume": 4109.0,
+      "sales_volume": {
+        "level": "moderate",
+        "ratio": 4.991,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 109,
+          "quantity": 134,
+          "dollars": 20507.36
+        }
       }
     },
     "KXPOKEMON-26SEPPERORDBO": {
@@ -2351,264 +2855,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-17",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-15",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-22",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-05",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-12",
             "transactions": 19,
-            "quantity": 27
+            "quantity": 27,
+            "dollars": 6614.73
           },
           {
             "week": "2026-01-19",
             "transactions": 32,
-            "quantity": 37
+            "quantity": 37,
+            "dollars": 8997.29
           },
           {
             "week": "2026-01-26",
             "transactions": 39,
-            "quantity": 51
+            "quantity": 51,
+            "dollars": 12376.68
           },
           {
             "week": "2026-02-02",
             "transactions": 45,
-            "quantity": 66
+            "quantity": 66,
+            "dollars": 14806.44
           },
           {
             "week": "2026-02-09",
             "transactions": 172,
-            "quantity": 264
+            "quantity": 264,
+            "dollars": 52161.12
           },
           {
             "week": "2026-02-16",
             "transactions": 307,
-            "quantity": 449
+            "quantity": 449,
+            "dollars": 89606.93
           },
           {
             "week": "2026-02-23",
             "transactions": 295,
-            "quantity": 436
+            "quantity": 436,
+            "dollars": 98509.84
           },
           {
             "week": "2026-03-02",
             "transactions": 220,
-            "quantity": 285
+            "quantity": 285,
+            "dollars": 70913.7
           },
           {
             "week": "2026-03-09",
             "transactions": 305,
-            "quantity": 393
+            "quantity": 393,
+            "dollars": 90940.2
           },
           {
             "week": "2026-03-16",
             "transactions": 383,
-            "quantity": 486
+            "quantity": 486,
+            "dollars": 113213.7
           },
           {
             "week": "2026-03-23",
             "transactions": 689,
-            "quantity": 871
+            "quantity": 871,
+            "dollars": 185000.4
           },
           {
             "week": "2026-03-30",
             "transactions": 422,
-            "quantity": 500
+            "quantity": 500,
+            "dollars": 103180.0
           },
           {
             "week": "2026-04-06",
             "transactions": 268,
-            "quantity": 312
+            "quantity": 312,
+            "dollars": 64752.48
           },
           {
             "week": "2026-04-13",
             "transactions": 240,
-            "quantity": 275
+            "quantity": 275,
+            "dollars": 54210.75
           },
           {
             "week": "2026-04-20",
             "transactions": 222,
-            "quantity": 252
+            "quantity": 252,
+            "dollars": 52484.04
           },
           {
             "week": "2026-04-27",
             "transactions": 211,
-            "quantity": 225
+            "quantity": 225,
+            "dollars": 47126.25
           },
           {
             "week": "2026-05-04",
             "transactions": 159,
-            "quantity": 170
+            "quantity": 170,
+            "dollars": 35383.8
           },
           {
             "week": "2026-05-11",
             "transactions": 184,
-            "quantity": 227
+            "quantity": 227,
+            "dollars": 47635.95
           },
           {
             "week": "2026-05-18",
             "transactions": 95,
-            "quantity": 106
+            "quantity": 106,
+            "dollars": 23490.66
           },
           {
             "week": "2026-05-25",
             "transactions": 131,
-            "quantity": 159
+            "quantity": 159,
+            "dollars": 34776.48
           },
           {
             "week": "2026-06-01",
             "transactions": 87,
-            "quantity": 100
+            "quantity": 100,
+            "dollars": 21904.0
           },
           {
             "week": "2026-06-08",
             "transactions": 70,
-            "quantity": 84
+            "quantity": 84,
+            "dollars": 17987.76
           },
           {
             "week": "2026-06-15",
             "transactions": 61,
-            "quantity": 74
+            "quantity": 74,
+            "dollars": 16329.58
           },
           {
             "week": "2026-06-22",
             "transactions": 57,
-            "quantity": 67
+            "quantity": 67,
+            "dollars": 14964.45
           },
           {
             "week": "2026-06-29",
             "transactions": 37,
-            "quantity": 42
+            "quantity": 42,
+            "dollars": 9435.72
           },
           {
             "week": "2026-07-06",
             "transactions": 65,
-            "quantity": 73
+            "quantity": 73,
+            "dollars": 15681.13
           },
           {
             "week": "2026-07-13",
             "transactions": 354,
-            "quantity": 496
+            "quantity": 496,
+            "dollars": 86477.6
           },
           {
             "week": "2026-07-20",
             "transactions": 354,
-            "quantity": 505
+            "quantity": 505,
+            "dollars": 91955.45
           },
           {
             "week": "2026-07-27",
             "transactions": 190,
-            "quantity": 229
+            "quantity": 229,
+            "dollars": 39062.82
           },
           {
             "week": "2026-08-03",
             "transactions": 175,
-            "quantity": 239
+            "quantity": 239,
+            "dollars": 40615.66
           },
           {
             "week": "2026-08-10",
             "transactions": 189,
-            "quantity": 216
+            "quantity": 216,
+            "dollars": 36838.8
           },
           {
             "week": "2026-08-17",
             "transactions": 212,
-            "quantity": 253
+            "quantity": 253,
+            "dollars": 43758.88
           },
           {
             "week": "2026-08-24",
             "transactions": 128,
-            "quantity": 198
+            "quantity": 198,
+            "dollars": 34558.92
           },
           {
             "week": "2026-08-31",
             "transactions": 111,
-            "quantity": 130
+            "quantity": 130,
+            "dollars": 22279.4
           },
           {
             "week": "2026-09-07",
             "transactions": 99,
-            "quantity": 107
+            "quantity": 107,
+            "dollars": 18936.86
           },
           {
             "week": "2026-09-14",
             "transactions": 73,
-            "quantity": 76
+            "quantity": 76,
+            "dollars": 13370.68
           },
           {
             "week": "2026-09-21",
             "transactions": 66,
-            "quantity": 78
+            "quantity": 78,
+            "dollars": 13798.98
           }
         ]
+      },
+      "kalshi_volume": 1965.91,
+      "sales_volume": {
+        "level": "high",
+        "ratio": 7.019,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 66,
+          "quantity": 78,
+          "dollars": 13798.98
+        }
       }
     },
     "KXPOKEMON-26SEPPERORDPO": {
@@ -2641,264 +3208,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-17",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-15",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-22",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-05",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-12",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-19",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 781.1
           },
           {
             "week": "2026-01-26",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 378.88
           },
           {
             "week": "2026-02-02",
             "transactions": 2,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 911.76
           },
           {
             "week": "2026-02-09",
             "transactions": 8,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 3252.6
           },
           {
             "week": "2026-02-16",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 2491.17
           },
           {
             "week": "2026-02-23",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 2720.04
           },
           {
             "week": "2026-03-02",
             "transactions": 11,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 3485.04
           },
           {
             "week": "2026-03-09",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 842.97
           },
           {
             "week": "2026-03-16",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 883.08
           },
           {
             "week": "2026-03-23",
             "transactions": 319,
-            "quantity": 422
+            "quantity": 422,
+            "dollars": 56311.68
           },
           {
             "week": "2026-03-30",
             "transactions": 213,
-            "quantity": 274
+            "quantity": 274,
+            "dollars": 36970.82
           },
           {
             "week": "2026-04-06",
             "transactions": 110,
-            "quantity": 147
+            "quantity": 147,
+            "dollars": 19975.83
           },
           {
             "week": "2026-04-13",
             "transactions": 79,
-            "quantity": 95
+            "quantity": 95,
+            "dollars": 12684.4
           },
           {
             "week": "2026-04-20",
             "transactions": 72,
-            "quantity": 88
+            "quantity": 88,
+            "dollars": 11545.6
           },
           {
             "week": "2026-04-27",
             "transactions": 82,
-            "quantity": 103
+            "quantity": 103,
+            "dollars": 13680.46
           },
           {
             "week": "2026-05-04",
             "transactions": 79,
-            "quantity": 101
+            "quantity": 101,
+            "dollars": 13746.1
           },
           {
             "week": "2026-05-11",
             "transactions": 48,
-            "quantity": 64
+            "quantity": 64,
+            "dollars": 8287.36
           },
           {
             "week": "2026-05-18",
             "transactions": 47,
-            "quantity": 63
+            "quantity": 63,
+            "dollars": 8560.44
           },
           {
             "week": "2026-05-25",
             "transactions": 53,
-            "quantity": 65
+            "quantity": 65,
+            "dollars": 9330.1
           },
           {
             "week": "2026-06-01",
             "transactions": 35,
-            "quantity": 39
+            "quantity": 39,
+            "dollars": 5543.07
           },
           {
             "week": "2026-06-08",
             "transactions": 31,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 4586.67
           },
           {
             "week": "2026-06-15",
             "transactions": 21,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 3070.76
           },
           {
             "week": "2026-06-22",
             "transactions": 30,
-            "quantity": 35
+            "quantity": 35,
+            "dollars": 4659.9
           },
           {
             "week": "2026-06-29",
             "transactions": 25,
-            "quantity": 28
+            "quantity": 28,
+            "dollars": 3440.08
           },
           {
             "week": "2026-07-06",
             "transactions": 40,
-            "quantity": 41
+            "quantity": 41,
+            "dollars": 5046.28
           },
           {
             "week": "2026-07-13",
             "transactions": 47,
-            "quantity": 54
+            "quantity": 54,
+            "dollars": 6694.38
           },
           {
             "week": "2026-07-20",
             "transactions": 43,
-            "quantity": 63
+            "quantity": 63,
+            "dollars": 7613.55
           },
           {
             "week": "2026-07-27",
             "transactions": 36,
-            "quantity": 53
+            "quantity": 53,
+            "dollars": 6292.69
           },
           {
             "week": "2026-08-03",
             "transactions": 24,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 3031.5
           },
           {
             "week": "2026-08-10",
             "transactions": 33,
-            "quantity": 36
+            "quantity": 36,
+            "dollars": 4341.96
           },
           {
             "week": "2026-08-17",
             "transactions": 26,
-            "quantity": 34
+            "quantity": 34,
+            "dollars": 4161.94
           },
           {
             "week": "2026-08-24",
             "transactions": 23,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 2902.56
           },
           {
             "week": "2026-08-31",
             "transactions": 28,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 3662.7
           },
           {
             "week": "2026-09-07",
             "transactions": 25,
-            "quantity": 29
+            "quantity": 29,
+            "dollars": 3607.6
           },
           {
             "week": "2026-09-14",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 1750.0
           },
           {
             "week": "2026-09-21",
             "transactions": 12,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 1734.6
           }
         ]
+      },
+      "kalshi_volume": 6294.78,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.276,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 12,
+          "quantity": 14,
+          "dollars": 1734.6
+        }
       }
     },
     "KXPOKEMON-26SEPGENCOSHO": {
@@ -2931,264 +3561,327 @@
           {
             "week": "2025-09-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-10-27",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-03",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-10",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-17",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-11-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-08",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-15",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-22",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2025-12-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-05",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-12",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-19",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-01-26",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-02-02",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-02-09",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-02-16",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-02-23",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-03-02",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-03-09",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-03-16",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-03-23",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-03-30",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-04-06",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-04-13",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-04-20",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-04-27",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 286.0
           },
           {
             "week": "2026-05-04",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 151.49
           },
           {
             "week": "2026-05-11",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 169.19
           },
           {
             "week": "2026-05-18",
             "transactions": 3,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 729.12
           },
           {
             "week": "2026-05-25",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-06-01",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-06-08",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 389.88
           },
           {
             "week": "2026-06-15",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 377.68
           },
           {
             "week": "2026-06-22",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-06-29",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-07-06",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 189.88
           },
           {
             "week": "2026-07-13",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 186.81
           },
           {
             "week": "2026-07-20",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 184.9
           },
           {
             "week": "2026-07-27",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 314.83
           },
           {
             "week": "2026-08-03",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 185.44
           },
           {
             "week": "2026-08-10",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 185.09
           },
           {
             "week": "2026-08-17",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 734.0
           },
           {
             "week": "2026-08-24",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-08-31",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-09-07",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 552.75
           },
           {
             "week": "2026-09-14",
             "transactions": 0,
-            "quantity": 0
+            "quantity": 0,
+            "dollars": 0.0
           },
           {
             "week": "2026-09-21",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 247.78
           }
         ]
+      },
+      "kalshi_volume": 1587.44,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.156,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 2,
+          "quantity": 2,
+          "dollars": 247.78
+        }
       }
     },
     "KXPOKEMON-26SEPSQU": {
@@ -3222,264 +3915,327 @@
           {
             "week": "2025-09-29",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 6.3
           },
           {
             "week": "2025-10-06",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 6.02
           },
           {
             "week": "2025-10-13",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 24.61
           },
           {
             "week": "2025-10-20",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 12.77
           },
           {
             "week": "2025-10-27",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 16.77
           },
           {
             "week": "2025-11-03",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 14.43
           },
           {
             "week": "2025-11-10",
             "transactions": 11,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 25.21
           },
           {
             "week": "2025-11-17",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 25.06
           },
           {
             "week": "2025-11-24",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 2.68
           },
           {
             "week": "2025-12-01",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 9.8
           },
           {
             "week": "2025-12-08",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 35.66
           },
           {
             "week": "2025-12-15",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 7.25
           },
           {
             "week": "2025-12-22",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 9.42
           },
           {
             "week": "2025-12-29",
             "transactions": 17,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 35.65
           },
           {
             "week": "2026-01-05",
             "transactions": 13,
-            "quantity": 18
+            "quantity": 18,
+            "dollars": 24.4
           },
           {
             "week": "2026-01-12",
             "transactions": 11,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 55.69
           },
           {
             "week": "2026-01-19",
             "transactions": 10,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 13.74
           },
           {
             "week": "2026-01-26",
             "transactions": 16,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 24.49
           },
           {
             "week": "2026-02-02",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 20.49
           },
           {
             "week": "2026-02-09",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 14.85
           },
           {
             "week": "2026-02-16",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 56.16
           },
           {
             "week": "2026-02-23",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 35.81
           },
           {
             "week": "2026-03-02",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 27.64
           },
           {
             "week": "2026-03-09",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 32.11
           },
           {
             "week": "2026-03-16",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 56.94
           },
           {
             "week": "2026-03-23",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 21.18
           },
           {
             "week": "2026-03-30",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 23.95
           },
           {
             "week": "2026-04-06",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 37.61
           },
           {
             "week": "2026-04-13",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 37.37
           },
           {
             "week": "2026-04-20",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 27.69
           },
           {
             "week": "2026-04-27",
             "transactions": 14,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 36.05
           },
           {
             "week": "2026-05-04",
             "transactions": 13,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 42.78
           },
           {
             "week": "2026-05-11",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 30.43
           },
           {
             "week": "2026-05-18",
             "transactions": 23,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 101.32
           },
           {
             "week": "2026-05-25",
             "transactions": 16,
-            "quantity": 19
+            "quantity": 19,
+            "dollars": 54.06
           },
           {
             "week": "2026-06-01",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 77.01
           },
           {
             "week": "2026-06-08",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 41.97
           },
           {
             "week": "2026-06-15",
             "transactions": 20,
-            "quantity": 20
+            "quantity": 20,
+            "dollars": 54.36
           },
           {
             "week": "2026-06-22",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 45.15
           },
           {
             "week": "2026-06-29",
             "transactions": 24,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 67.81
           },
           {
             "week": "2026-07-06",
             "transactions": 16,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 50.99
           },
           {
             "week": "2026-07-13",
             "transactions": 14,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 45.5
           },
           {
             "week": "2026-07-20",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 56.86
           },
           {
             "week": "2026-07-27",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 36.38
           },
           {
             "week": "2026-08-03",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 57.07
           },
           {
             "week": "2026-08-10",
             "transactions": 13,
-            "quantity": 13
+            "quantity": 13,
+            "dollars": 57.46
           },
           {
             "week": "2026-08-17",
             "transactions": 14,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 63.57
           },
           {
             "week": "2026-08-24",
             "transactions": 17,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 56.86
           },
           {
             "week": "2026-08-31",
             "transactions": 10,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 58.09
           },
           {
             "week": "2026-09-07",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 74.17
           },
           {
             "week": "2026-09-14",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 52.24
           },
           {
             "week": "2026-09-21",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 63.58
           }
         ]
+      },
+      "kalshi_volume": 1527.12,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.042,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 11,
+          "quantity": 11,
+          "dollars": 63.58
+        }
       }
     },
     "KXPOKEMON-26SEPBUL": {
@@ -3513,264 +4269,327 @@
           {
             "week": "2025-09-29",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 15.27
           },
           {
             "week": "2025-10-06",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 24.79
           },
           {
             "week": "2025-10-13",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 12.35
           },
           {
             "week": "2025-10-20",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 18.47
           },
           {
             "week": "2025-10-27",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 19.4
           },
           {
             "week": "2025-11-03",
             "transactions": 3,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 73.75
           },
           {
             "week": "2025-11-10",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 43.81
           },
           {
             "week": "2025-11-17",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 26.24
           },
           {
             "week": "2025-11-24",
             "transactions": 11,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 50.43
           },
           {
             "week": "2025-12-01",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 25.62
           },
           {
             "week": "2025-12-08",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 33.15
           },
           {
             "week": "2025-12-15",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 19.33
           },
           {
             "week": "2025-12-22",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 4.75
           },
           {
             "week": "2025-12-29",
             "transactions": 9,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 42.51
           },
           {
             "week": "2026-01-05",
             "transactions": 6,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 18.25
           },
           {
             "week": "2026-01-12",
             "transactions": 15,
-            "quantity": 18
+            "quantity": 18,
+            "dollars": 55.95
           },
           {
             "week": "2026-01-19",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 19.73
           },
           {
             "week": "2026-01-26",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 28.66
           },
           {
             "week": "2026-02-02",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 40.98
           },
           {
             "week": "2026-02-09",
             "transactions": 10,
-            "quantity": 38
+            "quantity": 38,
+            "dollars": 108.14
           },
           {
             "week": "2026-02-16",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 50.73
           },
           {
             "week": "2026-02-23",
             "transactions": 12,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 49.56
           },
           {
             "week": "2026-03-02",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 14.86
           },
           {
             "week": "2026-03-09",
             "transactions": 12,
-            "quantity": 19
+            "quantity": 19,
+            "dollars": 67.95
           },
           {
             "week": "2026-03-16",
             "transactions": 16,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 86.85
           },
           {
             "week": "2026-03-23",
             "transactions": 8,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 34.66
           },
           {
             "week": "2026-03-30",
             "transactions": 16,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 52.69
           },
           {
             "week": "2026-04-06",
             "transactions": 12,
-            "quantity": 20
+            "quantity": 20,
+            "dollars": 105.26
           },
           {
             "week": "2026-04-13",
             "transactions": 11,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 89.52
           },
           {
             "week": "2026-04-20",
             "transactions": 8,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 37.81
           },
           {
             "week": "2026-04-27",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 16.84
           },
           {
             "week": "2026-05-04",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 31.41
           },
           {
             "week": "2026-05-11",
             "transactions": 10,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 80.61
           },
           {
             "week": "2026-05-18",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 47.59
           },
           {
             "week": "2026-05-25",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 49.8
           },
           {
             "week": "2026-06-01",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 51.05
           },
           {
             "week": "2026-06-08",
             "transactions": 12,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 110.71
           },
           {
             "week": "2026-06-15",
             "transactions": 6,
-            "quantity": 6
+            "quantity": 6,
+            "dollars": 31.64
           },
           {
             "week": "2026-06-22",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 55.52
           },
           {
             "week": "2026-06-29",
             "transactions": 6,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 55.61
           },
           {
             "week": "2026-07-06",
             "transactions": 4,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 17.0
           },
           {
             "week": "2026-07-13",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 32.5
           },
           {
             "week": "2026-07-20",
             "transactions": 9,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 53.41
           },
           {
             "week": "2026-07-27",
             "transactions": 9,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 53.68
           },
           {
             "week": "2026-08-03",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 19.46
           },
           {
             "week": "2026-08-10",
             "transactions": 13,
-            "quantity": 22
+            "quantity": 22,
+            "dollars": 135.91
           },
           {
             "week": "2026-08-17",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 105.08
           },
           {
             "week": "2026-08-24",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 50.96
           },
           {
             "week": "2026-08-31",
             "transactions": 12,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 67.55
           },
           {
             "week": "2026-09-07",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 64.9
           },
           {
             "week": "2026-09-14",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 58.94
           },
           {
             "week": "2026-09-21",
             "transactions": 2,
-            "quantity": 2
+            "quantity": 2,
+            "dollars": 7.59
           }
         ]
+      },
+      "kalshi_volume": 1071.82,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.007,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 2,
+          "quantity": 2,
+          "dollars": 7.59
+        }
       }
     },
     "KXPOKEMON-26SEPCHA": {
@@ -3803,264 +4622,327 @@
           {
             "week": "2025-09-29",
             "transactions": 17,
-            "quantity": 19
+            "quantity": 19,
+            "dollars": 420.34
           },
           {
             "week": "2025-10-06",
             "transactions": 15,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 376.13
           },
           {
             "week": "2025-10-13",
             "transactions": 29,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 781.74
           },
           {
             "week": "2025-10-20",
             "transactions": 12,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 365.12
           },
           {
             "week": "2025-10-27",
             "transactions": 30,
-            "quantity": 34
+            "quantity": 34,
+            "dollars": 746.67
           },
           {
             "week": "2025-11-03",
             "transactions": 9,
-            "quantity": 9
+            "quantity": 9,
+            "dollars": 193.22
           },
           {
             "week": "2025-11-10",
             "transactions": 10,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 260.7
           },
           {
             "week": "2025-11-17",
             "transactions": 17,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 400.26
           },
           {
             "week": "2025-11-24",
             "transactions": 24,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 576.81
           },
           {
             "week": "2025-12-01",
             "transactions": 14,
-            "quantity": 18
+            "quantity": 18,
+            "dollars": 399.69
           },
           {
             "week": "2025-12-08",
             "transactions": 18,
-            "quantity": 18
+            "quantity": 18,
+            "dollars": 387.82
           },
           {
             "week": "2025-12-15",
             "transactions": 10,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 238.92
           },
           {
             "week": "2025-12-22",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 322.01
           },
           {
             "week": "2025-12-29",
             "transactions": 16,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 349.12
           },
           {
             "week": "2026-01-05",
             "transactions": 18,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 446.6
           },
           {
             "week": "2026-01-12",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 326.45
           },
           {
             "week": "2026-01-19",
             "transactions": 28,
-            "quantity": 46
+            "quantity": 46,
+            "dollars": 1067.13
           },
           {
             "week": "2026-01-26",
             "transactions": 11,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 237.27
           },
           {
             "week": "2026-02-02",
             "transactions": 14,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 340.07
           },
           {
             "week": "2026-02-09",
             "transactions": 25,
-            "quantity": 25
+            "quantity": 25,
+            "dollars": 515.75
           },
           {
             "week": "2026-02-16",
             "transactions": 22,
-            "quantity": 30
+            "quantity": 30,
+            "dollars": 676.82
           },
           {
             "week": "2026-02-23",
             "transactions": 24,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 535.89
           },
           {
             "week": "2026-03-02",
             "transactions": 23,
-            "quantity": 24
+            "quantity": 24,
+            "dollars": 543.27
           },
           {
             "week": "2026-03-09",
             "transactions": 36,
-            "quantity": 37
+            "quantity": 37,
+            "dollars": 890.61
           },
           {
             "week": "2026-03-16",
             "transactions": 16,
-            "quantity": 16
+            "quantity": 16,
+            "dollars": 386.54
           },
           {
             "week": "2026-03-23",
             "transactions": 21,
-            "quantity": 23
+            "quantity": 23,
+            "dollars": 592.3
           },
           {
             "week": "2026-03-30",
             "transactions": 26,
-            "quantity": 27
+            "quantity": 27,
+            "dollars": 708.87
           },
           {
             "week": "2026-04-06",
             "transactions": 20,
-            "quantity": 21
+            "quantity": 21,
+            "dollars": 550.83
           },
           {
             "week": "2026-04-13",
             "transactions": 32,
-            "quantity": 33
+            "quantity": 33,
+            "dollars": 1062.65
           },
           {
             "week": "2026-04-20",
             "transactions": 17,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 600.82
           },
           {
             "week": "2026-04-27",
             "transactions": 15,
-            "quantity": 15
+            "quantity": 15,
+            "dollars": 634.7
           },
           {
             "week": "2026-05-04",
             "transactions": 11,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 513.45
           },
           {
             "week": "2026-05-11",
             "transactions": 25,
-            "quantity": 26
+            "quantity": 26,
+            "dollars": 1319.98
           },
           {
             "week": "2026-05-18",
             "transactions": 10,
-            "quantity": 11
+            "quantity": 11,
+            "dollars": 561.57
           },
           {
             "week": "2026-05-25",
             "transactions": 17,
-            "quantity": 17
+            "quantity": 17,
+            "dollars": 901.32
           },
           {
             "week": "2026-06-01",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 491.81
           },
           {
             "week": "2026-06-08",
             "transactions": 31,
-            "quantity": 31
+            "quantity": 31,
+            "dollars": 1858.63
           },
           {
             "week": "2026-06-15",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 316.8
           },
           {
             "week": "2026-06-22",
             "transactions": 1,
-            "quantity": 1
+            "quantity": 1,
+            "dollars": 62.74
           },
           {
             "week": "2026-06-29",
             "transactions": 14,
-            "quantity": 14
+            "quantity": 14,
+            "dollars": 760.99
           },
           {
             "week": "2026-07-06",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 166.63
           },
           {
             "week": "2026-07-13",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 443.17
           },
           {
             "week": "2026-07-20",
             "transactions": 7,
-            "quantity": 7
+            "quantity": 7,
+            "dollars": 376.77
           },
           {
             "week": "2026-07-27",
             "transactions": 4,
-            "quantity": 4
+            "quantity": 4,
+            "dollars": 212.86
           },
           {
             "week": "2026-08-03",
             "transactions": 5,
-            "quantity": 5
+            "quantity": 5,
+            "dollars": 268.1
           },
           {
             "week": "2026-08-10",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 586.76
           },
           {
             "week": "2026-08-17",
             "transactions": 3,
-            "quantity": 3
+            "quantity": 3,
+            "dollars": 148.83
           },
           {
             "week": "2026-08-24",
             "transactions": 8,
-            "quantity": 8
+            "quantity": 8,
+            "dollars": 360.17
           },
           {
             "week": "2026-08-31",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 513.64
           },
           {
             "week": "2026-09-07",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 433.5
           },
           {
             "week": "2026-09-14",
             "transactions": 10,
-            "quantity": 10
+            "quantity": 10,
+            "dollars": 419.1
           },
           {
             "week": "2026-09-21",
             "transactions": 12,
-            "quantity": 12
+            "quantity": 12,
+            "dollars": 499.9
           }
         ]
+      },
+      "kalshi_volume": 806.49,
+      "sales_volume": {
+        "level": "low",
+        "ratio": 0.62,
+        "week": {
+          "week": "2026-09-21",
+          "transactions": 12,
+          "quantity": 12,
+          "dollars": 499.9
+        }
       }
     }
   }
