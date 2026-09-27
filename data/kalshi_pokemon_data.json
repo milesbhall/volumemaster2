@@ -1,7 +1,9 @@
 [
   {
     "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",
+    "event_ticker": "KXPOKEMON-26SEPASCHERPO",
     "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+    "strike": 407.86,
     "title": "Will Ungraded Price of the Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive) on Collectr be above $407.86 on ?",
     "status": "active",
     "volume": 4866.52,
@@ -12,7 +14,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPCELULTPR-1237.81",
+    "event_ticker": "KXPOKEMON-26SEPCELULTPR",
     "product": "Celebrations Ultra Premium Collection",
+    "strike": 1237.81,
     "title": "Will Ungraded Price of the Celebrations Ultra Premium Collection on Collectr be above $1237.81 on ?",
     "status": "active",
     "volume": 4535.54,
@@ -23,7 +27,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPBLOWATPR-326.19",
+    "event_ticker": "KXPOKEMON-26SEPBLOWATPR",
     "product": "Blooming Waters Premium Collection",
+    "strike": 326.19,
     "title": "Will Ungraded Price of the Blooming Waters Premium Collection on Collectr be above $326.19 on ?",
     "status": "active",
     "volume": 1400.27,
@@ -34,7 +40,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEP151ULTCO-932.18",
+    "event_ticker": "KXPOKEMON-26SEP151ULTCO",
     "product": "151 Ultra-Premium Collection",
+    "strike": 932.18,
     "title": "Will Ungraded Price of the 151 Ultra-Premium Collection on Collectr be above $932.18 on ?",
     "status": "active",
     "volume": 4076.02,
@@ -45,7 +53,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPCHAEX-364.08",
+    "event_ticker": "KXPOKEMON-26SEPCHAEX",
     "product": "Charizard ex",
+    "strike": 364.08,
     "title": "Will Ungraded Price of the Charizard ex on Collectr be above $364.08 on ?",
     "status": "active",
     "volume": 1949.32,
@@ -56,7 +66,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPMEGCHAXE-34.21",
+    "event_ticker": "KXPOKEMON-26SEPMEGCHAXE",
     "product": "Mega Charizard X ex",
+    "strike": 34.21,
     "title": "Will Ungraded Price of the Mega Charizard X ex on Collectr be above $34.21 on ?",
     "status": "active",
     "volume": 4059.65,
@@ -67,7 +79,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPFIRPARIL-68.79",
+    "event_ticker": "KXPOKEMON-26SEPFIRPARIL",
     "product": "First Partner Illustration Collection (Series 1)",
+    "strike": 68.79,
     "title": "Will Ungraded Price of the First Partner Illustration Collection (Series 1) on Collectr be above $68.79 on ?",
     "status": "active",
     "volume": 1806.18,
@@ -78,7 +92,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPASCHEREL-169.14",
+    "event_ticker": "KXPOKEMON-26SEPASCHEREL",
     "product": "Ascended Heroes Elite Trainer Box",
+    "strike": 169.14,
     "title": "Will Ungraded Price of the Ascended Heroes Elite Trainer Box on Collectr be above $169.14 on ?",
     "status": "active",
     "volume": 4109.0,
@@ -89,7 +105,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPPERORDBO-174.14",
+    "event_ticker": "KXPOKEMON-26SEPPERORDBO",
     "product": "Perfect Order Booster Box",
+    "strike": 174.14,
     "title": "Will Ungraded Price of the Perfect Order Booster Box on Collectr be above $174.14 on ?",
     "status": "active",
     "volume": 1965.91,
@@ -100,7 +118,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPPERORDPO-121.39",
+    "event_ticker": "KXPOKEMON-26SEPPERORDPO",
     "product": "Perfect Order Pokemon Center Elite Trainer Box",
+    "strike": 121.39,
     "title": "Will Ungraded Price of the Perfect Order Pokemon Center Elite Trainer Box on Collectr be above $121.39 on ?",
     "status": "active",
     "volume": 6294.78,
@@ -111,7 +131,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPGENCOSHO-183.5",
+    "event_ticker": "KXPOKEMON-26SEPGENCOSHO",
     "product": "Gengar (Cosmos Holo) (EB Games Exclusive)",
+    "strike": 183.5,
     "title": "Will Ungraded Price of the Gengar (Cosmos Holo) (EB Games Exclusive) on Collectr be above $183.5 on ?",
     "status": "active",
     "volume": 1587.44,
@@ -122,7 +144,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPSQU-27.82",
+    "event_ticker": "KXPOKEMON-26SEPSQU",
     "product": "Squirtle",
+    "strike": 27.82,
     "title": "Will Ungraded Price of the Squirtle on Collectr be above $27.82 on ?",
     "status": "active",
     "volume": 1527.12,
@@ -133,7 +157,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPBUL-28.81",
+    "event_ticker": "KXPOKEMON-26SEPBUL",
     "product": "Bulbasaur",
+    "strike": 28.81,
     "title": "Will Ungraded Price of the Bulbasaur on Collectr be above $28.81 on ?",
     "status": "active",
     "volume": 1071.82,
@@ -144,7 +170,9 @@
   },
   {
     "ticker": "KXPOKEMON-26SEPCHA-39.87",
+    "event_ticker": "KXPOKEMON-26SEPCHA",
     "product": "Charmander",
+    "strike": 39.87,
     "title": "Will Ungraded Price of the Charmander on Collectr be above $39.87 on ?",
     "status": "active",
     "volume": 806.49,
@@ -155,7 +183,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGTEAROCMO-359.62",
+    "event_ticker": "KXPOKEMON-26AUGTEAROCMO",
     "product": "Team Rocket’s Moltres ex Ultra-Premium Collection",
+    "strike": 359.62,
     "title": "Will Ungraded Price of the Team Rocket’s Moltres ex Ultra-Premium Collection on Collectr be above $359.62 on ?",
     "status": "finalized",
     "volume": 3948.29,
@@ -166,7 +196,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGPHAFLABO-412.28",
+    "event_ticker": "KXPOKEMON-26AUGPHAFLABO",
     "product": "Phantasmal Flames Booster Box",
+    "strike": 412.28,
     "title": "Will Ungraded Price of the Phantasmal Flames Booster Box on Collectr be above $412.28 on ?",
     "status": "finalized",
     "volume": 9626.92,
@@ -177,7 +209,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGMEGCHAYE-445.06",
+    "event_ticker": "KXPOKEMON-26AUGMEGCHAYE",
     "product": "Mega Charizard Y ex",
+    "strike": 445.06,
     "title": "Will Ungraded Price of the Mega Charizard Y ex on Collectr be above $445.06 on ?",
     "status": "finalized",
     "volume": 8079.37,
@@ -188,7 +222,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGMEGDRAEX-735.23",
+    "event_ticker": "KXPOKEMON-26AUGMEGDRAEX",
     "product": "Mega Dragonite ex",
+    "strike": 735.23,
     "title": "Will Ungraded Price of the Mega Dragonite ex on Collectr be above $735.23 on ?",
     "status": "finalized",
     "volume": 5587.94,
@@ -199,7 +235,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGPIKEX-1160.2",
+    "event_ticker": "KXPOKEMON-26AUGPIKEX",
     "product": "Pikachu ex",
+    "strike": 1160.2,
     "title": "Will Ungraded Price of the Pikachu ex on Collectr be above $1160.2 on ?",
     "status": "finalized",
     "volume": 3714.24,
@@ -210,7 +248,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGMEGGENEX-1215.62",
+    "event_ticker": "KXPOKEMON-26AUGMEGGENEX",
     "product": "Mega Gengar ex",
+    "strike": 1215.62,
     "title": "Will Ungraded Price of the Mega Gengar ex on Collectr be above $1215.62 on ?",
     "status": "finalized",
     "volume": 1676.73,
@@ -221,7 +261,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGASCHERPO-426.2",
+    "event_ticker": "KXPOKEMON-26AUGASCHERPO",
     "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+    "strike": 426.2,
     "title": "Will Ungraded Price of the Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive) on Collectr be above $426.2 on ?",
     "status": "finalized",
     "volume": 5493.15,
@@ -232,7 +274,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGCELULTPR-1298.63",
+    "event_ticker": "KXPOKEMON-26AUGCELULTPR",
     "product": "Celebrations Ultra Premium Collection",
+    "strike": 1298.63,
     "title": "Will Ungraded Price of the Celebrations Ultra Premium Collection on Collectr be above $1298.63 on ?",
     "status": "finalized",
     "volume": 3909.14,
@@ -243,7 +287,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGBLOWATPR-326.97",
+    "event_ticker": "KXPOKEMON-26AUGBLOWATPR",
     "product": "Blooming Waters Premium Collection",
+    "strike": 326.97,
     "title": "Will Ungraded Price of the Blooming Waters Premium Collection on Collectr be above $326.97 on ?",
     "status": "finalized",
     "volume": 9904.91,
@@ -254,7 +300,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUG151ULTCO-939.85",
+    "event_ticker": "KXPOKEMON-26AUG151ULTCO",
     "product": "151 Ultra-Premium Collection",
+    "strike": 939.85,
     "title": "Will Ungraded Price of the 151 Ultra-Premium Collection on Collectr be above $939.85 on ?",
     "status": "finalized",
     "volume": 21358.35,
@@ -265,7 +313,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGCHAEX-368.43",
+    "event_ticker": "KXPOKEMON-26AUGCHAEX",
     "product": "Charizard ex",
+    "strike": 368.43,
     "title": "Will Ungraded Price of the Charizard ex on Collectr be above $368.43 on ?",
     "status": "finalized",
     "volume": 2186.8,
@@ -276,7 +326,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGMEGCHAXE-34.66",
+    "event_ticker": "KXPOKEMON-26AUGMEGCHAXE",
     "product": "Mega Charizard X ex",
+    "strike": 34.66,
     "title": "Will Ungraded Price of the Mega Charizard X ex on Collectr be above $34.66 on ?",
     "status": "finalized",
     "volume": 15692.01,
@@ -287,7 +339,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGFIRPARIL-63.03",
+    "event_ticker": "KXPOKEMON-26AUGFIRPARIL",
     "product": "First Partner Illustration Collection (Series 1)",
+    "strike": 63.03,
     "title": "Will Ungraded Price of the First Partner Illustration Collection (Series 1) on Collectr be above $63.03 on ?",
     "status": "finalized",
     "volume": 11290.0,
@@ -298,7 +352,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGASCHEREL-168.68",
+    "event_ticker": "KXPOKEMON-26AUGASCHEREL",
     "product": "Ascended Heroes Elite Trainer Box",
+    "strike": 168.68,
     "title": "Will Ungraded Price of the Ascended Heroes Elite Trainer Box on Collectr be above $168.68 on ?",
     "status": "finalized",
     "volume": 9664.23,
@@ -309,7 +365,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGPERORDBO-174.86",
+    "event_ticker": "KXPOKEMON-26AUGPERORDBO",
     "product": "Perfect Order Booster Box",
+    "strike": 174.86,
     "title": "Will Ungraded Price of the Perfect Order Booster Box on Collectr be above $174.86 on ?",
     "status": "finalized",
     "volume": 11203.79,
@@ -320,7 +378,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGPERORDPO-119.2",
+    "event_ticker": "KXPOKEMON-26AUGPERORDPO",
     "product": "Perfect Order Pokemon Center Elite Trainer Box",
+    "strike": 119.2,
     "title": "Will Ungraded Price of the Perfect Order Pokemon Center Elite Trainer Box on Collectr be above $119.2 on ?",
     "status": "finalized",
     "volume": 6789.84,
@@ -331,7 +391,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGGENCOSHO-184.84",
+    "event_ticker": "KXPOKEMON-26AUGGENCOSHO",
     "product": "Gengar (Cosmos Holo) (EB Games Exclusive)",
+    "strike": 184.84,
     "title": "Will Ungraded Price of the Gengar (Cosmos Holo) (EB Games Exclusive) on Collectr be above $184.84 on ?",
     "status": "finalized",
     "volume": 14033.02,
@@ -342,7 +404,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGSQU-26.82",
+    "event_ticker": "KXPOKEMON-26AUGSQU",
     "product": "Squirtle",
+    "strike": 26.82,
     "title": "Will Ungraded Price of the Squirtle on Collectr be above $26.82 on ?",
     "status": "finalized",
     "volume": 10871.26,
@@ -353,7 +417,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGBUL-27.23",
+    "event_ticker": "KXPOKEMON-26AUGBUL",
     "product": "Bulbasaur",
+    "strike": 27.23,
     "title": "Will Ungraded Price of the Bulbasaur on Collectr be above $27.23 on ?",
     "status": "finalized",
     "volume": 7073.77,
@@ -364,7 +430,9 @@
   },
   {
     "ticker": "KXPOKEMON-26AUGCHA-38.92",
+    "event_ticker": "KXPOKEMON-26AUGCHA",
     "product": "Charmander",
+    "strike": 38.92,
     "title": "Will Ungraded Price of the Charmander on Collectr be above $38.92 on ?",
     "status": "finalized",
     "volume": 8600.2,
@@ -375,7 +443,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULTEAROCMO-358.19",
+    "event_ticker": "KXPOKEMON-26JULTEAROCMO",
     "product": "Team Rocket’s Moltres ex Ultra-Premium Collection",
+    "strike": 358.19,
     "title": "Will Ungraded Price of the Team Rocket’s Moltres ex Ultra-Premium Collection on Collectr be above $358.19 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 5235.07,
@@ -386,7 +456,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULPHAFLABO-457.1",
+    "event_ticker": "KXPOKEMON-26JULPHAFLABO",
     "product": "Phantasmal Flames Booster Box",
+    "strike": 457.1,
     "title": "Will Ungraded Price of the Phantasmal Flames Booster Box on Collectr be above $457.1 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 1128.95,
@@ -397,7 +469,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULMEGCHAYE-613.81",
+    "event_ticker": "KXPOKEMON-26JULMEGCHAYE",
     "product": "Mega Charizard Y ex",
+    "strike": 613.81,
     "title": "Will Ungraded Price of the Mega Charizard Y ex on Collectr be above $613.81 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 1108.24,
@@ -408,7 +482,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULMEGDRAEX-795.01",
+    "event_ticker": "KXPOKEMON-26JULMEGDRAEX",
     "product": "Mega Dragonite ex",
+    "strike": 795.01,
     "title": "Will Ungraded Price of the Mega Dragonite ex on Collectr be above $795.01 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 3042.52,
@@ -419,7 +495,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULPIKEX-1286.63",
+    "event_ticker": "KXPOKEMON-26JULPIKEX",
     "product": "Pikachu ex",
+    "strike": 1286.63,
     "title": "Will Ungraded Price of the Pikachu ex on Collectr be above $1286.63 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 793.02,
@@ -430,7 +508,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULMEGGENEX-1390.04",
+    "event_ticker": "KXPOKEMON-26JULMEGGENEX",
     "product": "Mega Gengar ex",
+    "strike": 1390.04,
     "title": "Will Ungraded Price of the Mega Gengar ex on Collectr be above $1390.04 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 6485.45,
@@ -441,7 +521,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULASCHERPO-445.57",
+    "event_ticker": "KXPOKEMON-26JULASCHERPO",
     "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+    "strike": 445.57,
     "title": "Will Ungraded Price of the Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive) on Collectr be above $445.57 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 8371.35,
@@ -452,7 +534,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULCELULTPR-1264.36",
+    "event_ticker": "KXPOKEMON-26JULCELULTPR",
     "product": "Celebrations Ultra Premium Collection",
+    "strike": 1264.36,
     "title": "Will Ungraded Price of the Celebrations Ultra Premium Collection on Collectr be above $1264.36 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 897.34,
@@ -463,7 +547,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULBLOWATPR-361.24",
+    "event_ticker": "KXPOKEMON-26JULBLOWATPR",
     "product": "Blooming Waters Premium Collection",
+    "strike": 361.24,
     "title": "Will Ungraded Price of the Blooming Waters Premium Collection on Collectr be above $361.24 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 1951.06,
@@ -474,7 +560,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JUL151ULTCO-1006.43",
+    "event_ticker": "KXPOKEMON-26JUL151ULTCO",
     "product": "151 Ultra-Premium Collection",
+    "strike": 1006.43,
     "title": "Will Ungraded Price of the 151 Ultra-Premium Collection on Collectr be above $1006.43 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 7519.73,
@@ -485,7 +573,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULCHAEX-422.12",
+    "event_ticker": "KXPOKEMON-26JULCHAEX",
     "product": "Charizard ex",
+    "strike": 422.12,
     "title": "Will Ungraded Price of the Charizard ex on Collectr be above $422.12 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 1812.56,
@@ -496,7 +586,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULMEGCHAXE-38.47",
+    "event_ticker": "KXPOKEMON-26JULMEGCHAXE",
     "product": "Mega Charizard X ex",
+    "strike": 38.47,
     "title": "Will Ungraded Price of the Mega Charizard X ex on Collectr be above $38.47 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 1037.09,
@@ -507,7 +599,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULFIRPARIL-75.1",
+    "event_ticker": "KXPOKEMON-26JULFIRPARIL",
     "product": "First Partner Illustration Collection (Series 1)",
+    "strike": 75.1,
     "title": "Will Ungraded Price of the First Partner Illustration Collection (Series 1) on Collectr be above $75.1 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 2175.89,
@@ -518,7 +612,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULASCHEREL-175.75",
+    "event_ticker": "KXPOKEMON-26JULASCHEREL",
     "product": "Ascended Heroes Elite Trainer Box",
+    "strike": 175.75,
     "title": "Will Ungraded Price of the Ascended Heroes Elite Trainer Box on Collectr be above $175.75 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 4477.65,
@@ -529,7 +625,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULPERORDBO-222.7",
+    "event_ticker": "KXPOKEMON-26JULPERORDBO",
     "product": "Perfect Order Booster Box",
+    "strike": 222.7,
     "title": "Will Ungraded Price of the Perfect Order Booster Box on Collectr be above $222.7 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 1831.81,
@@ -540,7 +638,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULPERORDPO-134.96",
+    "event_ticker": "KXPOKEMON-26JULPERORDPO",
     "product": "Perfect Order Pokemon Center Elite Trainer Box",
+    "strike": 134.96,
     "title": "Will Ungraded Price of the Perfect Order Pokemon Center Elite Trainer Box on Collectr be above $134.96 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 2034.15,
@@ -551,7 +651,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULGENCOSHO-125.59",
+    "event_ticker": "KXPOKEMON-26JULGENCOSHO",
     "product": "Gengar (Cosmos Holo) (EB Games Exclusive)",
+    "strike": 125.59,
     "title": "Will Ungraded Price of the Gengar (Cosmos Holo) (EB Games Exclusive) on Collectr be above $125.59 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 3115.77,
@@ -562,7 +664,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULSQU-31.54",
+    "event_ticker": "KXPOKEMON-26JULSQU",
     "product": "Squirtle",
+    "strike": 31.54,
     "title": "Will Ungraded Price of the Squirtle on Collectr be above $31.54 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 2339.02,
@@ -573,7 +677,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULBUL-31.52",
+    "event_ticker": "KXPOKEMON-26JULBUL",
     "product": "Bulbasaur",
+    "strike": 31.52,
     "title": "Will Ungraded Price of the Bulbasaur on Collectr be above $31.52 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 4616.17,
@@ -584,7 +690,9 @@
   },
   {
     "ticker": "KXPOKEMON-26JULCHA-42.39",
+    "event_ticker": "KXPOKEMON-26JULCHA",
     "product": "Charmander",
+    "strike": 42.39,
     "title": "Will Ungraded Price of the Charmander on Collectr be above $42.39 on 2026-07-31T23:59:00-04:00?",
     "status": "finalized",
     "volume": 997.31,

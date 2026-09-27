@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "volumemaster2",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Shows TCGplayer sales volume on Kalshi's Pok\u00e9mon markets page.",
   "browser_specific_settings": {
     "gecko": {

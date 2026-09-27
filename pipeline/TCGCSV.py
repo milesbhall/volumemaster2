@@ -2,7 +2,7 @@
 
 Uses TCGCSV (free, no key), which mirrors TCGplayer's catalog and current
 market prices. A Kalshi name matching exactly one TCGplayer product is used
-as-is. Generic card names (e.g. "Squirtle") are matched to the printing whose
+as-is. A bare card name that fits many printings is matched to the one whose
 market price is closest to the Kalshi strike, since Kalshi sets strikes near
 the current price.
 
@@ -73,7 +73,7 @@ def load_catalog():
 
 
 def base_name(product_name):
-    """ "Squirtle - 083/112" and "Charmander (Delta Species)" -> "squirtle" / "charmander"."""
+    """Card name without its number or note: "<Name> - 083/112" or "<Name> (Promo)" -> "<name>"."""
     return normalize(re.split(r" - | \(", product_name)[0])
 
 

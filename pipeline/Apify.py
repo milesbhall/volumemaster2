@@ -9,7 +9,7 @@ Output: data/sales/<product>.json for each product.
 Cost: the actor charges $0.10 per run plus $0.003 per result. Its data is in
 weekly buckets, so each product is refreshed at most once a week. New
 products, and products whose Kalshi market opened after their last fetch
-(e.g. at the start of a new month), are fetched immediately.
+(as happens when a new month's markets open), are fetched immediately.
 
 The Apify token is read from the APIFY_TOKEN environment variable, or from
 the git-ignored .apify_token file in the project root.

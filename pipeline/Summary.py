@@ -1,6 +1,6 @@
 """Step 4: build data/overlay.json, the one file the Firefox extension reads.
 
-Keyed by Kalshi event ticker (e.g. "KXPOKEMON-26SEPSQU"); each active event
+Keyed by Kalshi event ticker (one event per product per month); each active event
 gets its markets, its matched TCGplayer product, TCGplayer sales totals per
 week for the matched printing (English, all conditions), and a sales-volume
 level comparing TCGplayer spending with Kalshi volume since the (monthly)
@@ -116,7 +116,7 @@ def main():
     for m in markets:
         if m["status"] != "active":
             continue
-        event_ticker, strike = m["ticker"].rsplit("-", 1)
+        event_ticker = m["event_ticker"]
         name = m["product"]
         if event_ticker not in events:
             match = id_map.get(name, {})
@@ -138,7 +138,7 @@ def main():
             }
         events[event_ticker]["markets"].append({
             "ticker": m["ticker"],
-            "strike": float(strike),
+            "strike": m["strike"],
             "yes_price": m["yes_price"],
             "no_price": m["no_price"],
             "volume": m["volume"],

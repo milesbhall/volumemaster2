@@ -55,7 +55,7 @@ const compactDollars = (n) =>
   n < 1000 ? dollars(n) : `$${Intl.NumberFormat(undefined, { notation: "compact", maximumFractionDigits: 1 }).format(n)}`;
 const count = (n) => n.toLocaleString();
 const shortDate = (iso) => new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
-// "Sep 3–27" or "Sep 28–Oct 4" for a sales_volume period.
+// A sales_volume period as "<Mon> <d>–<d>", or "<Mon> <d>–<Mon> <d>" across months.
 function periodLabel(period) {
   const start = new Date(period.start), end = new Date(period.end);
   const sameMonth = start.getMonth() === end.getMonth();
@@ -77,7 +77,9 @@ function compareBars(event, compact) {
       h("div", { class: "bar-value" }, compact ? compactDollars(value) : dollars(value)));
   return h("div", { class: `compare${compact ? " compact" : ""}` },
     row("kalshi", `Kalshi volume, ${when}`, kalshi),
-    row("tcg", `TCGplayer sales, ${when}`, tcg));
+    sv
+      ? row("tcg", `TCGplayer sales, ${when}`, tcg)
+      : h("div", { class: "pending" }, "TCGplayer sales for this market aren't in yet."));
 }
 
 function warningText(event) {
@@ -94,6 +96,7 @@ function warningText(event) {
 }
 
 function badge(level) {
+  if (!LEVELS[level]) return h("span", { class: "badge pending" }, "Pending");
   return h("span", { class: `badge ${level}` }, LEVELS[level].label.replace(" sales volume", ""));
 }
 
@@ -104,6 +107,7 @@ function overviewView(overlay) {
     (LEVELS[a.sales_volume?.level]?.order ?? 3) - (LEVELS[b.sales_volume?.level]?.order ?? 3) ||
     (b.sales_volume?.kalshi_volume ?? 0) - (a.sales_volume?.kalshi_volume ?? 0));
   const period = Object.values(overlay.events).find((e) => e.sales_volume)?.sales_volume.period;
+  if (!rows.length) return [h("div", { class: "note" }, "No active Pokémon markets right now.")];
 
   return [
     h("div", { class: "legend" },
@@ -114,7 +118,7 @@ function overviewView(overlay) {
       h("button", { class: "row", onclick: () => choose(ticker) },
         h("div", { class: "row-head" },
           h("span", { class: "row-name" }, event.product),
-          event.sales_volume && badge(event.sales_volume.level)),
+          badge(event.sales_volume?.level)),
         compareBars(event, true)))),
   ];
 }
@@ -123,7 +127,8 @@ function eventView(event) {
   const tcg = event.tcgplayer;
   const sales = event.sales;
   const sv = event.sales_volume;
-  const strike = event.markets[0]?.strike;
+  const strikes = event.markets.map((m) => m.strike).filter((x) => x != null).sort((a, b) => a - b);
+  const strike = strikes[0];
   const body = [];
 
   body.push(compareBars(event, false));
@@ -141,11 +146,12 @@ function eventView(event) {
       h("a", { class: "match", href: tcg.url, target: "_blank", rel: "noopener" }, `${tcg.name} · ${tcg.set}`),
       h("div", { class: "prices" },
         closest != null ? `TCGplayer ${money(closest)}` : "No TCGplayer market price",
-        strike != null ? ` · Kalshi strike ${money(strike)}` : "",
+        strikes.length > 1 ? ` · Kalshi strikes ${money(strikes[0])}–${money(strikes[strikes.length - 1])}`
+          : strike != null ? ` · Kalshi strike ${money(strike)}` : "",
         tcg.price_gap ? ` (${tcg.price_gap} apart)` : ""),
     );
     const notes = [];
-    if (tcg.matched_by === "closest price") notes.push("Card matched by price; Kalshi doesn't name the set.");
+    if (tcg.matched_by === "closest price") notes.push("Matched by price: this name fits several TCGplayer products.");
     if (sales?.variant) notes.push(`Sales counted for the ${sales.variant} printing only (English, all conditions).`);
     if (notes.length) body.push(h("div", { class: "note" }, notes.join(" ")));
   } else {
@@ -212,7 +218,7 @@ function renderPanel(overlay, ticker) {
         h("strong", {}, event.product))
     : h("div", { class: "title" }, h("strong", {}, "Pokémon markets"), ` · ${Object.keys(overlay.events).length} active`);
 
-  const header = h("header", {}, title, event?.sales_volume && collapsed ? badge(event.sales_volume.level) : null, toggle);
+  const header = h("header", {}, title, event && collapsed ? badge(event.sales_volume?.level) : null, toggle);
   if (collapsed) header.onclick = (e) => { if (e.target === header) setCollapsed(false); };
 
   return h("section", { class: `panel${collapsed ? " collapsed" : ""}` },
@@ -329,6 +335,8 @@ const STYLES = `
   .badge.low { color: var(--low); background: var(--low-bg); }
   .badge.moderate { color: var(--mod); background: var(--mod-bg); }
   .badge.high { color: var(--high); background: var(--high-bg); }
+  .badge.pending { color: var(--muted); background: var(--track); }
+  .pending { font-size: 11px; color: var(--muted); }
 
   .compare { display: grid; gap: 6px; }
   .compare.compact { gap: 3px; }
