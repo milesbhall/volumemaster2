@@ -6,11 +6,11 @@
     "strike": 407.86,
     "title": "Will Ungraded Price of the Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive) on Collectr be above $407.86 on ?",
     "status": "active",
-    "volume": 4958.69,
+    "volume": 5037.12,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.12,
-    "no_price": 0.93
+    "yes_price": 0.07,
+    "no_price": 0.95
   },
   {
     "ticker": "KXPOKEMON-26SEPCELULTPR-1237.81",
@@ -19,11 +19,11 @@
     "strike": 1237.81,
     "title": "Will Ungraded Price of the Celebrations Ultra Premium Collection on Collectr be above $1237.81 on ?",
     "status": "active",
-    "volume": 4970.72,
+    "volume": 5453.66,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.21,
-    "no_price": 0.97
+    "yes_price": 0.18,
+    "no_price": 0.98
   },
   {
     "ticker": "KXPOKEMON-26SEPBLOWATPR-326.19",
@@ -32,11 +32,11 @@
     "strike": 326.19,
     "title": "Will Ungraded Price of the Blooming Waters Premium Collection on Collectr be above $326.19 on ?",
     "status": "active",
-    "volume": 1400.27,
+    "volume": 1828.96,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.82,
-    "no_price": 0.75
+    "yes_price": 0.9,
+    "no_price": 0.16
   },
   {
     "ticker": "KXPOKEMON-26SEP151ULTCO-932.18",
@@ -45,10 +45,10 @@
     "strike": 932.18,
     "title": "Will Ungraded Price of the 151 Ultra-Premium Collection on Collectr be above $932.18 on ?",
     "status": "active",
-    "volume": 4076.02,
+    "volume": 4268.58,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.15,
+    "yes_price": 0.14,
     "no_price": 0.97
   },
   {
@@ -58,11 +58,11 @@
     "strike": 364.08,
     "title": "Will Ungraded Price of the Charizard ex on Collectr be above $364.08 on ?",
     "status": "active",
-    "volume": 2156.71,
+    "volume": 2160.81,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.1,
-    "no_price": 0.97
+    "yes_price": 0.09,
+    "no_price": 0.96
   },
   {
     "ticker": "KXPOKEMON-26SEPMEGCHAXE-34.21",
@@ -100,7 +100,7 @@
     "volume": 4179.28,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.14,
+    "yes_price": 0.12,
     "no_price": 0.92
   },
   {
@@ -110,11 +110,11 @@
     "strike": 174.14,
     "title": "Will Ungraded Price of the Perfect Order Booster Box on Collectr be above $174.14 on ?",
     "status": "active",
-    "volume": 2007.61,
+    "volume": 2118.75,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.87,
-    "no_price": 0.2
+    "yes_price": 0.88,
+    "no_price": 0.18
   },
   {
     "ticker": "KXPOKEMON-26SEPPERORDPO-121.39",
@@ -123,11 +123,11 @@
     "strike": 121.39,
     "title": "Will Ungraded Price of the Perfect Order Pokemon Center Elite Trainer Box on Collectr be above $121.39 on ?",
     "status": "active",
-    "volume": 6308.58,
+    "volume": 6377.78,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.86,
-    "no_price": 0.2
+    "yes_price": 0.87,
+    "no_price": 0.17
   },
   {
     "ticker": "KXPOKEMON-26SEPGENCOSHO-183.5",
@@ -136,11 +136,11 @@
     "strike": 183.5,
     "title": "Will Ungraded Price of the Gengar (Cosmos Holo) (EB Games Exclusive) on Collectr be above $183.5 on ?",
     "status": "active",
-    "volume": 1588.44,
+    "volume": 2316.46,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.78,
-    "no_price": 0.6
+    "yes_price": 0.39,
+    "no_price": 0.7
   },
   {
     "ticker": "KXPOKEMON-26SEPSQU-27.82",
@@ -162,11 +162,11 @@
     "strike": 28.81,
     "title": "Will Ungraded Price of the Bulbasaur on Collectr be above $28.81 on ?",
     "status": "active",
-    "volume": 1073.93,
+    "volume": 1076.04,
     "open_time": "2026-09-03T02:02:00Z",
     "close_time": "2026-10-01T03:59:00Z",
-    "yes_price": 0.14,
-    "no_price": 0.93
+    "yes_price": 0.13,
+    "no_price": 0.95
   },
   {
     "ticker": "KXPOKEMON-26SEPCHA-39.87",

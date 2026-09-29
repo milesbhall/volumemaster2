@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:28:08.237522+00:00",
+  "generated_at": "2026-09-29T00:41:38.363595+00:00",
   "events": {
     "KXPOKEMON-26SEPASCHERPO": {
       "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
@@ -7,9 +7,9 @@
         {
           "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",
           "strike": 407.86,
-          "yes_price": 0.12,
-          "no_price": 0.93,
-          "volume": 4958.69,
+          "yes_price": 0.07,
+          "no_price": 0.95,
+          "volume": 5037.12,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -21,7 +21,7 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          358.13
+          357.87
         ],
         "price_gap": "12%",
         "matched_by": "exact name"
@@ -346,7 +346,7 @@
           }
         ]
       },
-      "kalshi_volume": 4958.69,
+      "kalshi_volume": 5037.12,
       "sales_volume": {
         "level": "moderate",
         "ratio": 4.573,
@@ -370,9 +370,9 @@
         {
           "ticker": "KXPOKEMON-26SEPCELULTPR-1237.81",
           "strike": 1237.81,
-          "yes_price": 0.21,
-          "no_price": 0.97,
-          "volume": 4970.72,
+          "yes_price": 0.18,
+          "no_price": 0.98,
+          "volume": 5453.66,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -709,7 +709,7 @@
           }
         ]
       },
-      "kalshi_volume": 4970.72,
+      "kalshi_volume": 5453.66,
       "sales_volume": {
         "level": "low",
         "ratio": 1.666,
@@ -733,9 +733,9 @@
         {
           "ticker": "KXPOKEMON-26SEPBLOWATPR-326.19",
           "strike": 326.19,
-          "yes_price": 0.82,
-          "no_price": 0.75,
-          "volume": 1400.27,
+          "yes_price": 0.9,
+          "no_price": 0.16,
+          "volume": 1828.96,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -1072,7 +1072,7 @@
           }
         ]
       },
-      "kalshi_volume": 1400.27,
+      "kalshi_volume": 1828.96,
       "sales_volume": {
         "level": "moderate",
         "ratio": 6.715,
@@ -1096,9 +1096,9 @@
         {
           "ticker": "KXPOKEMON-26SEP151ULTCO-932.18",
           "strike": 932.18,
-          "yes_price": 0.15,
+          "yes_price": 0.14,
           "no_price": 0.97,
-          "volume": 4076.02,
+          "volume": 4268.58,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -1110,9 +1110,9 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          881.05
+          879.45
         ],
-        "price_gap": "5%",
+        "price_gap": "6%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "kalshi_volume": 4076.02,
+      "kalshi_volume": 4268.58,
       "sales_volume": {
         "level": "moderate",
         "ratio": 5.296,
@@ -1459,9 +1459,9 @@
         {
           "ticker": "KXPOKEMON-26SEPCHAEX-364.08",
           "strike": 364.08,
-          "yes_price": 0.1,
-          "no_price": 0.97,
-          "volume": 2156.71,
+          "yes_price": 0.09,
+          "no_price": 0.96,
+          "volume": 2160.81,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -1473,9 +1473,9 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Holofoil",
         "market_prices": [
-          348.31
+          354.07
         ],
-        "price_gap": "4%",
+        "price_gap": "3%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -1798,7 +1798,7 @@
           }
         ]
       },
-      "kalshi_volume": 2156.71,
+      "kalshi_volume": 2160.81,
       "sales_volume": {
         "level": "high",
         "ratio": 22.59,
@@ -1836,9 +1836,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          27.64
+          27.41
         ],
-        "price_gap": "19%",
+        "price_gap": "20%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -2199,7 +2199,7 @@
         "set": "First Partner Collection 2026",
         "variant": "Normal",
         "market_prices": [
-          65.04
+          65.23
         ],
         "price_gap": "5%",
         "matched_by": "exact name"
@@ -2548,7 +2548,7 @@
         {
           "ticker": "KXPOKEMON-26SEPASCHEREL-169.14",
           "strike": 169.14,
-          "yes_price": 0.14,
+          "yes_price": 0.12,
           "no_price": 0.92,
           "volume": 4179.28,
           "open_time": "2026-09-03T02:02:00Z",
@@ -2562,9 +2562,9 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          151.75
+          151.29
         ],
-        "price_gap": "10%",
+        "price_gap": "11%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -2911,9 +2911,9 @@
         {
           "ticker": "KXPOKEMON-26SEPPERORDBO-174.14",
           "strike": 174.14,
-          "yes_price": 0.87,
-          "no_price": 0.2,
-          "volume": 2007.61,
+          "yes_price": 0.88,
+          "no_price": 0.18,
+          "volume": 2118.75,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -2925,7 +2925,7 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          176.28
+          175.75
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -3250,7 +3250,7 @@
           }
         ]
       },
-      "kalshi_volume": 2007.61,
+      "kalshi_volume": 2118.75,
       "sales_volume": {
         "level": "high",
         "ratio": 29.792,
@@ -3274,9 +3274,9 @@
         {
           "ticker": "KXPOKEMON-26SEPPERORDPO-121.39",
           "strike": 121.39,
-          "yes_price": 0.86,
-          "no_price": 0.2,
-          "volume": 6308.58,
+          "yes_price": 0.87,
+          "no_price": 0.17,
+          "volume": 6377.78,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -3288,7 +3288,7 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          123.39
+          123.42
         ],
         "price_gap": "2%",
         "matched_by": "exact name"
@@ -3613,7 +3613,7 @@
           }
         ]
       },
-      "kalshi_volume": 6308.58,
+      "kalshi_volume": 6377.78,
       "sales_volume": {
         "level": "moderate",
         "ratio": 1.452,
@@ -3637,9 +3637,9 @@
         {
           "ticker": "KXPOKEMON-26SEPGENCOSHO-183.5",
           "strike": 183.5,
-          "yes_price": 0.78,
-          "no_price": 0.6,
-          "volume": 1588.44,
+          "yes_price": 0.39,
+          "no_price": 0.7,
+          "volume": 2316.46,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -3976,7 +3976,7 @@
           }
         ]
       },
-      "kalshi_volume": 1588.44,
+      "kalshi_volume": 2316.46,
       "sales_volume": {
         "level": "low",
         "ratio": 0.504,
@@ -4364,9 +4364,9 @@
         {
           "ticker": "KXPOKEMON-26SEPBUL-28.81",
           "strike": 28.81,
-          "yes_price": 0.14,
-          "no_price": 0.93,
-          "volume": 1073.93,
+          "yes_price": 0.13,
+          "no_price": 0.95,
+          "volume": 1076.04,
           "open_time": "2026-09-03T02:02:00Z",
           "close_time": "2026-10-01T03:59:00Z"
         }
@@ -4704,7 +4704,7 @@
           }
         ]
       },
-      "kalshi_volume": 1073.93,
+      "kalshi_volume": 1076.04,
       "sales_volume": {
         "level": "low",
         "ratio": 0.048,
@@ -4742,7 +4742,7 @@
         "set": "SV: Paldean Fates",
         "variant": "Holofoil",
         "market_prices": [
-          41.23
+          41.24
         ],
         "price_gap": "3%",
         "matched_by": "closest price"
