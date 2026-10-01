@@ -6,9 +6,9 @@
     "tcgplayer_name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      356.96
+      356.32
     ],
-    "price_gap": "12%",
+    "price_gap": "13%",
     "variant": "Normal"
   },
   "Celebrations Ultra Premium Collection": {
@@ -18,7 +18,7 @@
     "tcgplayer_name": "Celebrations Ultra-Premium Collection",
     "set": "Celebrations",
     "tcgplayer_market_prices": [
-      1226.14
+      1227.74
     ],
     "price_gap": "1%",
     "variant": "Normal"
@@ -30,7 +30,7 @@
     "tcgplayer_name": "Blooming Waters Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      335.74
+      336.49
     ],
     "price_gap": "3%",
     "variant": "Normal"
@@ -54,7 +54,7 @@
     "tcgplayer_name": "Charizard ex - 199/165",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      353.06
+      351.69
     ],
     "price_gap": "3%",
     "other_candidates": [
@@ -131,9 +131,9 @@
     "tcgplayer_name": "Mega Charizard X ex - 023",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      26.03
+      26.68
     ],
-    "price_gap": "24%",
+    "price_gap": "22%",
     "other_candidates": [
       {
         "product_id": 662183,
@@ -199,7 +199,7 @@
     "tcgplayer_name": "First Partner Illustration Collection (Series 1)",
     "set": "First Partner Collection 2026",
     "tcgplayer_market_prices": [
-      64.81
+      64.82
     ],
     "price_gap": "6%",
     "variant": "Normal"
@@ -211,9 +211,9 @@
     "tcgplayer_name": "Ascended Heroes Elite Trainer Box",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      152.05
+      153.64
     ],
-    "price_gap": "10%",
+    "price_gap": "9%",
     "variant": "Normal"
   },
   "Perfect Order Booster Box": {
@@ -223,7 +223,7 @@
     "tcgplayer_name": "Perfect Order Booster Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      171.83
+      173.1
     ],
     "price_gap": "1%",
     "variant": "Normal"
@@ -235,9 +235,9 @@
     "tcgplayer_name": "Perfect Order Pokemon Center Elite Trainer Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      123.36
+      122.85
     ],
-    "price_gap": "2%",
+    "price_gap": "1%",
     "variant": "Normal"
   },
   "Gengar (Cosmos Holo) (EB Games Exclusive)": {
@@ -259,7 +259,7 @@
     "tcgplayer_name": "Squirtle",
     "set": "Secret Wonders",
     "tcgplayer_market_prices": [
-      7.89,
+      8.42,
       29.92
     ],
     "price_gap": "8%",
@@ -420,7 +420,7 @@
     "tcgplayer_name": "Charmander - 109/091",
     "set": "SV: Paldean Fates",
     "tcgplayer_market_prices": [
-      41.48
+      41.41
     ],
     "price_gap": "4%",
     "other_candidates": [
