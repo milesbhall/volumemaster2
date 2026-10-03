@@ -491,5 +491,267 @@
       }
     ],
     "variant": "Holofoil"
+  },
+  "Pikachu ex - 109 (30th Celebration)": {
+    "product_id": 713256,
+    "matched_by": "exact name",
+    "kalshi_price": 299.99,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Pikachu ex - 109 (30th Celebration)",
+    "set": "ME: Mega Evolution Promo",
+    "tcgplayer_market_prices": [
+      299.95
+    ],
+    "price_gap": "0%"
+  },
+  "Mew ex": {
+    "product_id": 717605,
+    "matched_by": "closest price",
+    "other_candidates": [
+      {
+        "product_id": 696688,
+        "name": "Mew ex - 158/128",
+        "set": "ME: 30th Celebration",
+        "url": "https://www.tcgplayer.com/product/696688/pokemon-me-30th-celebration-mew-ex-158-128",
+        "market_prices": [
+          67.93
+        ],
+        "variant_prices": {
+          "Holofoil": 67.93
+        }
+      },
+      {
+        "product_id": 518871,
+        "name": "Mew ex - 053",
+        "set": "SV: Scarlet & Violet Promo Cards",
+        "url": "https://www.tcgplayer.com/product/518871/pokemon-sv-scarlet-and-violet-promo-cards-mew-ex-053",
+        "market_prices": [
+          65.88
+        ],
+        "variant_prices": {
+          "Holofoil": 65.88
+        }
+      },
+      {
+        "product_id": 565479,
+        "name": "Mew ex - 151/165",
+        "set": "Prize Pack Series Cards",
+        "url": "https://www.tcgplayer.com/product/565479/pokemon-prize-pack-series-cards-mew-ex-151-165",
+        "market_prices": [
+          43.18
+        ],
+        "variant_prices": {
+          "Holofoil": 43.18
+        }
+      },
+      {
+        "product_id": 87411,
+        "name": "Mew EX",
+        "set": "Dragons Exalted",
+        "url": "https://www.tcgplayer.com/product/87411/pokemon-dragons-exalted-mew-ex",
+        "market_prices": [
+          127.8
+        ],
+        "variant_prices": {
+          "Holofoil": 127.8
+        }
+      },
+      {
+        "product_id": 517027,
+        "name": "Mew ex - 193/165",
+        "set": "SV: Scarlet & Violet 151",
+        "url": "https://www.tcgplayer.com/product/517027/pokemon-sv-scarlet-and-violet-151-mew-ex-193-165",
+        "market_prices": [
+          29.25
+        ],
+        "variant_prices": {
+          "Holofoil": 29.25
+        }
+      },
+      {
+        "product_id": 535527,
+        "name": "Mew ex - 216/091",
+        "set": "SV: Paldean Fates",
+        "url": "https://www.tcgplayer.com/product/535527/pokemon-sv-paldean-fates-mew-ex-216-091",
+        "market_prices": [
+          29.14
+        ],
+        "variant_prices": {
+          "Holofoil": 29.14
+        }
+      },
+      {
+        "product_id": 637592,
+        "name": "Mew ex - 151/165 - 2024 (Evan Pavelski)",
+        "set": "World Championship Decks",
+        "url": "https://www.tcgplayer.com/product/637592/pokemon-world-championship-decks-mew-ex-151-165-2024-evan-pavelski",
+        "market_prices": [
+          27.73
+        ],
+        "variant_prices": {
+          "Normal": 27.73
+        }
+      }
+    ],
+    "kalshi_price": 84.4,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Mew ex - 152/128",
+    "set": "ME: 30th Celebration",
+    "tcgplayer_market_prices": [
+      95.91
+    ],
+    "price_gap": "14%"
+  },
+  "Charizard": {
+    "product_id": 527938,
+    "matched_by": "closest price",
+    "other_candidates": [
+      {
+        "product_id": 84189,
+        "name": "Charizard",
+        "set": "Secret Wonders",
+        "url": "https://www.tcgplayer.com/product/84189/pokemon-secret-wonders-charizard",
+        "market_prices": [
+          137.72,
+          179.99
+        ],
+        "variant_prices": {
+          "Holofoil": 137.72,
+          "Reverse Holofoil": 179.99
+        }
+      },
+      {
+        "product_id": 84188,
+        "name": "Charizard",
+        "set": "EX Power Keepers",
+        "url": "https://www.tcgplayer.com/product/84188/pokemon-ex-power-keepers-charizard",
+        "market_prices": [
+          176.65,
+          365.95
+        ],
+        "variant_prices": {
+          "Holofoil": 176.65,
+          "Reverse Holofoil": 365.95
+        }
+      },
+      {
+        "product_id": 84184,
+        "name": "Charizard (39)",
+        "set": "Expedition",
+        "url": "https://www.tcgplayer.com/product/84184/pokemon-expedition-charizard-39",
+        "market_prices": [
+          170.32,
+          377.75
+        ],
+        "variant_prices": {
+          "Normal": 170.32,
+          "Reverse Holofoil": 377.75
+        }
+      },
+      {
+        "product_id": 714372,
+        "name": "Charizard",
+        "set": "ME: 30th Celebration Classic Collection",
+        "url": "https://www.tcgplayer.com/product/714372/pokemon-me-30th-celebration-classic-collection-charizard",
+        "market_prices": [
+          170.27
+        ],
+        "variant_prices": {
+          "Holofoil": 170.27
+        }
+      },
+      {
+        "product_id": 250320,
+        "name": "Charizard",
+        "set": "Celebrations: Classic Collection",
+        "url": "https://www.tcgplayer.com/product/250320/pokemon-celebrations-classic-collection-charizard",
+        "market_prices": [
+          153.99
+        ],
+        "variant_prices": {
+          "Holofoil": 153.99
+        }
+      },
+      {
+        "product_id": 84185,
+        "name": "Charizard (40)",
+        "set": "Expedition",
+        "url": "https://www.tcgplayer.com/product/84185/pokemon-expedition-charizard-40",
+        "market_prices": [
+          149.19,
+          449.99
+        ],
+        "variant_prices": {
+          "Normal": 149.19,
+          "Reverse Holofoil": 449.99
+        }
+      },
+      {
+        "product_id": 118404,
+        "name": "Charizard - 3/110 (WotC Legendary Collection)",
+        "set": "Deck Exclusives",
+        "url": "https://www.tcgplayer.com/product/118404/pokemon-deck-exclusives-charizard-3-110-wotc-legendary-collection",
+        "market_prices": [
+          142.25
+        ],
+        "variant_prices": {
+          "Normal": 142.25
+        }
+      }
+    ],
+    "kalshi_price": 194.14,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Charizard",
+    "set": "Trading Card Game Classic",
+    "tcgplayer_market_prices": [
+      187.53
+    ],
+    "price_gap": "3%"
+  },
+  "Mew - R/RGB": {
+    "product_id": 717607,
+    "matched_by": "exact name",
+    "kalshi_price": 6000.27,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Mew - R/RGB",
+    "set": "ME: 30th Celebration",
+    "tcgplayer_market_prices": [
+      6000.27
+    ],
+    "price_gap": "0%"
+  },
+  "Mew - G/RGB": {
+    "product_id": 717608,
+    "matched_by": "exact name",
+    "kalshi_price": 3738.75,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Mew - G/RGB",
+    "set": "ME: 30th Celebration",
+    "tcgplayer_market_prices": [
+      3738.75
+    ],
+    "price_gap": "0%"
+  },
+  "Mew - B/RGB": {
+    "product_id": 717609,
+    "matched_by": "exact name",
+    "kalshi_price": 5010.87,
+    "variant": null,
+    "tcgplayer_name": "Mew - B/RGB",
+    "set": "ME: 30th Celebration",
+    "tcgplayer_market_prices": [],
+    "price_gap": null
+  },
+  "30th Celebration Pokemon Center Elite Trainer Box": {
+    "product_id": 704144,
+    "matched_by": "exact name",
+    "kalshi_price": 313.44,
+    "variant": "Normal",
+    "tcgplayer_name": "30th Celebration Pokemon Center Elite Trainer Box",
+    "set": "ME: 30th Celebration",
+    "tcgplayer_market_prices": [
+      297.01
+    ],
+    "price_gap": "5%"
   }
 }
