@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:35:33.730498+00:00",
+  "generated_at": "2026-10-07T00:13:34.246822+00:00",
   "events": {
     "KXPOKEMON-26OCTPIKEX109": {
       "product": "Pikachu ex - 109 (30th Celebration)",
@@ -384,7 +384,7 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          92.28
+          91.65
         ],
         "price_gap": "9%",
         "matched_by": "closest price"
@@ -733,9 +733,9 @@
         {
           "ticker": "KXPOKEMON-26OCTCHA-194.14",
           "strike": 194.14,
-          "yes_price": 0.21,
+          "yes_price": 0.2,
           "no_price": 0.95,
-          "volume": 802.79,
+          "volume": 836.24,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1072,7 +1072,7 @@
           }
         ]
       },
-      "kalshi_volume": 802.79,
+      "kalshi_volume": 836.24,
       "sales_volume": {
         "level": "low",
         "ratio": 0.106,
@@ -1096,7 +1096,7 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWRRG-6000.27",
           "strike": 6000.27,
-          "yes_price": 0.24,
+          "yes_price": 0.23,
           "no_price": 0.8,
           "volume": 206.0,
           "open_time": "2026-10-03T02:01:00Z",
@@ -1459,7 +1459,7 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWGRG-3738.75",
           "strike": 3738.75,
-          "yes_price": 0.96,
+          "yes_price": 0.92,
           "no_price": 0.79,
           "volume": 0.0,
           "open_time": "2026-10-03T02:01:00Z",
@@ -1822,7 +1822,7 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWBRG-5010.87",
           "strike": 5010.87,
-          "yes_price": 0.97,
+          "yes_price": 0.95,
           "no_price": 0.79,
           "volume": 0.0,
           "open_time": "2026-10-03T02:01:00Z",
@@ -1856,8 +1856,8 @@
           "ticker": "KXPOKEMON-26OCT30TCELPO-313.44",
           "strike": 313.44,
           "yes_price": 0.3,
-          "no_price": 0.91,
-          "volume": 295.32,
+          "no_price": 0.92,
+          "volume": 348.12,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1869,9 +1869,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          291.45
+          288.11
         ],
-        "price_gap": "7%",
+        "price_gap": "8%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -2194,7 +2194,7 @@
           }
         ]
       },
-      "kalshi_volume": 295.32,
+      "kalshi_volume": 348.12,
       "sales_volume": {
         "level": "high",
         "ratio": 176.55,
