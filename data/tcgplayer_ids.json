@@ -598,9 +598,9 @@
     "tcgplayer_name": "Mew ex - 152/128",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      86.86
+      87.74
     ],
-    "price_gap": "3%"
+    "price_gap": "4%"
   },
   "Charizard": {
     "product_id": 527938,
@@ -704,9 +704,9 @@
     "tcgplayer_name": "Charizard",
     "set": "Trading Card Game Classic",
     "tcgplayer_market_prices": [
-      186.53
+      185.27
     ],
-    "price_gap": "4%"
+    "price_gap": "5%"
   },
   "Mew - R/RGB": {
     "product_id": 717607,
@@ -752,8 +752,8 @@
     "tcgplayer_name": "30th Celebration Pokemon Center Elite Trainer Box",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      288.28
+      279.07
     ],
-    "price_gap": "8%"
+    "price_gap": "11%"
   }
 }

@@ -2,27 +2,37 @@
   "product": "Mew ex",
   "product_id": 717605,
   "tcgplayer_url": "https://www.tcgplayer.com/product/717605",
-  "fetched_at": "2026-10-03T23:25:59.767578+00:00",
+  "fetched_at": "2026-10-10T23:57:12.715155+00:00",
   "skus": [
     {
       "skuId": "9508979",
       "variant": "Holofoil",
       "language": "English",
       "condition": "Near Mint",
-      "averageDailyQuantitySold": "2",
-      "averageDailyTransactionCount": "2",
-      "totalQuantitySold": "796",
-      "totalTransactionCount": "774",
+      "averageDailyQuantitySold": "3",
+      "averageDailyTransactionCount": "3",
+      "totalQuantitySold": "1179",
+      "totalTransactionCount": "1149",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "94.23",
-          "quantitySold": "212",
-          "lowSalePrice": "90",
-          "lowSalePriceWithShipping": "91.5",
+          "marketPrice": "86.76",
+          "quantitySold": "307",
+          "lowSalePrice": "48.75",
+          "lowSalePriceWithShipping": "49.74",
+          "highSalePrice": "135",
+          "highSalePriceWithShipping": "138.99",
+          "transactionCount": "300",
+          "bucketStartDate": "2026-10-05"
+        },
+        {
+          "marketPrice": "90.71",
+          "quantitySold": "291",
+          "lowSalePrice": "84",
+          "lowSalePriceWithShipping": "84.99",
           "highSalePrice": "187.5",
           "highSalePriceWithShipping": "191.49",
-          "transactionCount": "207",
+          "transactionCount": "285",
           "bucketStartDate": "2026-09-28"
         },
         {
@@ -37,12 +47,12 @@
         },
         {
           "marketPrice": "179.33",
-          "quantitySold": "338",
+          "quantitySold": "335",
           "lowSalePrice": "150",
           "lowSalePriceWithShipping": "150",
           "highSalePrice": "279.97",
           "highSalePriceWithShipping": "284.96",
-          "transactionCount": "331",
+          "transactionCount": "328",
           "bucketStartDate": "2026-09-14"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-13"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-06"
         }
       ]
     },
@@ -544,10 +544,20 @@
       "condition": "Lightly Played",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "14",
-      "totalTransactionCount": "14",
+      "totalQuantitySold": "21",
+      "totalTransactionCount": "18",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "129.47",
+          "quantitySold": "7",
+          "lowSalePrice": "84.68",
+          "lowSalePriceWithShipping": "86.28",
+          "highSalePrice": "121.49",
+          "highSalePriceWithShipping": "123.99",
+          "transactionCount": "4",
+          "bucketStartDate": "2026-10-05"
+        },
         {
           "marketPrice": "139.29",
           "quantitySold": "5",
@@ -1057,16 +1067,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-13"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-06"
         }
       ]
     },
@@ -1081,6 +1081,16 @@
       "totalTransactionCount": "1",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "132",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-10-05"
+        },
         {
           "marketPrice": "132",
           "quantitySold": "0",
@@ -1590,16 +1600,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-13"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-06"
         }
       ]
     }

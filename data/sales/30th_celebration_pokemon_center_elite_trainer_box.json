@@ -2,7 +2,7 @@
   "product": "30th Celebration Pokemon Center Elite Trainer Box",
   "product_id": 704144,
   "tcgplayer_url": "https://www.tcgplayer.com/product/704144",
-  "fetched_at": "2026-10-03T23:26:22.245153+00:00",
+  "fetched_at": "2026-10-10T23:57:26.647461+00:00",
   "skus": [
     {
       "skuId": "9393901",
@@ -11,38 +11,48 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "3",
       "averageDailyTransactionCount": "2",
-      "totalQuantitySold": "1092",
-      "totalTransactionCount": "882",
+      "totalQuantitySold": "1177",
+      "totalTransactionCount": "957",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "296.65",
-          "quantitySold": "116",
-          "lowSalePrice": "152.98",
+          "marketPrice": "280.92",
+          "quantitySold": "72",
+          "lowSalePrice": "180",
+          "lowSalePriceWithShipping": "278.99",
+          "highSalePrice": "379.49",
+          "highSalePriceWithShipping": "404.44",
+          "transactionCount": "63",
+          "bucketStartDate": "2026-10-05"
+        },
+        {
+          "marketPrice": "288.23",
+          "quantitySold": "134",
+          "lowSalePrice": "153.99",
           "lowSalePriceWithShipping": "156.98",
           "highSalePrice": "400",
           "highSalePriceWithShipping": "407.74",
-          "transactionCount": "93",
+          "transactionCount": "109",
           "bucketStartDate": "2026-09-28"
         },
         {
           "marketPrice": "316.31",
-          "quantitySold": "184",
+          "quantitySold": "183",
           "lowSalePrice": "120.01",
           "lowSalePriceWithShipping": "291.99",
           "highSalePrice": "349.9",
           "highSalePriceWithShipping": "367.49",
-          "transactionCount": "147",
+          "transactionCount": "146",
           "bucketStartDate": "2026-09-21"
         },
         {
           "marketPrice": "321.52",
-          "quantitySold": "617",
+          "quantitySold": "613",
           "lowSalePrice": "160",
           "lowSalePriceWithShipping": "164.99",
           "highSalePrice": "549.99",
           "highSalePriceWithShipping": "562.98",
-          "transactionCount": "501",
+          "transactionCount": "498",
           "bucketStartDate": "2026-09-14"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-13"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-06"
         }
       ]
     }

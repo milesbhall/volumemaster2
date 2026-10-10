@@ -2,7 +2,7 @@
   "product": "Mew - R/RGB",
   "product_id": 717607,
   "tcgplayer_url": "https://www.tcgplayer.com/product/717607",
-  "fetched_at": "2026-10-03T23:26:09.202251+00:00",
+  "fetched_at": "2026-10-10T23:57:17.982236+00:00",
   "skus": [
     {
       "skuId": "9508989",
@@ -15,6 +15,16 @@
       "totalTransactionCount": "1",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "6000.27",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-10-05"
+        },
         {
           "marketPrice": "6000.27",
           "quantitySold": "1",
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-13"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-06"
         }
       ]
     }

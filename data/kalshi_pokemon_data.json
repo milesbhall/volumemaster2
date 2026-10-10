@@ -19,7 +19,7 @@
     "strike": 84.4,
     "title": "Will Ungraded Price of the Mew ex on Collectr be above $84.4 on Oct 31, 2026?",
     "status": "active",
-    "volume": 290.11,
+    "volume": 295.11,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
     "yes_price": 0.18,
@@ -32,10 +32,10 @@
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
     "status": "active",
-    "volume": 860.25,
+    "volume": 883.99,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.18,
+    "yes_price": 0.17,
     "no_price": 0.91
   },
   {
@@ -61,8 +61,8 @@
     "volume": 0.0,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.63,
-    "no_price": 0.78
+    "yes_price": 0.57,
+    "no_price": 0.79
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWBRG-5010.87",
@@ -74,7 +74,7 @@
     "volume": 0.0,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.25,
+    "yes_price": 0.21,
     "no_price": 0.8
   },
   {
@@ -84,11 +84,11 @@
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
     "status": "active",
-    "volume": 562.33,
+    "volume": 698.62,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.17,
-    "no_price": 0.91
+    "yes_price": 0.31,
+    "no_price": 0.94
   },
   {
     "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",
@@ -529,19 +529,6 @@
     "volume": 8600.2,
     "open_time": "2026-08-03T14:17:00Z",
     "close_time": "2026-09-01T03:59:00Z",
-    "yes_price": 1.0,
-    "no_price": 0.0
-  },
-  {
-    "ticker": "KXPOKEMON-26JULTEAROCMO-358.19",
-    "event_ticker": "KXPOKEMON-26JULTEAROCMO",
-    "product": "Team Rocket’s Moltres ex Ultra-Premium Collection",
-    "strike": 358.19,
-    "title": "Will Ungraded Price of the Team Rocket’s Moltres ex Ultra-Premium Collection on Collectr be above $358.19 on 2026-07-31T23:59:00-04:00?",
-    "status": "finalized",
-    "volume": 5235.07,
-    "open_time": "2026-07-03T02:01:00Z",
-    "close_time": "2026-08-01T03:59:00Z",
     "yes_price": 1.0,
     "no_price": 0.0
   }
