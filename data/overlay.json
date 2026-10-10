@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:45:46.581241+00:00",
+  "generated_at": "2026-10-10T00:23:15.110170+00:00",
   "events": {
     "KXPOKEMON-26OCTPIKEX109": {
       "product": "Pikachu ex - 109 (30th Celebration)",
@@ -8,8 +8,8 @@
           "ticker": "KXPOKEMON-26OCTPIKEX109-299.99",
           "strike": 299.99,
           "yes_price": 0.23,
-          "no_price": 0.84,
-          "volume": 890.86,
+          "no_price": 0.86,
+          "volume": 956.71,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -21,9 +21,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          299.95
+          266.3
         ],
-        "price_gap": "0%",
+        "price_gap": "11%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -346,7 +346,7 @@
           }
         ]
       },
-      "kalshi_volume": 890.86,
+      "kalshi_volume": 956.71,
       "sales_volume": {
         "level": "low",
         "ratio": 35.26,
@@ -370,9 +370,9 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWEX-84.4",
           "strike": 84.4,
-          "yes_price": 0.2,
-          "no_price": 0.89,
-          "volume": 275.91,
+          "yes_price": 0.18,
+          "no_price": 0.91,
+          "volume": 290.11,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -384,9 +384,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          80.96
+          86.86
         ],
-        "price_gap": "4%",
+        "price_gap": "3%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -709,7 +709,7 @@
           }
         ]
       },
-      "kalshi_volume": 275.91,
+      "kalshi_volume": 290.11,
       "sales_volume": {
         "level": "high",
         "ratio": 11.976,
@@ -734,7 +734,7 @@
           "ticker": "KXPOKEMON-26OCTCHA-194.14",
           "strike": 194.14,
           "yes_price": 0.18,
-          "no_price": 0.9,
+          "no_price": 0.91,
           "volume": 860.25,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
@@ -1097,8 +1097,8 @@
           "ticker": "KXPOKEMON-26OCTMEWRRG-6000.27",
           "strike": 6000.27,
           "yes_price": 0.23,
-          "no_price": 0.8,
-          "volume": 206.0,
+          "no_price": 0.86,
+          "volume": 253.96,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "kalshi_volume": 206.0,
+      "kalshi_volume": 253.96,
       "sales_volume": {
         "level": "low",
         "ratio": null,
@@ -1459,8 +1459,8 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWGRG-3738.75",
           "strike": 3738.75,
-          "yes_price": 0.68,
-          "no_price": 0.76,
+          "yes_price": 0.63,
+          "no_price": 0.78,
           "volume": 0.0,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
@@ -1822,7 +1822,7 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWBRG-5010.87",
           "strike": 5010.87,
-          "yes_price": 0.26,
+          "yes_price": 0.25,
           "no_price": 0.8,
           "volume": 0.0,
           "open_time": "2026-10-03T02:01:00Z",
@@ -1857,9 +1857,9 @@
         {
           "ticker": "KXPOKEMON-26OCT30TCELPO-313.44",
           "strike": 313.44,
-          "yes_price": 0.19,
-          "no_price": 0.88,
-          "volume": 507.55,
+          "yes_price": 0.17,
+          "no_price": 0.91,
+          "volume": 562.33,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1871,7 +1871,7 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          287.16
+          288.28
         ],
         "price_gap": "8%",
         "matched_by": "exact name"
@@ -2196,7 +2196,7 @@
           }
         ]
       },
-      "kalshi_volume": 507.55,
+      "kalshi_volume": 562.33,
       "sales_volume": {
         "level": "high",
         "ratio": 176.55,
