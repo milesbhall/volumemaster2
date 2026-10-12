@@ -9,8 +9,8 @@
     "volume": 956.71,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.23,
-    "no_price": 0.86
+    "yes_price": 0.16,
+    "no_price": 0.92
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWEX-84.4",
@@ -19,7 +19,7 @@
     "strike": 84.4,
     "title": "Will Ungraded Price of the Mew ex on Collectr be above $84.4 on Oct 31, 2026?",
     "status": "active",
-    "volume": 295.11,
+    "volume": 350.7,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
     "yes_price": 0.18,
@@ -32,11 +32,11 @@
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
     "status": "active",
-    "volume": 883.99,
+    "volume": 890.14,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.17,
-    "no_price": 0.91
+    "yes_price": 0.15,
+    "no_price": 0.92
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWRRG-6000.27",
@@ -48,8 +48,8 @@
     "volume": 253.96,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.23,
-    "no_price": 0.86
+    "yes_price": 0.21,
+    "no_price": 0.88
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWGRG-3738.75",
@@ -61,7 +61,7 @@
     "volume": 0.0,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.57,
+    "yes_price": 0.68,
     "no_price": 0.79
   },
   {
@@ -84,11 +84,11 @@
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
     "status": "active",
-    "volume": 698.62,
+    "volume": 862.0,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.31,
-    "no_price": 0.94
+    "yes_price": 0.48,
+    "no_price": 0.88
   },
   {
     "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",
