@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:03:42.619091+00:00",
+  "generated_at": "2026-10-13T02:18:03.433133+00:00",
   "events": {
     "KXPOKEMON-26OCTPIKEX109": {
       "product": "Pikachu ex - 109 (30th Celebration)",
@@ -7,9 +7,9 @@
         {
           "ticker": "KXPOKEMON-26OCTPIKEX109-299.99",
           "strike": 299.99,
-          "yes_price": 0.16,
-          "no_price": 0.92,
-          "volume": 956.71,
+          "yes_price": 0.12,
+          "no_price": 0.93,
+          "volume": 957.38,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -21,9 +21,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          249.47
+          239.38
         ],
-        "price_gap": "17%",
+        "price_gap": "20%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -346,7 +346,7 @@
           }
         ]
       },
-      "kalshi_volume": 956.71,
+      "kalshi_volume": 957.38,
       "sales_volume": {
         "level": "low",
         "ratio": 0.607,
@@ -370,9 +370,9 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWEX-84.4",
           "strike": 84.4,
-          "yes_price": 0.18,
-          "no_price": 0.91,
-          "volume": 350.7,
+          "yes_price": 0.15,
+          "no_price": 0.94,
+          "volume": 351.22,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -384,9 +384,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          87.05
+          86.48
         ],
-        "price_gap": "3%",
+        "price_gap": "2%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -709,7 +709,7 @@
           }
         ]
       },
-      "kalshi_volume": 350.7,
+      "kalshi_volume": 351.22,
       "sales_volume": {
         "level": "high",
         "ratio": 118.455,
@@ -735,7 +735,7 @@
           "strike": 194.14,
           "yes_price": 0.15,
           "no_price": 0.92,
-          "volume": 890.14,
+          "volume": 972.98,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1072,7 +1072,7 @@
           }
         ]
       },
-      "kalshi_volume": 890.14,
+      "kalshi_volume": 972.98,
       "sales_volume": {
         "level": "low",
         "ratio": 0.587,
@@ -1096,9 +1096,9 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWRRG-6000.27",
           "strike": 6000.27,
-          "yes_price": 0.21,
+          "yes_price": 0.2,
           "no_price": 0.88,
-          "volume": 253.96,
+          "volume": 254.45,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "kalshi_volume": 253.96,
+      "kalshi_volume": 254.45,
       "sales_volume": {
         "level": "low",
         "ratio": 6.467,
@@ -1459,9 +1459,9 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWGRG-3738.75",
           "strike": 3738.75,
-          "yes_price": 0.68,
-          "no_price": 0.79,
-          "volume": 0.0,
+          "yes_price": 0.26,
+          "no_price": 0.83,
+          "volume": 15.14,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -1798,7 +1798,7 @@
           }
         ]
       },
-      "kalshi_volume": 0.0,
+      "kalshi_volume": 15.14,
       "sales_volume": {
         "level": "low",
         "ratio": null,
@@ -1822,9 +1822,9 @@
         {
           "ticker": "KXPOKEMON-26OCTMEWBRG-5010.87",
           "strike": 5010.87,
-          "yes_price": 0.21,
-          "no_price": 0.8,
-          "volume": 0.0,
+          "yes_price": 0.2,
+          "no_price": 0.87,
+          "volume": 10.45,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -2161,7 +2161,7 @@
           }
         ]
       },
-      "kalshi_volume": 0.0,
+      "kalshi_volume": 10.45,
       "sales_volume": {
         "level": "low",
         "ratio": null,
@@ -2185,9 +2185,9 @@
         {
           "ticker": "KXPOKEMON-26OCT30TCELPO-313.44",
           "strike": 313.44,
-          "yes_price": 0.48,
+          "yes_price": 0.42,
           "no_price": 0.88,
-          "volume": 862.0,
+          "volume": 1016.75,
           "open_time": "2026-10-03T02:01:00Z",
           "close_time": "2026-11-01T03:59:00Z"
         }
@@ -2199,9 +2199,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          281.4
+          287.86
         ],
-        "price_gap": "10%",
+        "price_gap": "8%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -2524,7 +2524,7 @@
           }
         ]
       },
-      "kalshi_volume": 862.0,
+      "kalshi_volume": 1016.75,
       "sales_volume": {
         "level": "high",
         "ratio": 44.084,
