@@ -598,9 +598,9 @@
     "tcgplayer_name": "Mew ex - 152/128",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      86.9
+      84.48
     ],
-    "price_gap": "3%"
+    "price_gap": "0%"
   },
   "Charizard": {
     "product_id": 527938,
@@ -752,8 +752,8 @@
     "tcgplayer_name": "30th Celebration Pokemon Center Elite Trainer Box",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      297.51
+      299.67
     ],
-    "price_gap": "5%"
+    "price_gap": "4%"
   }
 }
