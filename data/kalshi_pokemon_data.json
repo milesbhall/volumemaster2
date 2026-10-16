@@ -6,7 +6,7 @@
     "strike": 299.99,
     "title": "Will Ungraded Price of the Pikachu ex - 109 (30th Celebration) on Collectr be above $299.99 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1036.38,
+    "volume": 1056.29,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
     "yes_price": 0.1,
@@ -32,11 +32,11 @@
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1074.0,
+    "volume": 1078.06,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.09,
-    "no_price": 0.98
+    "yes_price": 0.11,
+    "no_price": 0.95
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWRRG-6000.27",
@@ -45,11 +45,11 @@
     "strike": 6000.27,
     "title": "Will Ungraded Price of the Mew - R/RGB on Collectr be above $6000.27 on Oct 31, 2026?",
     "status": "active",
-    "volume": 259.43,
+    "volume": 261.85,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
     "yes_price": 0.23,
-    "no_price": 0.84
+    "no_price": 0.81
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWGRG-3738.75",
@@ -61,8 +61,8 @@
     "volume": 278.02,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.19,
-    "no_price": 0.89
+    "yes_price": 0.21,
+    "no_price": 0.88
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWBRG-5010.87",
@@ -71,7 +71,7 @@
     "strike": 5010.87,
     "title": "Will Ungraded Price of the Mew - B/RGB on Collectr be above $5010.87 on Oct 31, 2026?",
     "status": "active",
-    "volume": 114.96,
+    "volume": 115.55,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
     "yes_price": 0.16,
@@ -84,10 +84,10 @@
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1140.95,
+    "volume": 1219.16,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.24,
+    "yes_price": 0.25,
     "no_price": 0.84
   },
   {

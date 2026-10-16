@@ -500,9 +500,9 @@
     "tcgplayer_name": "Pikachu ex - 109 (30th Celebration)",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      232.65
+      211.99
     ],
-    "price_gap": "22%"
+    "price_gap": "29%"
   },
   "Mew ex": {
     "product_id": 717605,
@@ -598,9 +598,9 @@
     "tcgplayer_name": "Mew ex - 152/128",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      84.48
+      89.9
     ],
-    "price_gap": "0%"
+    "price_gap": "7%"
   },
   "Charizard": {
     "product_id": 527938,
@@ -752,7 +752,7 @@
     "tcgplayer_name": "30th Celebration Pokemon Center Elite Trainer Box",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      299.67
+      299.53
     ],
     "price_gap": "4%"
   }
