@@ -2,7 +2,7 @@
   "product": "Mew - G/RGB",
   "product_id": 717608,
   "tcgplayer_url": "https://www.tcgplayer.com/product/717608",
-  "fetched_at": "2026-10-10T23:57:19.969150+00:00",
+  "fetched_at": "2026-10-18T22:40:33.969029+00:00",
   "skus": [
     {
       "skuId": "9508994",
@@ -11,10 +11,20 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "4",
-      "totalTransactionCount": "4",
+      "totalQuantitySold": "5",
+      "totalTransactionCount": "5",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "3090.99",
+          "quantitySold": "1",
+          "lowSalePrice": "499.98",
+          "lowSalePriceWithShipping": "504.97",
+          "highSalePrice": "499.98",
+          "highSalePriceWithShipping": "504.97",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-10-12"
+        },
         {
           "marketPrice": "3738.75",
           "quantitySold": "0",
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-20"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-13"
         }
       ]
     },
@@ -548,6 +548,16 @@
       "totalTransactionCount": "1",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "3499.99",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-10-12"
+        },
         {
           "marketPrice": "3499.99",
           "quantitySold": "0",
@@ -1057,16 +1067,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-20"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-13"
         }
       ]
     }

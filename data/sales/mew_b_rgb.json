@@ -2,7 +2,7 @@
   "product": "Mew - B/RGB",
   "product_id": 717609,
   "tcgplayer_url": "https://www.tcgplayer.com/product/717609",
-  "fetched_at": "2026-10-10T23:57:23.447954+00:00",
+  "fetched_at": "2026-10-18T22:40:37.337408+00:00",
   "skus": [
     {
       "skuId": "9508999",
@@ -11,18 +11,28 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "1",
-      "totalTransactionCount": "1",
+      "totalQuantitySold": "4",
+      "totalTransactionCount": "4",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "3400",
-          "quantitySold": "1",
+          "marketPrice": "3746.75",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-10-12"
+        },
+        {
+          "marketPrice": "3746.75",
+          "quantitySold": "4",
           "lowSalePrice": "3400",
           "lowSalePriceWithShipping": "3400",
-          "highSalePrice": "3400",
-          "highSalePriceWithShipping": "3400",
-          "transactionCount": "1",
+          "highSalePrice": "4000",
+          "highSalePriceWithShipping": "4001.49",
+          "transactionCount": "4",
           "bucketStartDate": "2026-10-05"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-20"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-13"
         }
       ]
     }

@@ -6,11 +6,11 @@
     "strike": 299.99,
     "title": "Will Ungraded Price of the Pikachu ex - 109 (30th Celebration) on Collectr be above $299.99 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1143.72,
+    "volume": 1159.57,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
     "yes_price": 0.14,
-    "no_price": 0.94
+    "no_price": 0.91
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWEX-84.4",
@@ -32,10 +32,10 @@
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1120.84,
+    "volume": 1146.51,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.11,
+    "yes_price": 0.13,
     "no_price": 0.96
   },
   {
@@ -61,8 +61,8 @@
     "volume": 278.02,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.23,
-    "no_price": 0.86
+    "yes_price": 0.2,
+    "no_price": 0.9
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWBRG-5010.87",
@@ -84,11 +84,11 @@
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1394.53,
+    "volume": 1436.66,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.55,
-    "no_price": 0.6
+    "yes_price": 0.7,
+    "no_price": 0.97
   },
   {
     "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",

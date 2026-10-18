@@ -2,7 +2,7 @@
   "product": "Pikachu ex - 109 (30th Celebration)",
   "product_id": 713256,
   "tcgplayer_url": "https://www.tcgplayer.com/product/713256",
-  "fetched_at": "2026-10-10T23:57:08.729832+00:00",
+  "fetched_at": "2026-10-18T22:40:20.913167+00:00",
   "skus": [
     {
       "skuId": "9467853",
@@ -11,10 +11,20 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "4",
-      "totalTransactionCount": "4",
+      "totalQuantitySold": "9",
+      "totalTransactionCount": "9",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "205.1",
+          "quantitySold": "5",
+          "lowSalePrice": "150",
+          "lowSalePriceWithShipping": "150",
+          "highSalePrice": "199",
+          "highSalePriceWithShipping": "199",
+          "transactionCount": "5",
+          "bucketStartDate": "2026-10-12"
+        },
         {
           "marketPrice": "249.47",
           "quantitySold": "2",
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-20"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-13"
         }
       ]
     }
