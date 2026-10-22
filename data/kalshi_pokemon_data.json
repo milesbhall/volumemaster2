@@ -9,7 +9,7 @@
     "volume": 1386.04,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.03,
+    "yes_price": 0.07,
     "no_price": 1.0
   },
   {
@@ -22,7 +22,7 @@
     "volume": 559.85,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.08,
+    "yes_price": 0.07,
     "no_price": 1.0
   },
   {
@@ -32,11 +32,11 @@
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1292.21,
+    "volume": 1364.72,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.09,
-    "no_price": 0.97
+    "yes_price": 0.07,
+    "no_price": 0.99
   },
   {
     "ticker": "KXPOKEMON-26OCTMEWRRG-6000.27",
@@ -48,7 +48,7 @@
     "volume": 819.11,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.23,
+    "yes_price": 0.07,
     "no_price": 1.0
   },
   {
@@ -58,10 +58,10 @@
     "strike": 3738.75,
     "title": "Will Ungraded Price of the Mew - G/RGB on Collectr be above $3738.75 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1016.58,
+    "volume": 1031.58,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.1,
+    "yes_price": 0.05,
     "no_price": 1.0
   },
   {
@@ -74,8 +74,8 @@
     "volume": 415.55,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.11,
-    "no_price": 0.98
+    "yes_price": 0.07,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26OCT30TCELPO-313.44",
@@ -84,11 +84,11 @@
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
     "status": "active",
-    "volume": 1654.12,
+    "volume": 1694.83,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.65,
-    "no_price": 0.96
+    "yes_price": 0.06,
+    "no_price": 0.95
   },
   {
     "ticker": "KXPOKEMON-26SEPASCHERPO-407.86",
