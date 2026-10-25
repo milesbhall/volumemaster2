@@ -2,7 +2,7 @@
   "product": "Mew - B/RGB",
   "product_id": 717609,
   "tcgplayer_url": "https://www.tcgplayer.com/product/717609",
-  "fetched_at": "2026-10-18T22:40:37.337408+00:00",
+  "fetched_at": "2026-10-25T22:53:44.622930+00:00",
   "skus": [
     {
       "skuId": "9508999",
@@ -11,10 +11,20 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "4",
-      "totalTransactionCount": "4",
+      "totalQuantitySold": "8",
+      "totalTransactionCount": "8",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "4041.75",
+          "quantitySold": "4",
+          "lowSalePrice": "4050",
+          "lowSalePriceWithShipping": "4050",
+          "highSalePrice": "4499",
+          "highSalePriceWithShipping": "4499",
+          "transactionCount": "4",
+          "bucketStartDate": "2026-10-19"
+        },
         {
           "marketPrice": "3746.75",
           "quantitySold": "0",
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-10-27"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-20"
         }
       ]
     }
