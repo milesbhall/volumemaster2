@@ -5,11 +5,11 @@
     "product": "Pikachu ex - 109 (30th Celebration)",
     "strike": 299.99,
     "title": "Will Ungraded Price of the Pikachu ex - 109 (30th Celebration) on Collectr be above $299.99 on Oct 31, 2026?",
-    "status": "active",
+    "status": "finalized",
     "volume": 2252.15,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.08,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
@@ -18,11 +18,11 @@
     "product": "Mew ex",
     "strike": 84.4,
     "title": "Will Ungraded Price of the Mew ex on Collectr be above $84.4 on Oct 31, 2026?",
-    "status": "active",
+    "status": "finalized",
     "volume": 1043.48,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.1,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
@@ -31,11 +31,11 @@
     "product": "Charizard",
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
-    "status": "active",
+    "status": "closed",
     "volume": 2308.17,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.08,
+    "yes_price": 1.0,
     "no_price": 1.0
   },
   {
@@ -44,11 +44,11 @@
     "product": "Mew - R/RGB",
     "strike": 6000.27,
     "title": "Will Ungraded Price of the Mew - R/RGB on Collectr be above $6000.27 on Oct 31, 2026?",
-    "status": "active",
+    "status": "closed",
     "volume": 1298.85,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.03,
+    "yes_price": 1.0,
     "no_price": 1.0
   },
   {
@@ -57,11 +57,11 @@
     "product": "Mew - G/RGB",
     "strike": 3738.75,
     "title": "Will Ungraded Price of the Mew - G/RGB on Collectr be above $3738.75 on Oct 31, 2026?",
-    "status": "active",
+    "status": "closed",
     "volume": 2305.1,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.04,
+    "yes_price": 1.0,
     "no_price": 1.0
   },
   {
@@ -70,12 +70,12 @@
     "product": "Mew - B/RGB",
     "strike": 5010.87,
     "title": "Will Ungraded Price of the Mew - B/RGB on Collectr be above $5010.87 on Oct 31, 2026?",
-    "status": "active",
-    "volume": 767.02,
+    "status": "closed",
+    "volume": 864.02,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.63,
-    "no_price": 0.94
+    "yes_price": 1.0,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26OCT30TCELPO-313.44",
@@ -83,11 +83,11 @@
     "product": "30th Celebration Pokemon Center Elite Trainer Box",
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
-    "status": "active",
-    "volume": 2911.8,
+    "status": "closed",
+    "volume": 2916.69,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 0.06,
+    "yes_price": 1.0,
     "no_price": 1.0
   },
   {
