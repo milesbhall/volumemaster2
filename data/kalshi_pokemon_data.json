@@ -31,11 +31,11 @@
     "product": "Charizard",
     "strike": 194.14,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $194.14 on Oct 31, 2026?",
-    "status": "closed",
+    "status": "finalized",
     "volume": 2308.17,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 1.0,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
@@ -44,11 +44,11 @@
     "product": "Mew - R/RGB",
     "strike": 6000.27,
     "title": "Will Ungraded Price of the Mew - R/RGB on Collectr be above $6000.27 on Oct 31, 2026?",
-    "status": "closed",
+    "status": "finalized",
     "volume": 1298.85,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 1.0,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
@@ -57,11 +57,11 @@
     "product": "Mew - G/RGB",
     "strike": 3738.75,
     "title": "Will Ungraded Price of the Mew - G/RGB on Collectr be above $3738.75 on Oct 31, 2026?",
-    "status": "closed",
+    "status": "finalized",
     "volume": 2305.1,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 1.0,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
@@ -70,11 +70,11 @@
     "product": "Mew - B/RGB",
     "strike": 5010.87,
     "title": "Will Ungraded Price of the Mew - B/RGB on Collectr be above $5010.87 on Oct 31, 2026?",
-    "status": "closed",
+    "status": "finalized",
     "volume": 864.02,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 1.0,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
@@ -83,11 +83,11 @@
     "product": "30th Celebration Pokemon Center Elite Trainer Box",
     "strike": 313.44,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $313.44 on Oct 31, 2026?",
-    "status": "closed",
+    "status": "finalized",
     "volume": 2916.69,
     "open_time": "2026-10-03T02:01:00Z",
     "close_time": "2026-11-01T03:59:00Z",
-    "yes_price": 1.0,
+    "yes_price": 0.0,
     "no_price": 1.0
   },
   {
