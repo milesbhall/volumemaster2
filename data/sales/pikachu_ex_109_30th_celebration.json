@@ -2,7 +2,7 @@
   "product": "Pikachu ex - 109 (30th Celebration)",
   "product_id": 713256,
   "tcgplayer_url": "https://www.tcgplayer.com/product/713256",
-  "fetched_at": "2026-10-25T22:53:27.856763+00:00",
+  "fetched_at": "2026-11-04T00:59:28.087189+00:00",
   "skus": [
     {
       "skuId": "9467853",
@@ -11,10 +11,30 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "11",
-      "totalTransactionCount": "11",
+      "totalQuantitySold": "41",
+      "totalTransactionCount": "36",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "71.67",
+          "quantitySold": "11",
+          "lowSalePrice": "67.99",
+          "lowSalePriceWithShipping": "69",
+          "highSalePrice": "95.98",
+          "highSalePriceWithShipping": "95.98",
+          "transactionCount": "9",
+          "bucketStartDate": "2026-11-02"
+        },
+        {
+          "marketPrice": "103.56",
+          "quantitySold": "19",
+          "lowSalePrice": "69",
+          "lowSalePriceWithShipping": "69",
+          "highSalePrice": "75",
+          "highSalePriceWithShipping": "75",
+          "transactionCount": "16",
+          "bucketStartDate": "2026-10-26"
+        },
         {
           "marketPrice": "185.81",
           "quantitySold": "3",
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-10"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-03"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-27"
         }
       ]
     }

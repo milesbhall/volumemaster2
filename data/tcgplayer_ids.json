@@ -2,61 +2,61 @@
   "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)": {
     "product_id": 668497,
     "matched_by": "exact name",
-    "kalshi_price": 407.86,
+    "kalshi_price": 325.5,
     "tcgplayer_name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      356.32
+      325.5
     ],
-    "price_gap": "13%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Celebrations Ultra Premium Collection": {
     "product_id": 245140,
     "matched_by": "exact name",
-    "kalshi_price": 1237.81,
+    "kalshi_price": 1206.87,
     "tcgplayer_name": "Celebrations Ultra-Premium Collection",
     "set": "Celebrations",
     "tcgplayer_market_prices": [
-      1227.74
+      1206.87
     ],
-    "price_gap": "1%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Blooming Waters Premium Collection": {
     "product_id": 609597,
     "matched_by": "exact name",
-    "kalshi_price": 326.19,
+    "kalshi_price": 323.29,
     "tcgplayer_name": "Blooming Waters Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      336.49
+      322.31
     ],
-    "price_gap": "3%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "151 Ultra-Premium Collection": {
     "product_id": 502005,
     "matched_by": "exact name",
-    "kalshi_price": 932.18,
+    "kalshi_price": 832.19,
     "tcgplayer_name": "151 Ultra-Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      879.17
+      832.99
     ],
-    "price_gap": "6%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Charizard ex": {
     "product_id": 517045,
     "matched_by": "closest price",
-    "kalshi_price": 364.08,
+    "kalshi_price": 300.78,
     "tcgplayer_name": "Charizard ex - 199/165",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      351.69
+      299.78
     ],
-    "price_gap": "3%",
+    "price_gap": "0%",
     "other_candidates": [
       {
         "product_id": 91238,
@@ -127,13 +127,13 @@
   "Mega Charizard X ex": {
     "product_id": 659612,
     "matched_by": "closest price",
-    "kalshi_price": 34.21,
+    "kalshi_price": 25.63,
     "tcgplayer_name": "Mega Charizard X ex - 023",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      26.68
+      23.96
     ],
-    "price_gap": "22%",
+    "price_gap": "7%",
     "other_candidates": [
       {
         "product_id": 662183,
@@ -195,59 +195,59 @@
   "First Partner Illustration Collection (Series 1)": {
     "product_id": 673436,
     "matched_by": "exact name",
-    "kalshi_price": 68.79,
+    "kalshi_price": 58.52,
     "tcgplayer_name": "First Partner Illustration Collection (Series 1)",
     "set": "First Partner Collection 2026",
     "tcgplayer_market_prices": [
-      64.82
+      58.37
     ],
-    "price_gap": "6%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Ascended Heroes Elite Trainer Box": {
     "product_id": 668496,
     "matched_by": "exact name",
-    "kalshi_price": 169.14,
+    "kalshi_price": 124.75,
     "tcgplayer_name": "Ascended Heroes Elite Trainer Box",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      153.64
+      122.34
     ],
-    "price_gap": "9%",
+    "price_gap": "2%",
     "variant": "Normal"
   },
   "Perfect Order Booster Box": {
     "product_id": 672394,
     "matched_by": "exact name",
-    "kalshi_price": 174.14,
+    "kalshi_price": 173.16,
     "tcgplayer_name": "Perfect Order Booster Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      173.1
+      172.89
     ],
-    "price_gap": "1%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Perfect Order Pokemon Center Elite Trainer Box": {
     "product_id": 672404,
     "matched_by": "exact name",
-    "kalshi_price": 121.39,
+    "kalshi_price": 121.35,
     "tcgplayer_name": "Perfect Order Pokemon Center Elite Trainer Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      122.85
+      121.14
     ],
-    "price_gap": "1%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Gengar (Cosmos Holo) (EB Games Exclusive)": {
     "product_id": 686505,
     "matched_by": "exact name",
-    "kalshi_price": 183.5,
+    "kalshi_price": 171.26,
     "tcgplayer_name": "Gengar (Cosmos Holo) (EB Games Exclusive)",
     "set": "Miscellaneous Cards & Products",
     "tcgplayer_market_prices": [
-      182.28
+      169.66
     ],
     "price_gap": "1%",
     "variant": "Holofoil"
@@ -255,14 +255,14 @@
   "Squirtle": {
     "product_id": 89494,
     "matched_by": "closest price",
-    "kalshi_price": 27.82,
+    "kalshi_price": 22.76,
     "tcgplayer_name": "Squirtle",
     "set": "Secret Wonders",
     "tcgplayer_market_prices": [
-      8.42,
-      29.92
+      8.27,
+      28.37
     ],
-    "price_gap": "8%",
+    "price_gap": "25%",
     "other_candidates": [
       {
         "product_id": 477964,
@@ -336,14 +336,14 @@
   "Bulbasaur": {
     "product_id": 84036,
     "matched_by": "closest price",
-    "kalshi_price": 28.81,
+    "kalshi_price": 17.79,
     "tcgplayer_name": "Bulbasaur",
     "set": "Dark Explorers",
     "tcgplayer_market_prices": [
-      8.52,
-      31.13
+      8.42,
+      35.19
     ],
-    "price_gap": "8%",
+    "price_gap": "53%",
     "other_candidates": [
       {
         "product_id": 84028,
@@ -416,13 +416,13 @@
   "Charmander": {
     "product_id": 534483,
     "matched_by": "closest price",
-    "kalshi_price": 39.87,
+    "kalshi_price": 26.76,
     "tcgplayer_name": "Charmander - 109/091",
     "set": "SV: Paldean Fates",
     "tcgplayer_market_prices": [
-      41.41
+      34.57
     ],
-    "price_gap": "4%",
+    "price_gap": "29%",
     "other_candidates": [
       {
         "product_id": 84221,
@@ -495,14 +495,14 @@
   "Pikachu ex - 109 (30th Celebration)": {
     "product_id": 713256,
     "matched_by": "exact name",
-    "kalshi_price": 299.99,
+    "kalshi_price": 103.56,
     "variant": "Holofoil",
     "tcgplayer_name": "Pikachu ex - 109 (30th Celebration)",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      126.56
+      72.76
     ],
-    "price_gap": "58%"
+    "price_gap": "30%"
   },
   "Mew ex": {
     "product_id": 717605,
@@ -593,14 +593,14 @@
         }
       }
     ],
-    "kalshi_price": 84.4,
+    "kalshi_price": 45.54,
     "variant": "Holofoil",
     "tcgplayer_name": "Mew ex - 152/128",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      73.22
+      64.93
     ],
-    "price_gap": "13%"
+    "price_gap": "43%"
   },
   "Charizard": {
     "product_id": 527938,
@@ -699,14 +699,14 @@
         }
       }
     ],
-    "kalshi_price": 194.14,
+    "kalshi_price": 155.37,
     "variant": "Holofoil",
     "tcgplayer_name": "Charizard",
     "set": "Trading Card Game Classic",
     "tcgplayer_market_prices": [
       181.84
     ],
-    "price_gap": "6%"
+    "price_gap": "17%"
   },
   "Mew - R/RGB": {
     "product_id": 717607,
@@ -747,13 +747,249 @@
   "30th Celebration Pokemon Center Elite Trainer Box": {
     "product_id": 704144,
     "matched_by": "exact name",
-    "kalshi_price": 313.44,
+    "kalshi_price": 274.94,
     "variant": "Normal",
     "tcgplayer_name": "30th Celebration Pokemon Center Elite Trainer Box",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      278.65
+      272.85
     ],
-    "price_gap": "11%"
+    "price_gap": "1%"
+  },
+  "Pikachu ex": {
+    "product_id": 497474,
+    "matched_by": "exact name",
+    "kalshi_price": 594.25,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Pikachu ex",
+    "set": "SV02: Paldea Evolved",
+    "tcgplayer_market_prices": [
+      3.92
+    ],
+    "price_gap": "99%"
+  },
+  "Mega Gengar ex": {
+    "product_id": 660380,
+    "matched_by": "exact name",
+    "kalshi_price": 710.52,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Mega Gengar ex",
+    "set": "ME02: Phantasmal Flames",
+    "tcgplayer_market_prices": [
+      1.95
+    ],
+    "price_gap": "100%"
+  },
+  "Mega Charizard X ex Ultra Premium Collection": {
+    "product_id": 654213,
+    "matched_by": "exact name",
+    "kalshi_price": 219.53,
+    "variant": "Normal",
+    "tcgplayer_name": "Mega Charizard X ex Ultra Premium Collection",
+    "set": "Miscellaneous Cards & Products",
+    "tcgplayer_market_prices": [
+      220.39
+    ],
+    "price_gap": "0%"
+  },
+  "Mewtwo ex": {
+    "product_id": 87429,
+    "matched_by": "closest price",
+    "other_candidates": [
+      {
+        "product_id": 211501,
+        "name": "Mewtwo EX - 54/99",
+        "set": "Jumbo Cards",
+        "url": "https://www.tcgplayer.com/product/211501/pokemon-jumbo-cards-mewtwo-ex-54-99",
+        "market_prices": [
+          29.54
+        ],
+        "variant_prices": {
+          "Holofoil": 29.54
+        }
+      },
+      {
+        "product_id": 696687,
+        "name": "Mewtwo ex - 157/128",
+        "set": "ME: 30th Celebration",
+        "url": "https://www.tcgplayer.com/product/696687/pokemon-me-30th-celebration-mewtwo-ex-157-128",
+        "market_prices": [
+          27.76
+        ],
+        "variant_prices": {
+          "Holofoil": 27.76
+        }
+      },
+      {
+        "product_id": 717603,
+        "name": "Mewtwo ex - 151/128",
+        "set": "ME: 30th Celebration",
+        "url": "https://www.tcgplayer.com/product/717603/pokemon-me-30th-celebration-mewtwo-ex-151-128",
+        "market_prices": [
+          39.53
+        ],
+        "variant_prices": {
+          "Holofoil": 39.53
+        }
+      },
+      {
+        "product_id": 565480,
+        "name": "Mewtwo ex - 058/182",
+        "set": "Prize Pack Series Cards",
+        "url": "https://www.tcgplayer.com/product/565480/pokemon-prize-pack-series-cards-mewtwo-ex-058-182",
+        "market_prices": [
+          21.11
+        ],
+        "variant_prices": {
+          "Holofoil": 21.11
+        }
+      },
+      {
+        "product_id": 198773,
+        "name": "Mewtwo EX - 61/162",
+        "set": "Jumbo Cards",
+        "url": "https://www.tcgplayer.com/product/198773/pokemon-jumbo-cards-mewtwo-ex-61-162",
+        "market_prices": [
+          20.0
+        ],
+        "variant_prices": {
+          "Holofoil": 20.0
+        }
+      },
+      {
+        "product_id": 125254,
+        "name": "Mewtwo EX - XY183",
+        "set": "XY Promos",
+        "url": "https://www.tcgplayer.com/product/125254/pokemon-xy-promos-mewtwo-ex-xy183",
+        "market_prices": [
+          19.44
+        ],
+        "variant_prices": {
+          "Holofoil": 19.44
+        }
+      },
+      {
+        "product_id": 87430,
+        "name": "Mewtwo EX - BW45",
+        "set": "Black and White Promos",
+        "url": "https://www.tcgplayer.com/product/87430/pokemon-black-and-white-promos-mewtwo-ex-bw45",
+        "market_prices": [
+          46.97
+        ],
+        "variant_prices": {
+          "Holofoil": 46.97
+        }
+      }
+    ],
+    "kalshi_price": 32.69,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Mewtwo EX",
+    "set": "Next Destinies",
+    "tcgplayer_market_prices": [
+      31.7
+    ],
+    "price_gap": "3%"
+  },
+  "Mew": {
+    "product_id": 717608,
+    "matched_by": "closest price",
+    "other_candidates": [
+      {
+        "product_id": 717609,
+        "name": "Mew - B/RGB",
+        "set": "ME: 30th Celebration",
+        "url": "https://www.tcgplayer.com/product/717609/pokemon-me-30th-celebration-mew-b-rgb",
+        "market_prices": [
+          4243.91
+        ],
+        "variant_prices": {
+          "Holofoil": 4243.91
+        }
+      },
+      {
+        "product_id": 717607,
+        "name": "Mew - R/RGB",
+        "set": "ME: 30th Celebration",
+        "url": "https://www.tcgplayer.com/product/717607/pokemon-me-30th-celebration-mew-r-rgb",
+        "market_prices": [
+          4461.95
+        ],
+        "variant_prices": {
+          "Holofoil": 4461.95
+        }
+      },
+      {
+        "product_id": 87404,
+        "name": "Mew",
+        "set": "Rumble",
+        "url": "https://www.tcgplayer.com/product/87404/pokemon-rumble-mew",
+        "market_prices": [
+          697.99
+        ],
+        "variant_prices": {
+          "Normal": 697.99
+        }
+      },
+      {
+        "product_id": 46466,
+        "name": "Mew",
+        "set": "Southern Islands",
+        "url": "https://www.tcgplayer.com/product/46466/pokemon-southern-islands-mew",
+        "market_prices": [
+          649.13
+        ],
+        "variant_prices": {
+          "Reverse Holofoil": 649.13
+        }
+      },
+      {
+        "product_id": 87407,
+        "name": "Mew (Delta Species)",
+        "set": "POP Series 5",
+        "url": "https://www.tcgplayer.com/product/87407/pokemon-pop-series-5-mew-delta-species",
+        "market_prices": [
+          418.33,
+          581.48
+        ],
+        "variant_prices": {
+          "Normal": 418.33,
+          "Holofoil": 581.48
+        }
+      },
+      {
+        "product_id": 87396,
+        "name": "Mew (19)",
+        "set": "Expedition",
+        "url": "https://www.tcgplayer.com/product/87396/pokemon-expedition-mew-19",
+        "market_prices": [
+          525.0,
+          267.53
+        ],
+        "variant_prices": {
+          "Holofoil": 525.0,
+          "Reverse Holofoil": 267.53
+        }
+      },
+      {
+        "product_id": 87400,
+        "name": "Mew",
+        "set": "EX Holon Phantoms",
+        "url": "https://www.tcgplayer.com/product/87400/pokemon-ex-holon-phantoms-mew",
+        "market_prices": [
+          499.99
+        ],
+        "variant_prices": {
+          "Holofoil": 499.99
+        }
+      }
+    ],
+    "kalshi_price": 3529.24,
+    "variant": "Holofoil",
+    "tcgplayer_name": "Mew - G/RGB",
+    "set": "ME: 30th Celebration",
+    "tcgplayer_market_prices": [
+      3529.24
+    ],
+    "price_gap": "0%"
   }
 }

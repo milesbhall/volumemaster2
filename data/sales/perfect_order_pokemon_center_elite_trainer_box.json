@@ -2,7 +2,7 @@
   "product": "Perfect Order Pokemon Center Elite Trainer Box",
   "product_id": 672404,
   "tcgplayer_url": "https://www.tcgplayer.com/product/672404",
-  "fetched_at": "2026-09-27T04:26:30.877852+00:00",
+  "fetched_at": "2026-11-04T00:59:17.159536+00:00",
   "skus": [
     {
       "skuId": "9101966",
@@ -11,18 +11,78 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "5",
       "averageDailyTransactionCount": "4",
-      "totalQuantitySold": "2058",
-      "totalTransactionCount": "1648",
+      "totalQuantitySold": "2150",
+      "totalTransactionCount": "1733",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "123.9",
-          "quantitySold": "14",
+          "marketPrice": "120.34",
+          "quantitySold": "5",
+          "lowSalePrice": "113",
+          "lowSalePriceWithShipping": "115.99",
+          "highSalePrice": "118",
+          "highSalePriceWithShipping": "118",
+          "transactionCount": "4",
+          "bucketStartDate": "2026-11-02"
+        },
+        {
+          "marketPrice": "121.35",
+          "quantitySold": "18",
+          "lowSalePrice": "110",
+          "lowSalePriceWithShipping": "117.29",
+          "highSalePrice": "124.99",
+          "highSalePriceWithShipping": "124.99",
+          "transactionCount": "13",
+          "bucketStartDate": "2026-10-26"
+        },
+        {
+          "marketPrice": "121.78",
+          "quantitySold": "11",
+          "lowSalePrice": "121.75",
+          "lowSalePriceWithShipping": "121.75",
+          "highSalePrice": "124.99",
+          "highSalePriceWithShipping": "124.99",
+          "transactionCount": "11",
+          "bucketStartDate": "2026-10-19"
+        },
+        {
+          "marketPrice": "121.71",
+          "quantitySold": "16",
+          "lowSalePrice": "118.98",
+          "lowSalePriceWithShipping": "119.95",
+          "highSalePrice": "124.99",
+          "highSalePriceWithShipping": "133.97",
+          "transactionCount": "16",
+          "bucketStartDate": "2026-10-12"
+        },
+        {
+          "marketPrice": "124.01",
+          "quantitySold": "18",
+          "lowSalePrice": "114.98",
+          "lowSalePriceWithShipping": "122",
+          "highSalePrice": "125",
+          "highSalePriceWithShipping": "133.32",
+          "transactionCount": "18",
+          "bucketStartDate": "2026-10-05"
+        },
+        {
+          "marketPrice": "123.39",
+          "quantitySold": "21",
+          "lowSalePrice": "111.5",
+          "lowSalePriceWithShipping": "121.49",
+          "highSalePrice": "140",
+          "highSalePriceWithShipping": "149.99",
+          "transactionCount": "20",
+          "bucketStartDate": "2026-09-28"
+        },
+        {
+          "marketPrice": "123.54",
+          "quantitySold": "17",
           "lowSalePrice": "109.99",
           "lowSalePriceWithShipping": "123",
           "highSalePrice": "125",
           "highSalePriceWithShipping": "125",
-          "transactionCount": "12",
+          "transactionCount": "15",
           "bucketStartDate": "2026-09-21"
         },
         {
@@ -474,66 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-10"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-03"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-27"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-20"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-13"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-10-06"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-09-29"
         }
       ]
     }
