@@ -9,8 +9,8 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
-    "no_price": 1.0
+    "yes_price": 0.95,
+    "no_price": 0.79
   },
   {
     "ticker": "KXPOKEMON-26NOVMEGGENEX-710.52",
@@ -22,7 +22,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.6,
     "no_price": 1.0
   },
   {
@@ -45,11 +45,11 @@
     "strike": 325.5,
     "title": "Will Ungraded Price of the Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive) on Collectr be above $325.5 on Nov 30, 2026?",
     "status": "active",
-    "volume": 2.02,
+    "volume": 3.02,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.95,
-    "no_price": 0.94
+    "yes_price": 0.8,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26NOVCELULTPR-1206.87",
@@ -61,7 +61,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -74,7 +74,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -88,7 +88,7 @@
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
     "yes_price": 0.96,
-    "no_price": 1.0
+    "no_price": 0.8
   },
   {
     "ticker": "KXPOKEMON-26NOVCHAEX-300.78",
@@ -100,7 +100,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -113,7 +113,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.6,
     "no_price": 1.0
   },
   {
@@ -139,7 +139,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -152,7 +152,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -165,8 +165,8 @@
     "volume": 3.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.95,
-    "no_price": 0.94
+    "yes_price": 0.8,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26NOVGENCOSHO-171.26",
@@ -191,7 +191,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.7,
     "no_price": 1.0
   },
   {
@@ -204,7 +204,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -217,7 +217,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -230,7 +230,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.35,
     "no_price": 1.0
   },
   {
@@ -256,7 +256,7 @@
     "volume": 3.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.7,
+    "yes_price": 0.5,
     "no_price": 1.0
   },
   {
@@ -269,7 +269,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.7,
     "no_price": 1.0
   },
   {
@@ -282,7 +282,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.8,
     "no_price": 1.0
   },
   {
@@ -295,7 +295,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.7,
     "no_price": 1.0
   },
   {
@@ -309,7 +309,7 @@
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
     "yes_price": 0.96,
-    "no_price": 1.0
+    "no_price": 0.69
   },
   {
     "ticker": "KXPOKEMON-26NOV30TCELPO-274.94",
@@ -321,7 +321,7 @@
     "volume": 4.04,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.75,
+    "yes_price": 0.7,
     "no_price": 1.0
   },
   {
