@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:13:21.014814+00:00",
+  "generated_at": "2026-11-10T03:02:23.143856+00:00",
   "events": {
     "KXPOKEMON-26NOVPIKEX": {
       "product": "Pikachu ex",
@@ -7,8 +7,8 @@
         {
           "ticker": "KXPOKEMON-26NOVPIKEX-594.25",
           "strike": 594.25,
-          "yes_price": 0.36,
-          "no_price": 0.97,
+          "yes_price": 0.24,
+          "no_price": 1.0,
           "volume": 323.91,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -21,7 +21,7 @@
         "set": "SV02: Paldea Evolved",
         "variant": "Holofoil",
         "market_prices": [
-          4.03
+          4.09
         ],
         "price_gap": "99%",
         "matched_by": "exact name"
@@ -370,7 +370,7 @@
         {
           "ticker": "KXPOKEMON-26NOVMEGGENEX-710.52",
           "strike": 710.52,
-          "yes_price": 0.3,
+          "yes_price": 0.25,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -747,9 +747,9 @@
         "set": "Miscellaneous Cards & Products",
         "variant": "Normal",
         "market_prices": [
-          210.93
+          211.86
         ],
-        "price_gap": "4%",
+        "price_gap": "3%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -1096,9 +1096,9 @@
         {
           "ticker": "KXPOKEMON-26NOVASCHERPO-325.5",
           "strike": 325.5,
-          "yes_price": 0.92,
-          "no_price": 0.79,
-          "volume": 28.11,
+          "yes_price": 0.49,
+          "no_price": 1.0,
+          "volume": 47.7,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -1110,7 +1110,7 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          323.18
+          321.74
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "kalshi_volume": 28.11,
+      "kalshi_volume": 47.7,
       "sales_volume": {
         "level": "low",
         "ratio": null,
@@ -1822,7 +1822,7 @@
         {
           "ticker": "KXPOKEMON-26NOVBLOWATPR-323.29",
           "strike": 323.29,
-          "yes_price": 0.69,
+          "yes_price": 0.6,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -1836,7 +1836,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          322.15
+          321.95
         ],
         "price_gap": "0%",
         "matched_by": "exact name"
@@ -2186,7 +2186,7 @@
           "ticker": "KXPOKEMON-26NOV151ULTCO-832.19",
           "strike": 832.19,
           "yes_price": 0.79,
-          "no_price": 1.0,
+          "no_price": 0.5,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -2199,9 +2199,9 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          843.07
+          845.14
         ],
-        "price_gap": "1%",
+        "price_gap": "2%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -2548,8 +2548,8 @@
         {
           "ticker": "KXPOKEMON-26NOVCHAEX-300.78",
           "strike": 300.78,
-          "yes_price": 0.63,
-          "no_price": 0.94,
+          "yes_price": 0.59,
+          "no_price": 0.95,
           "volume": 100.0,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -2562,7 +2562,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Holofoil",
         "market_prices": [
-          292.69
+          291.28
         ],
         "price_gap": "3%",
         "matched_by": "closest price"
@@ -2911,7 +2911,7 @@
         {
           "ticker": "KXPOKEMON-26NOVMEGCHAXE579-25.63",
           "strike": 25.63,
-          "yes_price": 0.3,
+          "yes_price": 0.4,
           "no_price": 1.0,
           "volume": 121.66,
           "open_time": "2026-11-03T03:01:00Z",
@@ -2925,9 +2925,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          22.29
+          21.91
         ],
-        "price_gap": "13%",
+        "price_gap": "15%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -3274,7 +3274,7 @@
         {
           "ticker": "KXPOKEMON-26NOVFIRPARIL-58.52",
           "strike": 58.52,
-          "yes_price": 0.96,
+          "yes_price": 0.6,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -3288,9 +3288,9 @@
         "set": "First Partner Collection 2026",
         "variant": "Normal",
         "market_prices": [
-          55.32
+          54.66
         ],
-        "price_gap": "5%",
+        "price_gap": "7%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -3651,9 +3651,9 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          120.03
+          125.16
         ],
-        "price_gap": "4%",
+        "price_gap": "0%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -4014,7 +4014,7 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          172.73
+          172.66
         ],
         "price_gap": "0%",
         "matched_by": "exact name"
@@ -4363,7 +4363,7 @@
         {
           "ticker": "KXPOKEMON-26NOVPERORDPO-121.35",
           "strike": 121.35,
-          "yes_price": 0.69,
+          "yes_price": 0.5,
           "no_price": 1.0,
           "volume": 18.94,
           "open_time": "2026-11-03T03:01:00Z",
@@ -4377,9 +4377,9 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          118.33
+          117.7
         ],
-        "price_gap": "2%",
+        "price_gap": "3%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -4726,7 +4726,7 @@
         {
           "ticker": "KXPOKEMON-26NOVGENCOSHO-171.26",
           "strike": 171.26,
-          "yes_price": 0.6,
+          "yes_price": 0.64,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -5089,7 +5089,7 @@
         {
           "ticker": "KXPOKEMON-26NOVSQU-22.76",
           "strike": 22.76,
-          "yes_price": 0.59,
+          "yes_price": 0.5,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -5453,8 +5453,8 @@
         {
           "ticker": "KXPOKEMON-26NOVBUL-17.79",
           "strike": 17.79,
-          "yes_price": 0.65,
-          "no_price": 1.0,
+          "yes_price": 0.96,
+          "no_price": 0.75,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -5468,7 +5468,7 @@
         "variant": "Reverse Holofoil",
         "market_prices": [
           8.52,
-          35.19
+          34.08
         ],
         "price_gap": "52%",
         "matched_by": "closest price"
@@ -5817,7 +5817,7 @@
         {
           "ticker": "KXPOKEMON-26NOVCHA2FD-26.76",
           "strike": 26.76,
-          "yes_price": 0.45,
+          "yes_price": 0.34,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -5831,7 +5831,7 @@
         "set": "SV: Paldean Fates",
         "variant": "Holofoil",
         "market_prices": [
-          34.05
+          34.06
         ],
         "price_gap": "27%",
         "matched_by": "closest price"
@@ -6180,7 +6180,7 @@
         {
           "ticker": "KXPOKEMON-26NOVPIKEX109-103.56",
           "strike": 103.56,
-          "yes_price": 0.33,
+          "yes_price": 0.15,
           "no_price": 1.0,
           "volume": 13.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -6194,9 +6194,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          35.68
+          38.67
         ],
-        "price_gap": "66%",
+        "price_gap": "63%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -6543,7 +6543,7 @@
         {
           "ticker": "KXPOKEMON-26NOVMEWEXA13-32.69",
           "strike": 32.69,
-          "yes_price": 0.25,
+          "yes_price": 0.3,
           "no_price": 1.0,
           "volume": 17.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -6906,9 +6906,9 @@
         {
           "ticker": "KXPOKEMON-26NOVCHA5D7-155.37",
           "strike": 155.37,
-          "yes_price": 0.48,
-          "no_price": 1.0,
-          "volume": 3.0,
+          "yes_price": 0.24,
+          "no_price": 0.96,
+          "volume": 71.89,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -7245,7 +7245,7 @@
           }
         ]
       },
-      "kalshi_volume": 3.0,
+      "kalshi_volume": 71.89,
       "sales_volume": {
         "level": "low",
         "ratio": 0.0,
@@ -7269,7 +7269,7 @@
         {
           "ticker": "KXPOKEMON-26NOVMEWEX0AF-45.54",
           "strike": 45.54,
-          "yes_price": 0.59,
+          "yes_price": 0.2,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -7283,9 +7283,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          60.08
+          59.73
         ],
-        "price_gap": "32%",
+        "price_gap": "31%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -7632,8 +7632,8 @@
         {
           "ticker": "KXPOKEMON-26NOVMEW514-3529.24",
           "strike": 3529.24,
-          "yes_price": 0.59,
-          "no_price": 0.95,
+          "yes_price": 0.34,
+          "no_price": 1.0,
           "volume": 0.16,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -7646,7 +7646,7 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          3164.4
+          3161.24
         ],
         "price_gap": "10%",
         "matched_by": "closest price"
@@ -7995,7 +7995,7 @@
         {
           "ticker": "KXPOKEMON-26NOVMEW8FE-4678.5",
           "strike": 4678.5,
-          "yes_price": 0.59,
+          "yes_price": 0.5,
           "no_price": 1.0,
           "volume": 0.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -8009,7 +8009,7 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          3164.4
+          3161.24
         ],
         "price_gap": "10%",
         "matched_by": "closest price"
@@ -8358,8 +8358,8 @@
         {
           "ticker": "KXPOKEMON-26NOVMEW785-4152.8",
           "strike": 4152.8,
-          "yes_price": 0.9,
-          "no_price": 0.94,
+          "yes_price": 0.91,
+          "no_price": 0.79,
           "volume": 100.0,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -8372,7 +8372,7 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          3164.4
+          3161.24
         ],
         "price_gap": "10%",
         "matched_by": "closest price"
@@ -8721,7 +8721,7 @@
         {
           "ticker": "KXPOKEMON-26NOV30TCELPO-274.94",
           "strike": 274.94,
-          "yes_price": 0.49,
+          "yes_price": 0.4,
           "no_price": 1.0,
           "volume": 9.04,
           "open_time": "2026-11-03T03:01:00Z",
@@ -8735,9 +8735,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          257.07
+          263.62
         ],
-        "price_gap": "6%",
+        "price_gap": "4%",
         "matched_by": "exact name"
       },
       "sales": {

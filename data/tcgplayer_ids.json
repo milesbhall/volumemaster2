@@ -6,7 +6,7 @@
     "tcgplayer_name": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      323.18
+      321.74
     ],
     "price_gap": "1%",
     "variant": "Normal"
@@ -30,7 +30,7 @@
     "tcgplayer_name": "Blooming Waters Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      322.15
+      321.95
     ],
     "price_gap": "0%",
     "variant": "Normal"
@@ -42,9 +42,9 @@
     "tcgplayer_name": "151 Ultra-Premium Collection",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      843.07
+      845.14
     ],
-    "price_gap": "1%",
+    "price_gap": "2%",
     "variant": "Normal"
   },
   "Charizard ex": {
@@ -54,7 +54,7 @@
     "tcgplayer_name": "Charizard ex - 199/165",
     "set": "SV: Scarlet & Violet 151",
     "tcgplayer_market_prices": [
-      292.69
+      291.28
     ],
     "price_gap": "3%",
     "other_candidates": [
@@ -131,9 +131,9 @@
     "tcgplayer_name": "Mega Charizard X ex - 023",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      22.29
+      21.91
     ],
-    "price_gap": "13%",
+    "price_gap": "15%",
     "other_candidates": [
       {
         "product_id": 662183,
@@ -199,9 +199,9 @@
     "tcgplayer_name": "First Partner Illustration Collection (Series 1)",
     "set": "First Partner Collection 2026",
     "tcgplayer_market_prices": [
-      55.32
+      54.66
     ],
-    "price_gap": "5%",
+    "price_gap": "7%",
     "variant": "Normal"
   },
   "Ascended Heroes Elite Trainer Box": {
@@ -211,9 +211,9 @@
     "tcgplayer_name": "Ascended Heroes Elite Trainer Box",
     "set": "ME: Ascended Heroes",
     "tcgplayer_market_prices": [
-      120.03
+      125.16
     ],
-    "price_gap": "4%",
+    "price_gap": "0%",
     "variant": "Normal"
   },
   "Perfect Order Booster Box": {
@@ -223,7 +223,7 @@
     "tcgplayer_name": "Perfect Order Booster Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      172.73
+      172.66
     ],
     "price_gap": "0%",
     "variant": "Normal"
@@ -235,9 +235,9 @@
     "tcgplayer_name": "Perfect Order Pokemon Center Elite Trainer Box",
     "set": "ME03: Perfect Order",
     "tcgplayer_market_prices": [
-      118.33
+      117.7
     ],
-    "price_gap": "2%",
+    "price_gap": "3%",
     "variant": "Normal"
   },
   "Gengar (Cosmos Holo) (EB Games Exclusive)": {
@@ -341,7 +341,7 @@
     "set": "Dark Explorers",
     "tcgplayer_market_prices": [
       8.52,
-      35.19
+      34.08
     ],
     "price_gap": "52%",
     "other_candidates": [
@@ -420,7 +420,7 @@
     "tcgplayer_name": "Charmander - 109/091",
     "set": "SV: Paldean Fates",
     "tcgplayer_market_prices": [
-      34.05
+      34.06
     ],
     "price_gap": "27%",
     "other_candidates": [
@@ -500,9 +500,9 @@
     "tcgplayer_name": "Pikachu ex - 109 (30th Celebration)",
     "set": "ME: Mega Evolution Promo",
     "tcgplayer_market_prices": [
-      35.68
+      38.67
     ],
-    "price_gap": "66%"
+    "price_gap": "63%"
   },
   "Mew ex": {
     "product_id": 717605,
@@ -598,9 +598,9 @@
     "tcgplayer_name": "Mew ex - 152/128",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      60.08
+      59.73
     ],
-    "price_gap": "32%"
+    "price_gap": "31%"
   },
   "Charizard": {
     "product_id": 527938,
@@ -752,9 +752,9 @@
     "tcgplayer_name": "30th Celebration Pokemon Center Elite Trainer Box",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      257.07
+      263.62
     ],
-    "price_gap": "6%"
+    "price_gap": "4%"
   },
   "Pikachu ex": {
     "product_id": 497474,
@@ -764,7 +764,7 @@
     "tcgplayer_name": "Pikachu ex",
     "set": "SV02: Paldea Evolved",
     "tcgplayer_market_prices": [
-      4.03
+      4.09
     ],
     "price_gap": "99%"
   },
@@ -788,9 +788,9 @@
     "tcgplayer_name": "Mega Charizard X ex Ultra Premium Collection",
     "set": "Miscellaneous Cards & Products",
     "tcgplayer_market_prices": [
-      210.93
+      211.86
     ],
-    "price_gap": "4%"
+    "price_gap": "3%"
   },
   "Mewtwo ex": {
     "product_id": 87429,
@@ -988,7 +988,7 @@
     "tcgplayer_name": "Mew - G/RGB",
     "set": "ME: 30th Celebration",
     "tcgplayer_market_prices": [
-      3164.4
+      3161.24
     ],
     "price_gap": "10%"
   }
