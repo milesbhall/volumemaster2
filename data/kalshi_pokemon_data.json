@@ -6,10 +6,10 @@
     "strike": 594.25,
     "title": "Will Ungraded Price of the Pikachu ex on Collectr be above $594.25 on Nov 30, 2026?",
     "status": "active",
-    "volume": 323.91,
+    "volume": 333.91,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.24,
+    "yes_price": 0.23,
     "no_price": 1.0
   },
   {
@@ -19,11 +19,11 @@
     "strike": 710.52,
     "title": "Will Ungraded Price of the Mega Gengar ex on Collectr be above $710.52 on Nov 30, 2026?",
     "status": "active",
-    "volume": 0.0,
+    "volume": 38.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.25,
-    "no_price": 1.0
+    "yes_price": 0.22,
+    "no_price": 0.98
   },
   {
     "ticker": "KXPOKEMON-26NOVMEGCHAXEC41-219.53",
@@ -35,7 +35,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
+    "yes_price": 0.98,
     "no_price": 1.0
   },
   {
@@ -48,7 +48,7 @@
     "volume": 47.7,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.49,
+    "yes_price": 0.48,
     "no_price": 1.0
   },
   {
@@ -61,7 +61,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.7,
+    "yes_price": 0.49,
     "no_price": 1.0
   },
   {
@@ -74,7 +74,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.6,
+    "yes_price": 0.59,
     "no_price": 1.0
   },
   {
@@ -84,10 +84,10 @@
     "strike": 832.19,
     "title": "Will Ungraded Price of the 151 Ultra-Premium Collection on Collectr be above $832.19 on Nov 30, 2026?",
     "status": "active",
-    "volume": 0.0,
+    "volume": 1.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.79,
+    "yes_price": 0.91,
     "no_price": 0.5
   },
   {
@@ -101,7 +101,7 @@
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
     "yes_price": 0.59,
-    "no_price": 0.95
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26NOVMEGCHAXE579-25.63",
@@ -113,7 +113,7 @@
     "volume": 121.66,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.4,
+    "yes_price": 0.38,
     "no_price": 1.0
   },
   {
@@ -126,7 +126,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.6,
+    "yes_price": 0.59,
     "no_price": 1.0
   },
   {
@@ -136,11 +136,11 @@
     "strike": 124.75,
     "title": "Will Ungraded Price of the Ascended Heroes Elite Trainer Box on Collectr be above $124.75 on Nov 30, 2026?",
     "status": "active",
-    "volume": 0.0,
+    "volume": 2.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
     "yes_price": 0.49,
-    "no_price": 1.0
+    "no_price": 0.96
   },
   {
     "ticker": "KXPOKEMON-26NOVPERORDBO-173.16",
@@ -152,7 +152,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.7,
+    "yes_price": 0.69,
     "no_price": 1.0
   },
   {
@@ -165,7 +165,7 @@
     "volume": 18.94,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.5,
+    "yes_price": 0.49,
     "no_price": 1.0
   },
   {
@@ -178,7 +178,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.64,
+    "yes_price": 0.98,
     "no_price": 1.0
   },
   {
@@ -191,7 +191,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.5,
+    "yes_price": 0.49,
     "no_price": 1.0
   },
   {
@@ -204,8 +204,8 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.96,
-    "no_price": 0.75
+    "yes_price": 0.97,
+    "no_price": 0.74
   },
   {
     "ticker": "KXPOKEMON-26NOVCHA2FD-26.76",
@@ -217,7 +217,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.34,
+    "yes_price": 0.33,
     "no_price": 1.0
   },
   {
@@ -227,10 +227,10 @@
     "strike": 103.56,
     "title": "Will Ungraded Price of the Pikachu ex - 109 (30th Celebration) on Collectr be above $103.56 on Nov 30, 2026?",
     "status": "active",
-    "volume": 13.0,
+    "volume": 18.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.15,
+    "yes_price": 0.14,
     "no_price": 1.0
   },
   {
@@ -240,11 +240,11 @@
     "strike": 32.69,
     "title": "Will Ungraded Price of the Mewtwo ex on Collectr be above $32.69 on Nov 30, 2026?",
     "status": "active",
-    "volume": 17.0,
+    "volume": 20.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.3,
-    "no_price": 1.0
+    "yes_price": 0.29,
+    "no_price": 0.97
   },
   {
     "ticker": "KXPOKEMON-26NOVCHA5D7-155.37",
@@ -256,8 +256,8 @@
     "volume": 71.89,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.24,
-    "no_price": 0.96
+    "yes_price": 0.23,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26NOVMEWEX0AF-45.54",
@@ -266,11 +266,11 @@
     "strike": 45.54,
     "title": "Will Ungraded Price of the Mew ex on Collectr be above $45.54 on Nov 30, 2026?",
     "status": "active",
-    "volume": 0.0,
+    "volume": 4.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.2,
-    "no_price": 1.0
+    "yes_price": 0.19,
+    "no_price": 0.98
   },
   {
     "ticker": "KXPOKEMON-26NOVMEW514-3529.24",
@@ -282,7 +282,7 @@
     "volume": 0.16,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.34,
+    "yes_price": 0.33,
     "no_price": 1.0
   },
   {
@@ -295,7 +295,7 @@
     "volume": 0.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.5,
+    "yes_price": 0.49,
     "no_price": 1.0
   },
   {
@@ -308,8 +308,8 @@
     "volume": 100.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.91,
-    "no_price": 0.79
+    "yes_price": 0.79,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26NOV30TCELPO-274.94",
@@ -318,10 +318,10 @@
     "strike": 274.94,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $274.94 on Nov 30, 2026?",
     "status": "active",
-    "volume": 9.04,
+    "volume": 11.04,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.4,
+    "yes_price": 0.39,
     "no_price": 1.0
   },
   {
