@@ -2,7 +2,7 @@
   "product": "Gengar (Cosmos Holo) (EB Games Exclusive)",
   "product_id": 686505,
   "tcgplayer_url": "https://www.tcgplayer.com/product/686505",
-  "fetched_at": "2026-11-04T00:59:19.181457+00:00",
+  "fetched_at": "2026-11-12T02:03:43.481951+00:00",
   "skus": [
     {
       "skuId": "9202389",
@@ -15,6 +15,16 @@
       "totalTransactionCount": "35",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "169.66",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-09"
+        },
         {
           "marketPrice": "169.66",
           "quantitySold": "1",
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     },
@@ -548,6 +548,16 @@
       "totalTransactionCount": "2",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "138.99",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-09"
+        },
         {
           "marketPrice": "138.99",
           "quantitySold": "0",
@@ -1057,16 +1067,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     },
@@ -1081,6 +1081,16 @@
       "totalTransactionCount": "2",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "65.5",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-09"
+        },
         {
           "marketPrice": "65.5",
           "quantitySold": "0",
@@ -1590,16 +1600,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     }

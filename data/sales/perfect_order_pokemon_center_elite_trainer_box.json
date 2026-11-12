@@ -2,7 +2,7 @@
   "product": "Perfect Order Pokemon Center Elite Trainer Box",
   "product_id": 672404,
   "tcgplayer_url": "https://www.tcgplayer.com/product/672404",
-  "fetched_at": "2026-11-04T00:59:17.159536+00:00",
+  "fetched_at": "2026-11-12T02:03:41.723806+00:00",
   "skus": [
     {
       "skuId": "9101966",
@@ -11,18 +11,28 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "5",
       "averageDailyTransactionCount": "4",
-      "totalQuantitySold": "2150",
-      "totalTransactionCount": "1733",
+      "totalQuantitySold": "2165",
+      "totalTransactionCount": "1748",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "120.34",
-          "quantitySold": "5",
+          "marketPrice": "114.27",
+          "quantitySold": "7",
+          "lowSalePrice": "98.01",
+          "lowSalePriceWithShipping": "105.75",
+          "highSalePrice": "115",
+          "highSalePriceWithShipping": "120",
+          "transactionCount": "7",
+          "bucketStartDate": "2026-11-09"
+        },
+        {
+          "marketPrice": "117.7",
+          "quantitySold": "13",
           "lowSalePrice": "113",
-          "lowSalePriceWithShipping": "115.99",
+          "lowSalePriceWithShipping": "113.99",
           "highSalePrice": "118",
           "highSalePriceWithShipping": "118",
-          "transactionCount": "4",
+          "transactionCount": "12",
           "bucketStartDate": "2026-11-02"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     }

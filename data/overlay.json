@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:57:10.811788+00:00",
+  "generated_at": "2026-11-12T02:04:05.124712+00:00",
   "events": {
     "KXPOKEMON-26NOVPIKEX": {
       "product": "Pikachu ex",
@@ -9,7 +9,7 @@
           "strike": 594.25,
           "yes_price": 0.23,
           "no_price": 1.0,
-          "volume": 333.91,
+          "volume": 339.03,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -21,23 +21,17 @@
         "set": "SV02: Paldea Evolved",
         "variant": "Holofoil",
         "market_prices": [
-          4.07
+          4.15
         ],
         "price_gap": "99%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:38.756909+00:00",
+        "fetched_at": "2026-11-12T02:03:06.829460+00:00",
         "variant": "Holofoil",
-        "total_transactions": 2962,
-        "total_quantity": 4072,
+        "total_transactions": 2931,
+        "total_quantity": 4023,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 65,
-            "quantity": 99,
-            "dollars": 230.92
-          },
           {
             "week": "2025-11-17",
             "transactions": 41,
@@ -334,34 +328,40 @@
           },
           {
             "week": "2026-10-26",
-            "transactions": 43,
-            "quantity": 50,
-            "dollars": 200.69
+            "transactions": 42,
+            "quantity": 49,
+            "dollars": 196.61
           },
           {
             "week": "2026-11-02",
-            "transactions": 17,
-            "quantity": 20,
-            "dollars": 78.17
+            "transactions": 37,
+            "quantity": 46,
+            "dollars": 180.65
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 15,
+            "quantity": 25,
+            "dollars": 99.03
           }
         ]
       },
-      "kalshi_volume": 333.91,
+      "kalshi_volume": 339.03,
       "sales_volume": {
-        "level": "high",
-        "ratio": null,
+        "level": "low",
+        "ratio": 0.739,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:38.756909+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:06.829460+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 8.97,
-          "transactions": 7.62,
-          "dollars": 35.05,
-          "units_per_week": 68.6
+          "quantity": 63.6,
+          "transactions": 46.05,
+          "dollars": 250.63,
+          "units_per_week": 49.7
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 339.03
       }
     },
     "KXPOKEMON-26NOVMEGGENEX": {
@@ -370,9 +370,9 @@
         {
           "ticker": "KXPOKEMON-26NOVMEGGENEX-710.52",
           "strike": 710.52,
-          "yes_price": 0.22,
+          "yes_price": 0.24,
           "no_price": 0.98,
-          "volume": 38.0,
+          "volume": 95.77,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -384,23 +384,17 @@
         "set": "ME02: Phantasmal Flames",
         "variant": "Holofoil",
         "market_prices": [
-          1.8
+          1.79
         ],
         "price_gap": "100%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:42.048091+00:00",
+        "fetched_at": "2026-11-12T02:03:10.605013+00:00",
         "variant": "Holofoil",
-        "total_transactions": 26878,
-        "total_quantity": 61276,
+        "total_transactions": 26132,
+        "total_quantity": 59646,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 1011,
-            "quantity": 2221,
-            "dollars": 7334.93
-          },
           {
             "week": "2025-11-17",
             "transactions": 1118,
@@ -685,46 +679,52 @@
           },
           {
             "week": "2026-10-12",
-            "transactions": 240,
-            "quantity": 618,
-            "dollars": 1448.18
+            "transactions": 239,
+            "quantity": 617,
+            "dollars": 1445.67
           },
           {
             "week": "2026-10-19",
-            "transactions": 215,
-            "quantity": 443,
-            "dollars": 929.59
+            "transactions": 211,
+            "quantity": 434,
+            "dollars": 909.94
           },
           {
             "week": "2026-10-26",
-            "transactions": 226,
-            "quantity": 489,
-            "dollars": 1033.26
+            "transactions": 221,
+            "quantity": 483,
+            "dollars": 1020.6
           },
           {
             "week": "2026-11-02",
-            "transactions": 45,
-            "quantity": 90,
-            "dollars": 178.38
+            "transactions": 209,
+            "quantity": 395,
+            "dollars": 641.11
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 111,
+            "quantity": 302,
+            "dollars": 563.18
           }
         ]
       },
-      "kalshi_volume": 38.0,
+      "kalshi_volume": 95.77,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 11.498,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:42.048091+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:10.605013+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 40.36,
-          "transactions": 20.18,
-          "dollars": 79.98,
-          "units_per_week": 308.7
+          "quantity": 633.48,
+          "transactions": 286.39,
+          "dollars": 1101.19,
+          "units_per_week": 494.9
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 95.77
       }
     },
     "KXPOKEMON-26NOVMEGCHAXEC41": {
@@ -747,23 +747,17 @@
         "set": "Miscellaneous Cards & Products",
         "variant": "Normal",
         "market_prices": [
-          211.85
+          212.47
         ],
         "price_gap": "3%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:44.401129+00:00",
+        "fetched_at": "2026-11-12T02:03:13.968374+00:00",
         "variant": "Normal",
-        "total_transactions": 9574,
-        "total_quantity": 12034,
+        "total_transactions": 8368,
+        "total_quantity": 10588,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 1244,
-            "quantity": 1485,
-            "dollars": 308924.55
-          },
           {
             "week": "2025-11-17",
             "transactions": 1126,
@@ -1054,9 +1048,9 @@
           },
           {
             "week": "2026-10-19",
-            "transactions": 38,
-            "quantity": 41,
-            "dollars": 9184.41
+            "transactions": 37,
+            "quantity": 40,
+            "dollars": 8960.4
           },
           {
             "week": "2026-10-26",
@@ -1066,9 +1060,15 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 7,
-            "quantity": 7,
-            "dollars": 1542.73
+            "transactions": 37,
+            "quantity": 38,
+            "dollars": 8018.76
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 9,
+            "quantity": 9,
+            "dollars": 1911.6
           }
         ]
       },
@@ -1078,14 +1078,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:44.401129+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:13.968374+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 3.14,
-          "transactions": 3.14,
-          "dollars": 691.76,
-          "units_per_week": 24.0
+          "quantity": 40.89,
+          "transactions": 40.05,
+          "dollars": 8640.84,
+          "units_per_week": 31.9
         },
         "kalshi_volume": 0
       }
@@ -1110,23 +1110,17 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          320.94
+          318.79
         ],
-        "price_gap": "1%",
+        "price_gap": "2%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:47.740715+00:00",
+        "fetched_at": "2026-11-12T02:03:17.237164+00:00",
         "variant": "Normal",
-        "total_transactions": 1677,
-        "total_quantity": 2039,
+        "total_transactions": 1691,
+        "total_quantity": 2054,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -1429,28 +1423,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
+            "transactions": 7,
+            "quantity": 8,
+            "dollars": 2579.04
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 7,
+            "quantity": 7,
+            "dollars": 2195.13
           }
         ]
       },
       "kalshi_volume": 47.7,
       "sales_volume": {
-        "level": "low",
-        "ratio": null,
+        "level": "moderate",
+        "ratio": 91.393,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:47.740715+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:17.237164+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 13.71,
+          "transactions": 12.87,
+          "dollars": 4359.43,
+          "units_per_week": 10.7
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 47.7
       }
     },
     "KXPOKEMON-26NOVCELULTPR": {
@@ -1473,23 +1473,17 @@
         "set": "Celebrations",
         "variant": "Normal",
         "market_prices": [
-          1206.87
+          1189.99
         ],
-        "price_gap": "0%",
+        "price_gap": "1%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:50.803057+00:00",
+        "fetched_at": "2026-11-12T02:03:20.620404+00:00",
         "variant": "Normal",
-        "total_transactions": 199,
-        "total_quantity": 206,
+        "total_transactions": 198,
+        "total_quantity": 205,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 3,
-            "quantity": 3,
-            "dollars": 2708.7
-          },
           {
             "week": "2025-11-17",
             "transactions": 1,
@@ -1795,6 +1789,12 @@
             "transactions": 0,
             "quantity": 0,
             "dollars": 0.0
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 2379.98
           }
         ]
       },
@@ -1804,14 +1804,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:50.803057+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:20.620404+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 2.0,
+          "transactions": 2.0,
+          "dollars": 2379.98,
+          "units_per_week": 1.6
         },
         "kalshi_volume": 0
       }
@@ -1836,23 +1836,17 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          321.95
+          321.83
         ],
         "price_gap": "0%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:53.780784+00:00",
+        "fetched_at": "2026-11-12T02:03:24.034404+00:00",
         "variant": "Normal",
-        "total_transactions": 713,
-        "total_quantity": 867,
+        "total_transactions": 703,
+        "total_quantity": 854,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 14,
-            "quantity": 17,
-            "dollars": 2979.59
-          },
           {
             "week": "2025-11-17",
             "transactions": 20,
@@ -2149,32 +2143,38 @@
           },
           {
             "week": "2026-10-26",
-            "transactions": 8,
-            "quantity": 8,
-            "dollars": 2586.32
+            "transactions": 7,
+            "quantity": 7,
+            "dollars": 2263.03
           },
           {
             "week": "2026-11-02",
+            "transactions": 5,
+            "quantity": 5,
+            "dollars": 1609.75
+          },
+          {
+            "week": "2026-11-09",
             "transactions": 2,
             "quantity": 2,
-            "dollars": 644.62
+            "dollars": 642.62
           }
         ]
       },
       "kalshi_volume": 0.0,
       "sales_volume": {
-        "level": "moderate",
+        "level": "low",
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:53.780784+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:24.034404+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.9,
-          "transactions": 0.9,
-          "dollars": 289.07,
-          "units_per_week": 6.9
+          "quantity": 6.2,
+          "transactions": 6.2,
+          "dollars": 1993.5,
+          "units_per_week": 4.8
         },
         "kalshi_volume": 0
       }
@@ -2185,9 +2185,9 @@
         {
           "ticker": "KXPOKEMON-26NOV151ULTCO-832.19",
           "strike": 832.19,
-          "yes_price": 0.91,
-          "no_price": 0.5,
-          "volume": 1.0,
+          "yes_price": 0.89,
+          "no_price": 0.73,
+          "volume": 4.35,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -2205,17 +2205,11 @@
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:56.935516+00:00",
+        "fetched_at": "2026-11-12T02:03:27.589110+00:00",
         "variant": "Normal",
-        "total_transactions": 650,
-        "total_quantity": 744,
+        "total_transactions": 649,
+        "total_quantity": 743,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 8,
-            "quantity": 9,
-            "dollars": 5284.44
-          },
           {
             "week": "2025-11-17",
             "transactions": 9,
@@ -2500,9 +2494,9 @@
           },
           {
             "week": "2026-10-12",
-            "transactions": 9,
-            "quantity": 12,
-            "dollars": 9405.96
+            "transactions": 8,
+            "quantity": 11,
+            "dollars": 8622.13
           },
           {
             "week": "2026-10-19",
@@ -2518,28 +2512,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
+            "transactions": 5,
+            "quantity": 6,
+            "dollars": 5070.84
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 2541.87
           }
         ]
       },
-      "kalshi_volume": 1.0,
+      "kalshi_volume": 4.35,
       "sales_volume": {
-        "level": "low",
-        "ratio": null,
+        "level": "moderate",
+        "ratio": 1562.586,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:56.935516+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:27.589110+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 8.04,
+          "transactions": 7.2,
+          "dollars": 6797.25,
+          "units_per_week": 6.3
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 4.35
       }
     },
     "KXPOKEMON-26NOVCHAEX": {
@@ -2548,7 +2548,7 @@
         {
           "ticker": "KXPOKEMON-26NOVCHAEX-300.78",
           "strike": 300.78,
-          "yes_price": 0.59,
+          "yes_price": 0.35,
           "no_price": 1.0,
           "volume": 100.0,
           "open_time": "2026-11-03T03:01:00Z",
@@ -2562,23 +2562,17 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Holofoil",
         "market_prices": [
-          293.04
+          294.0
         ],
-        "price_gap": "3%",
+        "price_gap": "2%",
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:58:58.814265+00:00",
+        "fetched_at": "2026-11-12T02:03:29.725019+00:00",
         "variant": "Holofoil",
-        "total_transactions": 2128,
-        "total_quantity": 2229,
+        "total_transactions": 2150,
+        "total_quantity": 2251,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 29,
-            "quantity": 29,
-            "dollars": 6474.32
-          },
           {
             "week": "2025-11-17",
             "transactions": 65,
@@ -2869,40 +2863,46 @@
           },
           {
             "week": "2026-10-19",
-            "transactions": 31,
-            "quantity": 31,
-            "dollars": 9165.15
+            "transactions": 30,
+            "quantity": 30,
+            "dollars": 8870.73
           },
           {
             "week": "2026-10-26",
-            "transactions": 39,
-            "quantity": 39,
-            "dollars": 11539.92
+            "transactions": 38,
+            "quantity": 38,
+            "dollars": 11239.14
           },
           {
             "week": "2026-11-02",
-            "transactions": 11,
-            "quantity": 11,
-            "dollars": 3278.18
+            "transactions": 48,
+            "quantity": 48,
+            "dollars": 13238.52
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 16,
+            "quantity": 16,
+            "dollars": 4523.36
           }
         ]
       },
       "kalshi_volume": 100.0,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 156.329,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:58:58.814265+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:29.725019+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 4.93,
-          "transactions": 4.93,
-          "dollars": 1470.09,
-          "units_per_week": 37.7
+          "quantity": 56.28,
+          "transactions": 56.28,
+          "dollars": 15632.95,
+          "units_per_week": 44.0
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 100.0
       }
     },
     "KXPOKEMON-26NOVMEGCHAXE579": {
@@ -2925,23 +2925,17 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          21.58
+          21.52
         ],
         "price_gap": "16%",
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:03.119324+00:00",
+        "fetched_at": "2026-11-12T02:03:33.604733+00:00",
         "variant": "Holofoil",
-        "total_transactions": 12489,
-        "total_quantity": 20051,
+        "total_transactions": 12481,
+        "total_quantity": 20613,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 217,
-            "quantity": 339,
-            "dollars": 26411.96
-          },
           {
             "week": "2025-11-17",
             "transactions": 344,
@@ -3220,52 +3214,58 @@
           },
           {
             "week": "2026-10-05",
-            "transactions": 174,
-            "quantity": 386,
-            "dollars": 9408.13
+            "transactions": 172,
+            "quantity": 384,
+            "dollars": 9354.46
           },
           {
             "week": "2026-10-12",
-            "transactions": 218,
-            "quantity": 613,
-            "dollars": 15536.49
+            "transactions": 213,
+            "quantity": 607,
+            "dollars": 15384.33
           },
           {
             "week": "2026-10-19",
-            "transactions": 163,
-            "quantity": 422,
-            "dollars": 10682.71
+            "transactions": 162,
+            "quantity": 421,
+            "dollars": 10657.42
           },
           {
             "week": "2026-10-26",
-            "transactions": 189,
-            "quantity": 239,
-            "dollars": 6025.74
+            "transactions": 185,
+            "quantity": 231,
+            "dollars": 5824.74
           },
           {
             "week": "2026-11-02",
-            "transactions": 37,
-            "quantity": 44,
-            "dollars": 1037.79
+            "transactions": 182,
+            "quantity": 843,
+            "dollars": 18578.22
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 76,
+            "quantity": 119,
+            "dollars": 2540.09
           }
         ]
       },
       "kalshi_volume": 121.66,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 149.027,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:03.119324+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:33.604733+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 19.73,
-          "transactions": 16.59,
-          "dollars": 465.41,
-          "units_per_week": 150.9
+          "quantity": 826.43,
+          "transactions": 228.73,
+          "dollars": 18130.68,
+          "units_per_week": 645.6
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 121.66
       }
     },
     "KXPOKEMON-26NOVFIRPARIL": {
@@ -3288,23 +3288,17 @@
         "set": "First Partner Collection 2026",
         "variant": "Normal",
         "market_prices": [
-          54.45
+          54.15
         ],
         "price_gap": "7%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:06.703031+00:00",
+        "fetched_at": "2026-11-12T02:03:35.596609+00:00",
         "variant": "Normal",
-        "total_transactions": 7539,
-        "total_quantity": 14737,
+        "total_transactions": 7586,
+        "total_quantity": 14803,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -3589,15 +3583,15 @@
           },
           {
             "week": "2026-10-12",
-            "transactions": 36,
-            "quantity": 55,
-            "dollars": 3502.95
+            "transactions": 35,
+            "quantity": 54,
+            "dollars": 3439.26
           },
           {
             "week": "2026-10-19",
-            "transactions": 30,
-            "quantity": 45,
-            "dollars": 2797.2
+            "transactions": 29,
+            "quantity": 44,
+            "dollars": 2735.04
           },
           {
             "week": "2026-10-26",
@@ -3607,9 +3601,15 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 7,
-            "quantity": 13,
-            "dollars": 758.81
+            "transactions": 39,
+            "quantity": 53,
+            "dollars": 2902.28
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 17,
+            "quantity": 28,
+            "dollars": 1513.96
           }
         ]
       },
@@ -3619,14 +3619,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:06.703031+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:35.596609+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 5.83,
-          "transactions": 3.14,
-          "dollars": 340.31,
-          "units_per_week": 44.6
+          "quantity": 72.48,
+          "transactions": 49.73,
+          "dollars": 3949.51,
+          "units_per_week": 56.6
         },
         "kalshi_volume": 0
       }
@@ -3637,9 +3637,9 @@
         {
           "ticker": "KXPOKEMON-26NOVASCHEREL-124.75",
           "strike": 124.75,
-          "yes_price": 0.49,
-          "no_price": 0.96,
-          "volume": 2.0,
+          "yes_price": 0.71,
+          "no_price": 0.78,
+          "volume": 7.91,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -3651,23 +3651,17 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          126.12
+          126.14
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:10.498403+00:00",
+        "fetched_at": "2026-11-12T02:03:37.781120+00:00",
         "variant": "Normal",
-        "total_transactions": 13424,
-        "total_quantity": 20692,
+        "total_transactions": 13598,
+        "total_quantity": 20917,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -3958,9 +3952,9 @@
           },
           {
             "week": "2026-10-19",
-            "transactions": 199,
-            "quantity": 251,
-            "dollars": 30237.97
+            "transactions": 198,
+            "quantity": 249,
+            "dollars": 29997.03
           },
           {
             "week": "2026-10-26",
@@ -3970,28 +3964,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 31,
-            "quantity": 37,
-            "dollars": 4555.81
+            "transactions": 143,
+            "quantity": 184,
+            "dollars": 22718.48
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 63,
+            "quantity": 80,
+            "dollars": 10067.2
           }
         ]
       },
-      "kalshi_volume": 2.0,
+      "kalshi_volume": 7.91,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 3682.963,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:10.498403+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:37.781120+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 16.59,
-          "transactions": 13.9,
-          "dollars": 2043.21,
-          "units_per_week": 126.9
+          "quantity": 234.41,
+          "transactions": 183.0,
+          "dollars": 29132.24,
+          "units_per_week": 183.1
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 7.91
       }
     },
     "KXPOKEMON-26NOVPERORDBO": {
@@ -4014,23 +4014,17 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          170.8
+          169.53
         ],
-        "price_gap": "1%",
+        "price_gap": "2%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:13.981282+00:00",
+        "fetched_at": "2026-11-12T02:03:39.904318+00:00",
         "variant": "Normal",
-        "total_transactions": 7133,
-        "total_quantity": 8982,
+        "total_transactions": 7201,
+        "total_quantity": 9058,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -4315,15 +4309,15 @@
           },
           {
             "week": "2026-10-12",
-            "transactions": 61,
-            "quantity": 66,
-            "dollars": 11563.2
+            "transactions": 60,
+            "quantity": 65,
+            "dollars": 11388.0
           },
           {
             "week": "2026-10-19",
-            "transactions": 60,
-            "quantity": 68,
-            "dollars": 11800.72
+            "transactions": 59,
+            "quantity": 67,
+            "dollars": 11627.18
           },
           {
             "week": "2026-10-26",
@@ -4333,9 +4327,15 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 8,
-            "quantity": 9,
-            "dollars": 1557.27
+            "transactions": 46,
+            "quantity": 52,
+            "dollars": 8980.4
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 32,
+            "quantity": 35,
+            "dollars": 5944.05
           }
         ]
       },
@@ -4345,14 +4345,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:13.981282+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:39.904318+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 4.04,
-          "transactions": 3.59,
-          "dollars": 698.43,
-          "units_per_week": 30.9
+          "quantity": 78.64,
+          "transactions": 70.6,
+          "dollars": 13480.28,
+          "units_per_week": 61.4
         },
         "kalshi_volume": 0
       }
@@ -4377,23 +4377,17 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          116.29
+          114.27
         ],
-        "price_gap": "4%",
+        "price_gap": "6%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:17.159536+00:00",
+        "fetched_at": "2026-11-12T02:03:41.723806+00:00",
         "variant": "Normal",
-        "total_transactions": 1733,
-        "total_quantity": 2150,
+        "total_transactions": 1748,
+        "total_quantity": 2165,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -4696,28 +4690,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 4,
-            "quantity": 5,
-            "dollars": 601.7
+            "transactions": 12,
+            "quantity": 13,
+            "dollars": 1530.1
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 7,
+            "quantity": 7,
+            "dollars": 799.89
           }
         ]
       },
       "kalshi_volume": 18.94,
       "sales_volume": {
         "level": "moderate",
-        "ratio": null,
+        "ratio": 110.028,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:17.159536+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:41.723806+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 2.24,
-          "transactions": 1.79,
-          "dollars": 269.87,
-          "units_per_week": 17.1
+          "quantity": 17.91,
+          "transactions": 17.07,
+          "dollars": 2083.93,
+          "units_per_week": 14.0
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 18.94
       }
     },
     "KXPOKEMON-26NOVGENCOSHO": {
@@ -4746,17 +4746,11 @@
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:19.181457+00:00",
+        "fetched_at": "2026-11-12T02:03:43.481951+00:00",
         "variant": "Holofoil",
         "total_transactions": 39,
         "total_quantity": 40,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -5062,6 +5056,12 @@
             "transactions": 1,
             "quantity": 1,
             "dollars": 169.66
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 0,
+            "quantity": 0,
+            "dollars": 0.0
           }
         ]
       },
@@ -5071,14 +5071,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:19.181457+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:43.481951+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.45,
-          "transactions": 0.45,
-          "dollars": 76.09,
-          "units_per_week": 3.4
+          "quantity": 0.84,
+          "transactions": 0.84,
+          "dollars": 142.38,
+          "units_per_week": 0.7
         },
         "kalshi_volume": 0
       }
@@ -5110,17 +5110,11 @@
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:22.188259+00:00",
+        "fetched_at": "2026-11-12T02:03:45.411353+00:00",
         "variant": "Reverse Holofoil",
         "total_transactions": 82,
         "total_quantity": 83,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 1,
-            "quantity": 1,
-            "dollars": 3.61
-          },
           {
             "week": "2025-11-17",
             "transactions": 1,
@@ -5426,6 +5420,12 @@
             "transactions": 1,
             "quantity": 1,
             "dollars": 28.37
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 7.02
           }
         ]
       },
@@ -5435,14 +5435,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:22.188259+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:45.411353+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.45,
-          "transactions": 0.45,
-          "dollars": 12.72,
-          "units_per_week": 3.4
+          "quantity": 1.84,
+          "transactions": 1.84,
+          "dollars": 30.83,
+          "units_per_week": 1.4
         },
         "kalshi_volume": 0
       }
@@ -5467,24 +5467,18 @@
         "set": "Dark Explorers",
         "variant": "Reverse Holofoil",
         "market_prices": [
-          8.63,
+          8.71,
           34.08
         ],
         "price_gap": "51%",
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:24.285064+00:00",
+        "fetched_at": "2026-11-12T02:03:47.270759+00:00",
         "variant": "Reverse Holofoil",
-        "total_transactions": 76,
-        "total_quantity": 81,
+        "total_transactions": 74,
+        "total_quantity": 79,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 4,
-            "quantity": 4,
-            "dollars": 34.22
-          },
           {
             "week": "2025-11-17",
             "transactions": 1,
@@ -5787,9 +5781,15 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 34.08
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 5.12
           }
         ]
       },
@@ -5799,14 +5799,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:24.285064+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:47.270759+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 1.84,
+          "transactions": 1.84,
+          "dollars": 33.72,
+          "units_per_week": 1.4
         },
         "kalshi_volume": 0
       }
@@ -5837,17 +5837,11 @@
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:26.176228+00:00",
+        "fetched_at": "2026-11-12T02:03:49.043842+00:00",
         "variant": "Holofoil",
-        "total_transactions": 754,
-        "total_quantity": 803,
+        "total_transactions": 757,
+        "total_quantity": 804,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 10,
-            "quantity": 12,
-            "dollars": 260.7
-          },
           {
             "week": "2025-11-17",
             "transactions": 17,
@@ -6150,26 +6144,32 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 1,
-            "quantity": 1,
-            "dollars": 34.57
+            "transactions": 12,
+            "quantity": 12,
+            "dollars": 423.09
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 2,
+            "quantity": 2,
+            "dollars": 72.41
           }
         ]
       },
       "kalshi_volume": 0.0,
       "sales_volume": {
-        "level": "low",
+        "level": "moderate",
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:26.176228+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:49.043842+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.45,
-          "transactions": 0.45,
-          "dollars": 15.51,
-          "units_per_week": 3.4
+          "quantity": 12.07,
+          "transactions": 12.07,
+          "dollars": 427.46,
+          "units_per_week": 9.4
         },
         "kalshi_volume": 0
       }
@@ -6182,7 +6182,7 @@
           "strike": 103.56,
           "yes_price": 0.14,
           "no_price": 1.0,
-          "volume": 18.0,
+          "volume": 31.46,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -6194,23 +6194,17 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          40.17
+          35.08
         ],
-        "price_gap": "61%",
+        "price_gap": "66%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:28.087189+00:00",
+        "fetched_at": "2026-11-12T02:03:51.134859+00:00",
         "variant": "Holofoil",
-        "total_transactions": 36,
-        "total_quantity": 41,
+        "total_transactions": 539,
+        "total_quantity": 580,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -6513,28 +6507,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 9,
-            "quantity": 11,
-            "dollars": 788.37
+            "transactions": 401,
+            "quantity": 435,
+            "dollars": 15496.06
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 111,
+            "quantity": 115,
+            "dollars": 3732.75
           }
         ]
       },
-      "kalshi_volume": 18.0,
+      "kalshi_volume": 31.46,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 532.003,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:28.087189+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:51.134859+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 4.93,
-          "transactions": 4.04,
-          "dollars": 353.62,
-          "units_per_week": 37.7
+          "quantity": 480.05,
+          "transactions": 447.51,
+          "dollars": 16736.83,
+          "units_per_week": 375.0
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 31.46
       }
     },
     "KXPOKEMON-26NOVMEWEXA13": {
@@ -6544,7 +6544,7 @@
           "ticker": "KXPOKEMON-26NOVMEWEXA13-32.69",
           "strike": 32.69,
           "yes_price": 0.29,
-          "no_price": 0.97,
+          "no_price": 1.0,
           "volume": 20.0,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -6563,17 +6563,11 @@
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:29.935700+00:00",
+        "fetched_at": "2026-11-12T02:03:53.247715+00:00",
         "variant": "Holofoil",
-        "total_transactions": 302,
-        "total_quantity": 329,
+        "total_transactions": 308,
+        "total_quantity": 338,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 5,
-            "quantity": 7,
-            "dollars": 65.79
-          },
           {
             "week": "2025-11-17",
             "transactions": 4,
@@ -6876,28 +6870,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 1,
-            "quantity": 2,
-            "dollars": 28.76
+            "transactions": 9,
+            "quantity": 15,
+            "dollars": 150.35
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 3,
+            "quantity": 3,
+            "dollars": 96.63
           }
         ]
       },
       "kalshi_volume": 20.0,
       "sales_volume": {
         "level": "moderate",
-        "ratio": null,
+        "ratio": 11.14,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:29.935700+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:53.247715+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.9,
-          "transactions": 0.45,
-          "dollars": 12.9,
-          "units_per_week": 6.9
+          "quantity": 15.59,
+          "transactions": 10.55,
+          "dollars": 222.8,
+          "units_per_week": 12.2
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 20.0
       }
     },
     "KXPOKEMON-26NOVCHA5D7": {
@@ -6907,7 +6907,7 @@
           "ticker": "KXPOKEMON-26NOVCHA5D7-155.37",
           "strike": 155.37,
           "yes_price": 0.23,
-          "no_price": 1.0,
+          "no_price": 0.98,
           "volume": 71.89,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -6920,23 +6920,17 @@
         "set": "Trading Card Game Classic",
         "variant": "Holofoil",
         "market_prices": [
-          181.84
+          181.32
         ],
         "price_gap": "17%",
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:31.726809+00:00",
+        "fetched_at": "2026-11-12T02:03:55.438289+00:00",
         "variant": "Holofoil",
         "total_transactions": 156,
         "total_quantity": 208,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 1,
-            "quantity": 1,
-            "dollars": 94.23
-          },
           {
             "week": "2025-11-17",
             "transactions": 3,
@@ -7242,25 +7236,31 @@
             "transactions": 0,
             "quantity": 0,
             "dollars": 0.0
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 181.32
           }
         ]
       },
       "kalshi_volume": 71.89,
       "sales_volume": {
         "level": "low",
-        "ratio": 0.0,
+        "ratio": 2.522,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:31.726809+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:55.438289+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 1.0,
+          "transactions": 1.0,
+          "dollars": 181.32,
+          "units_per_week": 0.8
         },
-        "kalshi_volume": 1.0
+        "kalshi_volume": 71.89
       }
     },
     "KXPOKEMON-26NOVMEWEX0AF": {
@@ -7270,7 +7270,7 @@
           "ticker": "KXPOKEMON-26NOVMEWEX0AF-45.54",
           "strike": 45.54,
           "yes_price": 0.19,
-          "no_price": 0.98,
+          "no_price": 1.0,
           "volume": 4.0,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -7283,23 +7283,17 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          62.74
+          61.98
         ],
-        "price_gap": "38%",
+        "price_gap": "36%",
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:34.342644+00:00",
+        "fetched_at": "2026-11-12T02:03:57.279918+00:00",
         "variant": "Holofoil",
-        "total_transactions": 2071,
-        "total_quantity": 2147,
+        "total_transactions": 2470,
+        "total_quantity": 2569,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -7578,52 +7572,58 @@
           },
           {
             "week": "2026-10-05",
-            "transactions": 352,
-            "quantity": 365,
-            "dollars": 31639.25
+            "transactions": 351,
+            "quantity": 364,
+            "dollars": 31553.48
           },
           {
             "week": "2026-10-12",
-            "transactions": 294,
-            "quantity": 311,
-            "dollars": 28931.24
+            "transactions": 292,
+            "quantity": 309,
+            "dollars": 28744.46
           },
           {
             "week": "2026-10-19",
-            "transactions": 216,
-            "quantity": 225,
-            "dollars": 19142.94
+            "transactions": 214,
+            "quantity": 223,
+            "dollars": 18973.12
           },
           {
             "week": "2026-10-26",
-            "transactions": 271,
-            "quantity": 283,
-            "dollars": 18205.76
+            "transactions": 269,
+            "quantity": 281,
+            "dollars": 18078.52
           },
           {
             "week": "2026-11-02",
-            "transactions": 80,
-            "quantity": 82,
-            "dollars": 5345.94
+            "transactions": 340,
+            "quantity": 360,
+            "dollars": 22078.72
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 146,
+            "quantity": 151,
+            "dollars": 8710.73
           }
         ]
       },
       "kalshi_volume": 4.0,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 6809.722,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:34.342644+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:57.279918+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 36.78,
-          "transactions": 35.88,
-          "dollars": 2397.97,
-          "units_per_week": 281.2
+          "quantity": 453.11,
+          "transactions": 431.32,
+          "dollars": 27238.89,
+          "units_per_week": 354.0
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 4.0
       }
     },
     "KXPOKEMON-26NOVMEW514": {
@@ -7652,17 +7652,11 @@
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:36.371710+00:00",
+        "fetched_at": "2026-11-12T02:03:59.091012+00:00",
         "variant": "Holofoil",
-        "total_transactions": 8,
-        "total_quantity": 8,
+        "total_transactions": 10,
+        "total_quantity": 10,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -7965,28 +7959,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3164.4
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3456.93
           }
         ]
       },
       "kalshi_volume": 0.16,
       "sales_volume": {
         "level": "low",
-        "ratio": null,
+        "ratio": 38202.812,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:36.371710+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:59.091012+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 1.84,
+          "transactions": 1.84,
+          "dollars": 6112.45,
+          "units_per_week": 1.4
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 0.16
       }
     },
     "KXPOKEMON-26NOVMEW8FE": {
@@ -8015,17 +8015,11 @@
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:36.371710+00:00",
+        "fetched_at": "2026-11-12T02:03:59.091012+00:00",
         "variant": "Holofoil",
-        "total_transactions": 8,
-        "total_quantity": 8,
+        "total_transactions": 10,
+        "total_quantity": 10,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -8328,9 +8322,15 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3164.4
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3456.93
           }
         ]
       },
@@ -8340,14 +8340,14 @@
         "ratio": null,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:36.371710+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:59.091012+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 1.84,
+          "transactions": 1.84,
+          "dollars": 6112.45,
+          "units_per_week": 1.4
         },
         "kalshi_volume": 0
       }
@@ -8378,17 +8378,11 @@
         "matched_by": "closest price"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:36.371710+00:00",
+        "fetched_at": "2026-11-12T02:03:59.091012+00:00",
         "variant": "Holofoil",
-        "total_transactions": 8,
-        "total_quantity": 8,
+        "total_transactions": 10,
+        "total_quantity": 10,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -8691,28 +8685,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3164.4
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 1,
+            "quantity": 1,
+            "dollars": 3456.93
           }
         ]
       },
       "kalshi_volume": 100.0,
       "sales_volume": {
         "level": "low",
-        "ratio": null,
+        "ratio": 61.124,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:36.371710+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:03:59.091012+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 0.0,
-          "transactions": 0.0,
-          "dollars": 0.0,
-          "units_per_week": 0.0
+          "quantity": 1.84,
+          "transactions": 1.84,
+          "dollars": 6112.45,
+          "units_per_week": 1.4
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 100.0
       }
     },
     "KXPOKEMON-26NOV30TCELPO": {
@@ -8721,9 +8721,9 @@
         {
           "ticker": "KXPOKEMON-26NOV30TCELPO-274.94",
           "strike": 274.94,
-          "yes_price": 0.39,
+          "yes_price": 0.4,
           "no_price": 1.0,
-          "volume": 11.04,
+          "volume": 36.97,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -8735,23 +8735,17 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          260.15
+          255.37
         ],
-        "price_gap": "5%",
+        "price_gap": "7%",
         "matched_by": "exact name"
       },
       "sales": {
-        "fetched_at": "2026-11-04T00:59:38.349642+00:00",
+        "fetched_at": "2026-11-12T02:04:00.992274+00:00",
         "variant": "Normal",
-        "total_transactions": 1136,
-        "total_quantity": 1387,
+        "total_transactions": 1200,
+        "total_quantity": 1462,
         "weeks": [
-          {
-            "week": "2025-11-10",
-            "transactions": 0,
-            "quantity": 0,
-            "dollars": 0.0
-          },
           {
             "week": "2025-11-17",
             "transactions": 0,
@@ -9042,9 +9036,9 @@
           },
           {
             "week": "2026-10-19",
-            "transactions": 63,
-            "quantity": 71,
-            "dollars": 20819.33
+            "transactions": 62,
+            "quantity": 70,
+            "dollars": 20526.1
           },
           {
             "week": "2026-10-26",
@@ -9054,28 +9048,34 @@
           },
           {
             "week": "2026-11-02",
-            "transactions": 9,
-            "quantity": 14,
-            "dollars": 3815.42
+            "transactions": 49,
+            "quantity": 58,
+            "dollars": 15463.96
+          },
+          {
+            "week": "2026-11-09",
+            "transactions": 25,
+            "quantity": 32,
+            "dollars": 8171.52
           }
         ]
       },
-      "kalshi_volume": 11.04,
+      "kalshi_volume": 36.97,
       "sales_volume": {
         "level": "high",
-        "ratio": null,
+        "ratio": 572.049,
         "period": {
           "start": "2026-11-03T03:01:00+00:00",
-          "end": "2026-11-04T00:59:38.349642+00:00",
-          "days": 0.9
+          "end": "2026-11-12T02:04:00.992274+00:00",
+          "days": 9.0
         },
         "tcgplayer": {
-          "quantity": 6.28,
-          "transactions": 4.04,
-          "dollars": 1711.49,
-          "units_per_week": 48.0
+          "quantity": 80.67,
+          "transactions": 66.12,
+          "dollars": 21148.67,
+          "units_per_week": 63.0
         },
-        "kalshi_volume": 0
+        "kalshi_volume": 36.97
       }
     }
   }

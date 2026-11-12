@@ -2,7 +2,7 @@
   "product": "Celebrations Ultra Premium Collection",
   "product_id": 245140,
   "tcgplayer_url": "https://www.tcgplayer.com/product/245140",
-  "fetched_at": "2026-11-04T00:58:50.803057+00:00",
+  "fetched_at": "2026-11-12T02:03:20.620404+00:00",
   "skus": [
     {
       "skuId": "5135993",
@@ -11,10 +11,20 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "213",
-      "totalTransactionCount": "205",
+      "totalQuantitySold": "208",
+      "totalTransactionCount": "201",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "1189.99",
+          "quantitySold": "2",
+          "lowSalePrice": "1040",
+          "lowSalePriceWithShipping": "1051.99",
+          "highSalePrice": "1061.99",
+          "highSalePriceWithShipping": "1061.99",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-11-09"
+        },
         {
           "marketPrice": "1206.87",
           "quantitySold": "0",
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "897.99",
           "transactionCount": "1",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "902.9",
-          "quantitySold": "3",
-          "lowSalePrice": "870",
-          "lowSalePriceWithShipping": "884.99",
-          "highSalePrice": "888.99",
-          "highSalePriceWithShipping": "888.99",
-          "transactionCount": "3",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     }

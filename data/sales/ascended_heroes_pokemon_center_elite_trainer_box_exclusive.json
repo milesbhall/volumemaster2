@@ -2,7 +2,7 @@
   "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
   "product_id": 668497,
   "tcgplayer_url": "https://www.tcgplayer.com/product/668497",
-  "fetched_at": "2026-11-04T00:58:47.740715+00:00",
+  "fetched_at": "2026-11-12T02:03:17.237164+00:00",
   "skus": [
     {
       "skuId": "9051456",
@@ -11,18 +11,28 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "5",
       "averageDailyTransactionCount": "4",
-      "totalQuantitySold": "2039",
-      "totalTransactionCount": "1677",
+      "totalQuantitySold": "2054",
+      "totalTransactionCount": "1691",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "325.5",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
+          "marketPrice": "313.59",
+          "quantitySold": "7",
+          "lowSalePrice": "250",
+          "lowSalePriceWithShipping": "264.99",
+          "highSalePrice": "309",
+          "highSalePriceWithShipping": "309",
+          "transactionCount": "7",
+          "bucketStartDate": "2026-11-09"
+        },
+        {
+          "marketPrice": "322.38",
+          "quantitySold": "8",
+          "lowSalePrice": "305",
+          "lowSalePriceWithShipping": "309.99",
+          "highSalePrice": "319",
+          "highSalePriceWithShipping": "319",
+          "transactionCount": "7",
           "bucketStartDate": "2026-11-02"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     }

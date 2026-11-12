@@ -2,27 +2,37 @@
   "product": "Mega Charizard X ex Ultra Premium Collection",
   "product_id": 654213,
   "tcgplayer_url": "https://www.tcgplayer.com/product/654213",
-  "fetched_at": "2026-11-04T00:58:44.401129+00:00",
+  "fetched_at": "2026-11-12T02:03:13.968374+00:00",
   "skus": [
     {
       "skuId": "8935879",
       "variant": "Normal",
       "language": "English",
       "condition": "Unopened",
-      "averageDailyQuantitySold": "33",
-      "averageDailyTransactionCount": "26",
-      "totalQuantitySold": "12391",
-      "totalTransactionCount": "9853",
+      "averageDailyQuantitySold": "32",
+      "averageDailyTransactionCount": "25",
+      "totalQuantitySold": "12073",
+      "totalTransactionCount": "9612",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "220.39",
-          "quantitySold": "7",
-          "lowSalePrice": "211.97",
-          "lowSalePriceWithShipping": "221.96",
-          "highSalePrice": "221.98",
-          "highSalePriceWithShipping": "221.98",
-          "transactionCount": "7",
+          "marketPrice": "212.4",
+          "quantitySold": "9",
+          "lowSalePrice": "205",
+          "lowSalePriceWithShipping": "205",
+          "highSalePrice": "219.99",
+          "highSalePriceWithShipping": "221.99",
+          "transactionCount": "9",
+          "bucketStartDate": "2026-11-09"
+        },
+        {
+          "marketPrice": "211.02",
+          "quantitySold": "38",
+          "lowSalePrice": "190",
+          "lowSalePriceWithShipping": "205",
+          "highSalePrice": "225",
+          "highSalePriceWithShipping": "228.31",
+          "transactionCount": "37",
           "bucketStartDate": "2026-11-02"
         },
         {
@@ -37,12 +47,12 @@
         },
         {
           "marketPrice": "224.01",
-          "quantitySold": "41",
+          "quantitySold": "40",
           "lowSalePrice": "214.99",
           "lowSalePriceWithShipping": "220",
           "highSalePrice": "229.98",
           "highSalePriceWithShipping": "234.5",
-          "transactionCount": "38",
+          "transactionCount": "37",
           "bucketStartDate": "2026-10-19"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "235.95",
           "transactionCount": "1126",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "208.03",
-          "quantitySold": "1485",
-          "lowSalePrice": "195.99",
-          "lowSalePriceWithShipping": "207.99",
-          "highSalePrice": "249.99",
-          "highSalePriceWithShipping": "278.99",
-          "transactionCount": "1244",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     }

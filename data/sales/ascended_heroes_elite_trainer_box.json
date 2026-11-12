@@ -2,27 +2,37 @@
   "product": "Ascended Heroes Elite Trainer Box",
   "product_id": 668496,
   "tcgplayer_url": "https://www.tcgplayer.com/product/668496",
-  "fetched_at": "2026-11-04T00:59:10.498403+00:00",
+  "fetched_at": "2026-11-12T02:03:37.781120+00:00",
   "skus": [
     {
       "skuId": "9051455",
       "variant": "Normal",
       "language": "English",
       "condition": "Unopened",
-      "averageDailyQuantitySold": "55",
+      "averageDailyQuantitySold": "56",
       "averageDailyTransactionCount": "36",
-      "totalQuantitySold": "20692",
-      "totalTransactionCount": "13424",
+      "totalQuantitySold": "20917",
+      "totalTransactionCount": "13598",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "123.13",
-          "quantitySold": "37",
-          "lowSalePrice": "109.01",
+          "marketPrice": "125.84",
+          "quantitySold": "80",
+          "lowSalePrice": "110",
+          "lowSalePriceWithShipping": "124.98",
+          "highSalePrice": "135",
+          "highSalePriceWithShipping": "136",
+          "transactionCount": "63",
+          "bucketStartDate": "2026-11-09"
+        },
+        {
+          "marketPrice": "123.47",
+          "quantitySold": "184",
+          "lowSalePrice": "99.99",
           "lowSalePriceWithShipping": "117",
-          "highSalePrice": "124.99",
-          "highSalePriceWithShipping": "124.99",
-          "transactionCount": "31",
+          "highSalePrice": "159.99",
+          "highSalePriceWithShipping": "184.98",
+          "transactionCount": "143",
           "bucketStartDate": "2026-11-02"
         },
         {
@@ -37,12 +47,12 @@
         },
         {
           "marketPrice": "120.47",
-          "quantitySold": "251",
+          "quantitySold": "249",
           "lowSalePrice": "108",
           "lowSalePriceWithShipping": "119.99",
           "highSalePrice": "179.99",
           "highSalePriceWithShipping": "192.98",
-          "transactionCount": "199",
+          "transactionCount": "198",
           "bucketStartDate": "2026-10-19"
         },
         {
@@ -524,16 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-11-17"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-10"
         }
       ]
     }
