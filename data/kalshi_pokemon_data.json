@@ -22,8 +22,8 @@
     "volume": 95.77,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.24,
-    "no_price": 0.98
+    "yes_price": 0.25,
+    "no_price": 1.0
   },
   {
     "ticker": "KXPOKEMON-26NOVMEGCHAXEC41-219.53",
@@ -87,8 +87,8 @@
     "volume": 4.35,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.89,
-    "no_price": 0.73
+    "yes_price": 0.92,
+    "no_price": 0.79
   },
   {
     "ticker": "KXPOKEMON-26NOVCHAEX-300.78",
@@ -113,7 +113,7 @@
     "volume": 121.66,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.38,
+    "yes_price": 0.25,
     "no_price": 1.0
   },
   {
@@ -136,11 +136,11 @@
     "strike": 124.75,
     "title": "Will Ungraded Price of the Ascended Heroes Elite Trainer Box on Collectr be above $124.75 on Nov 30, 2026?",
     "status": "active",
-    "volume": 7.91,
+    "volume": 74.91,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.71,
-    "no_price": 0.78
+    "yes_price": 0.59,
+    "no_price": 0.79
   },
   {
     "ticker": "KXPOKEMON-26NOVPERORDBO-173.16",
@@ -243,7 +243,7 @@
     "volume": 20.0,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
-    "yes_price": 0.29,
+    "yes_price": 0.25,
     "no_price": 1.0
   },
   {
@@ -253,7 +253,7 @@
     "strike": 155.37,
     "title": "Will Ungraded Price of the Charizard on Collectr be above $155.37 on Nov 30, 2026?",
     "status": "active",
-    "volume": 71.89,
+    "volume": 81.04,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
     "yes_price": 0.23,
@@ -318,7 +318,7 @@
     "strike": 274.94,
     "title": "Will Ungraded Price of the 30th Celebration Pokemon Center Elite Trainer Box on Collectr be above $274.94 on Nov 30, 2026?",
     "status": "active",
-    "volume": 36.97,
+    "volume": 39.36,
     "open_time": "2026-11-03T03:01:00Z",
     "close_time": "2026-12-01T04:59:00Z",
     "yes_price": 0.4,
