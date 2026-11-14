@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:34:23.276803+00:00",
+  "generated_at": "2026-11-14T01:07:05.471183+00:00",
   "events": {
     "KXPOKEMON-26NOVPIKEX": {
       "product": "Pikachu ex",
@@ -21,7 +21,7 @@
         "set": "SV02: Paldea Evolved",
         "variant": "Holofoil",
         "market_prices": [
-          4.06
+          3.95
         ],
         "price_gap": "99%",
         "matched_by": "exact name"
@@ -384,7 +384,7 @@
         "set": "ME02: Phantasmal Flames",
         "variant": "Holofoil",
         "market_prices": [
-          1.63
+          1.69
         ],
         "price_gap": "100%",
         "matched_by": "exact name"
@@ -747,7 +747,7 @@
         "set": "Miscellaneous Cards & Products",
         "variant": "Normal",
         "market_prices": [
-          212.16
+          212.28
         ],
         "price_gap": "3%",
         "matched_by": "exact name"
@@ -1110,7 +1110,7 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          310.51
+          309.19
         ],
         "price_gap": "5%",
         "matched_by": "exact name"
@@ -1836,7 +1836,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          321.31
+          321.07
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -2199,7 +2199,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          843.5
+          842.82
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -2562,7 +2562,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Holofoil",
         "market_prices": [
-          291.94
+          291.39
         ],
         "price_gap": "3%",
         "matched_by": "closest price"
@@ -2925,9 +2925,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          21.35
+          20.68
         ],
-        "price_gap": "17%",
+        "price_gap": "19%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -3288,9 +3288,9 @@
         "set": "First Partner Collection 2026",
         "variant": "Normal",
         "market_prices": [
-          53.31
+          52.44
         ],
-        "price_gap": "9%",
+        "price_gap": "10%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -3637,9 +3637,9 @@
         {
           "ticker": "KXPOKEMON-26NOVASCHEREL-124.75",
           "strike": 124.75,
-          "yes_price": 0.59,
-          "no_price": 0.79,
-          "volume": 74.91,
+          "yes_price": 0.69,
+          "no_price": 0.8,
+          "volume": 77.39,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -3651,9 +3651,9 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          124.79
+          125.53
         ],
-        "price_gap": "0%",
+        "price_gap": "1%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -3976,7 +3976,7 @@
           }
         ]
       },
-      "kalshi_volume": 74.91,
+      "kalshi_volume": 77.39,
       "sales_volume": {
         "level": "high",
         "ratio": 3682.963,
@@ -4014,7 +4014,7 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          171.85
+          172.02
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -4365,7 +4365,7 @@
           "strike": 121.35,
           "yes_price": 0.49,
           "no_price": 1.0,
-          "volume": 18.94,
+          "volume": 23.86,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -4377,9 +4377,9 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          112.85
+          110.5
         ],
-        "price_gap": "7%",
+        "price_gap": "9%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -4702,7 +4702,7 @@
           }
         ]
       },
-      "kalshi_volume": 18.94,
+      "kalshi_volume": 23.86,
       "sales_volume": {
         "level": "moderate",
         "ratio": 110.028,
@@ -4740,9 +4740,9 @@
         "set": "Miscellaneous Cards & Products",
         "variant": "Holofoil",
         "market_prices": [
-          169.66
+          171.26
         ],
-        "price_gap": "1%",
+        "price_gap": "0%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -6194,9 +6194,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          29.59
+          27.15
         ],
-        "price_gap": "71%",
+        "price_gap": "74%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -6920,9 +6920,9 @@
         "set": "Trading Card Game Classic",
         "variant": "Holofoil",
         "market_prices": [
-          181.32
+          180.84
         ],
-        "price_gap": "17%",
+        "price_gap": "16%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -7283,9 +7283,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          59.78
+          54.42
         ],
-        "price_gap": "31%",
+        "price_gap": "19%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -8723,7 +8723,7 @@
           "strike": 274.94,
           "yes_price": 0.4,
           "no_price": 1.0,
-          "volume": 39.36,
+          "volume": 51.34,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -8735,9 +8735,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          254.93
+          254.13
         ],
-        "price_gap": "7%",
+        "price_gap": "8%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -9060,7 +9060,7 @@
           }
         ]
       },
-      "kalshi_volume": 39.36,
+      "kalshi_volume": 51.34,
       "sales_volume": {
         "level": "high",
         "ratio": 572.049,
