@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:07:05.471183+00:00",
+  "generated_at": "2026-11-15T00:28:56.848567+00:00",
   "events": {
     "KXPOKEMON-26NOVPIKEX": {
       "product": "Pikachu ex",
@@ -21,7 +21,7 @@
         "set": "SV02: Paldea Evolved",
         "variant": "Holofoil",
         "market_prices": [
-          3.95
+          3.89
         ],
         "price_gap": "99%",
         "matched_by": "exact name"
@@ -747,9 +747,9 @@
         "set": "Miscellaneous Cards & Products",
         "variant": "Normal",
         "market_prices": [
-          212.28
+          207.98
         ],
-        "price_gap": "3%",
+        "price_gap": "5%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -1098,7 +1098,7 @@
           "strike": 325.5,
           "yes_price": 0.48,
           "no_price": 1.0,
-          "volume": 47.7,
+          "volume": 55.74,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -1110,9 +1110,9 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          309.19
+          298.97
         ],
-        "price_gap": "5%",
+        "price_gap": "8%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "kalshi_volume": 47.7,
+      "kalshi_volume": 55.74,
       "sales_volume": {
         "level": "moderate",
         "ratio": 91.393,
@@ -1473,9 +1473,9 @@
         "set": "Celebrations",
         "variant": "Normal",
         "market_prices": [
-          1181.11
+          1173.87
         ],
-        "price_gap": "2%",
+        "price_gap": "3%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -1836,7 +1836,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          321.07
+          320.67
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -2199,7 +2199,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Normal",
         "market_prices": [
-          842.82
+          841.91
         ],
         "price_gap": "1%",
         "matched_by": "exact name"
@@ -2562,7 +2562,7 @@
         "set": "SV: Scarlet & Violet 151",
         "variant": "Holofoil",
         "market_prices": [
-          291.39
+          292.22
         ],
         "price_gap": "3%",
         "matched_by": "closest price"
@@ -2925,9 +2925,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          20.68
+          21.48
         ],
-        "price_gap": "19%",
+        "price_gap": "16%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -3288,9 +3288,9 @@
         "set": "First Partner Collection 2026",
         "variant": "Normal",
         "market_prices": [
-          52.44
+          53.04
         ],
-        "price_gap": "10%",
+        "price_gap": "9%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -3637,8 +3637,8 @@
         {
           "ticker": "KXPOKEMON-26NOVASCHEREL-124.75",
           "strike": 124.75,
-          "yes_price": 0.69,
-          "no_price": 0.8,
+          "yes_price": 0.66,
+          "no_price": 0.79,
           "volume": 77.39,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
@@ -3651,9 +3651,9 @@
         "set": "ME: Ascended Heroes",
         "variant": "Normal",
         "market_prices": [
-          125.53
+          125.27
         ],
-        "price_gap": "1%",
+        "price_gap": "0%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -4014,9 +4014,9 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          172.02
+          168.86
         ],
-        "price_gap": "1%",
+        "price_gap": "2%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -4377,9 +4377,9 @@
         "set": "ME03: Perfect Order",
         "variant": "Normal",
         "market_prices": [
-          110.5
+          107.63
         ],
-        "price_gap": "9%",
+        "price_gap": "11%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -6194,9 +6194,9 @@
         "set": "ME: Mega Evolution Promo",
         "variant": "Holofoil",
         "market_prices": [
-          27.15
+          26.31
         ],
-        "price_gap": "74%",
+        "price_gap": "75%",
         "matched_by": "exact name"
       },
       "sales": {
@@ -7283,9 +7283,9 @@
         "set": "ME: 30th Celebration",
         "variant": "Holofoil",
         "market_prices": [
-          54.42
+          54.96
         ],
-        "price_gap": "19%",
+        "price_gap": "21%",
         "matched_by": "closest price"
       },
       "sales": {
@@ -8723,7 +8723,7 @@
           "strike": 274.94,
           "yes_price": 0.4,
           "no_price": 1.0,
-          "volume": 51.34,
+          "volume": 53.72,
           "open_time": "2026-11-03T03:01:00Z",
           "close_time": "2026-12-01T04:59:00Z"
         }
@@ -8735,7 +8735,7 @@
         "set": "ME: 30th Celebration",
         "variant": "Normal",
         "market_prices": [
-          254.13
+          253.93
         ],
         "price_gap": "8%",
         "matched_by": "exact name"
@@ -9060,7 +9060,7 @@
           }
         ]
       },
-      "kalshi_volume": 51.34,
+      "kalshi_volume": 53.72,
       "sales_volume": {
         "level": "high",
         "ratio": 572.049,
