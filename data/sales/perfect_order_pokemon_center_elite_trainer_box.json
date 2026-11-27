@@ -2,27 +2,47 @@
   "product": "Perfect Order Pokemon Center Elite Trainer Box",
   "product_id": 672404,
   "tcgplayer_url": "https://www.tcgplayer.com/product/672404",
-  "fetched_at": "2026-11-12T02:03:41.723806+00:00",
+  "fetched_at": "2026-11-27T03:21:06.202625+00:00",
   "skus": [
     {
       "skuId": "9101966",
       "variant": "Normal",
       "language": "English",
       "condition": "Unopened",
-      "averageDailyQuantitySold": "5",
-      "averageDailyTransactionCount": "4",
-      "totalQuantitySold": "2165",
-      "totalTransactionCount": "1748",
+      "averageDailyQuantitySold": "6",
+      "averageDailyTransactionCount": "5",
+      "totalQuantitySold": "2248",
+      "totalTransactionCount": "1820",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "114.27",
-          "quantitySold": "7",
-          "lowSalePrice": "98.01",
-          "lowSalePriceWithShipping": "105.75",
+          "marketPrice": "98.45",
+          "quantitySold": "16",
+          "lowSalePrice": "84.44",
+          "lowSalePriceWithShipping": "100.43",
+          "highSalePrice": "109.99",
+          "highSalePriceWithShipping": "115.4",
+          "transactionCount": "15",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "100.2",
+          "quantitySold": "39",
+          "lowSalePrice": "89.99",
+          "lowSalePriceWithShipping": "99.98",
+          "highSalePrice": "112.4",
+          "highSalePriceWithShipping": "127.4",
+          "transactionCount": "30",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "103.42",
+          "quantitySold": "35",
+          "lowSalePrice": "91.99",
+          "lowSalePriceWithShipping": "100.95",
           "highSalePrice": "115",
           "highSalePriceWithShipping": "120",
-          "transactionCount": "7",
+          "transactionCount": "34",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

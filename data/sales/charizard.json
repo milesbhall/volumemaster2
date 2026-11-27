@@ -2,7 +2,7 @@
   "product": "Charizard",
   "product_id": 527938,
   "tcgplayer_url": "https://www.tcgplayer.com/product/527938",
-  "fetched_at": "2026-11-12T02:03:55.438289+00:00",
+  "fetched_at": "2026-11-27T03:21:19.126276+00:00",
   "skus": [
     {
       "skuId": "7580530",
@@ -11,10 +11,30 @@
       "condition": "Lightly Played",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "16",
-      "totalTransactionCount": "14",
+      "totalQuantitySold": "15",
+      "totalTransactionCount": "13",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "169.6",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "169.6",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-16"
+        },
         {
           "marketPrice": "169.6",
           "quantitySold": "0",
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "118.95",
           "transactionCount": "2",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "94.23",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "94.23",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     },
@@ -544,18 +544,38 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "193",
-      "totalTransactionCount": "143",
+      "totalQuantitySold": "185",
+      "totalTransactionCount": "136",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "181.32",
+          "marketPrice": "177.76",
+          "quantitySold": "2",
+          "lowSalePrice": "169.99",
+          "lowSalePriceWithShipping": "169.99",
+          "highSalePrice": "169.99",
+          "highSalePriceWithShipping": "170.98",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "178.88",
           "quantitySold": "1",
+          "lowSalePrice": "170",
+          "lowSalePriceWithShipping": "170",
+          "highSalePrice": "170",
+          "highSalePriceWithShipping": "170",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "180.08",
+          "quantitySold": "3",
           "lowSalePrice": "172",
           "lowSalePriceWithShipping": "172.99",
-          "highSalePrice": "172",
-          "highSalePriceWithShipping": "172.99",
-          "transactionCount": "1",
+          "highSalePrice": "180.82",
+          "highSalePriceWithShipping": "180.82",
+          "transactionCount": "3",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -1047,26 +1067,6 @@
           "highSalePriceWithShipping": "110.99",
           "transactionCount": "1",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "110.79",
-          "quantitySold": "10",
-          "lowSalePrice": "92.7",
-          "lowSalePriceWithShipping": "92.7",
-          "highSalePrice": "120",
-          "highSalePriceWithShipping": "120.99",
-          "transactionCount": "9",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "112.59",
-          "quantitySold": "3",
-          "lowSalePrice": "110",
-          "lowSalePriceWithShipping": "110",
-          "highSalePrice": "112",
-          "highSalePriceWithShipping": "113.49",
-          "transactionCount": "3",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     },
@@ -1081,6 +1081,26 @@
       "totalTransactionCount": "0",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "35",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "35",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-16"
+        },
         {
           "marketPrice": "35",
           "quantitySold": "0",
@@ -1580,26 +1600,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "57.5",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "57.5",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

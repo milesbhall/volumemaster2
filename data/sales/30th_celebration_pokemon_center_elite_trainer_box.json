@@ -2,27 +2,47 @@
   "product": "30th Celebration Pokemon Center Elite Trainer Box",
   "product_id": 704144,
   "tcgplayer_url": "https://www.tcgplayer.com/product/704144",
-  "fetched_at": "2026-11-12T02:04:00.992274+00:00",
+  "fetched_at": "2026-11-27T03:21:25.428740+00:00",
   "skus": [
     {
       "skuId": "9393901",
       "variant": "Normal",
       "language": "English",
       "condition": "Unopened",
-      "averageDailyQuantitySold": "3",
+      "averageDailyQuantitySold": "4",
       "averageDailyTransactionCount": "3",
-      "totalQuantitySold": "1462",
-      "totalTransactionCount": "1200",
+      "totalQuantitySold": "1596",
+      "totalTransactionCount": "1309",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "255.36",
-          "quantitySold": "32",
-          "lowSalePrice": "219.99",
+          "marketPrice": "248.65",
+          "quantitySold": "39",
+          "lowSalePrice": "233.27",
+          "lowSalePriceWithShipping": "233.27",
+          "highSalePrice": "254.99",
+          "highSalePriceWithShipping": "254.99",
+          "transactionCount": "28",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "202.84",
+          "quantitySold": "54",
+          "lowSalePrice": "225",
+          "lowSalePriceWithShipping": "237.5",
+          "highSalePrice": "269.94",
+          "highSalePriceWithShipping": "269.94",
+          "transactionCount": "50",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "256.74",
+          "quantitySold": "76",
+          "lowSalePrice": "224.96",
           "lowSalePriceWithShipping": "224.96",
           "highSalePrice": "274.99",
           "highSalePriceWithShipping": "274.99",
-          "transactionCount": "25",
+          "transactionCount": "59",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -37,22 +57,22 @@
         },
         {
           "marketPrice": "274.58",
-          "quantitySold": "60",
+          "quantitySold": "58",
           "lowSalePrice": "257.9",
           "lowSalePriceWithShipping": "270.99",
           "highSalePrice": "298.98",
           "highSalePriceWithShipping": "311.97",
-          "transactionCount": "49",
+          "transactionCount": "47",
           "bucketStartDate": "2026-10-26"
         },
         {
           "marketPrice": "293.23",
-          "quantitySold": "70",
+          "quantitySold": "69",
           "lowSalePrice": "275",
           "lowSalePriceWithShipping": "285",
           "highSalePrice": "309.25",
           "highSalePriceWithShipping": "320.11",
-          "transactionCount": "62",
+          "transactionCount": "61",
           "bucketStartDate": "2026-10-19"
         },
         {
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

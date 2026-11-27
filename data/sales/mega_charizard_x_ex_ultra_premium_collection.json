@@ -2,27 +2,47 @@
   "product": "Mega Charizard X ex Ultra Premium Collection",
   "product_id": 654213,
   "tcgplayer_url": "https://www.tcgplayer.com/product/654213",
-  "fetched_at": "2026-11-12T02:03:13.968374+00:00",
+  "fetched_at": "2026-11-27T03:20:42.921146+00:00",
   "skus": [
     {
       "skuId": "8935879",
       "variant": "Normal",
       "language": "English",
       "condition": "Unopened",
-      "averageDailyQuantitySold": "32",
-      "averageDailyTransactionCount": "25",
-      "totalQuantitySold": "12073",
-      "totalTransactionCount": "9612",
+      "averageDailyQuantitySold": "22",
+      "averageDailyTransactionCount": "17",
+      "totalQuantitySold": "8188",
+      "totalTransactionCount": "6523",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "212.4",
-          "quantitySold": "9",
-          "lowSalePrice": "205",
+          "marketPrice": "206.15",
+          "quantitySold": "34",
+          "lowSalePrice": "199",
+          "lowSalePriceWithShipping": "205.99",
+          "highSalePrice": "219.99",
+          "highSalePriceWithShipping": "219.99",
+          "transactionCount": "31",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "207.35",
+          "quantitySold": "77",
+          "lowSalePrice": "190",
+          "lowSalePriceWithShipping": "202.99",
+          "highSalePrice": "220",
+          "highSalePriceWithShipping": "238.99",
+          "transactionCount": "74",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "206.96",
+          "quantitySold": "37",
+          "lowSalePrice": "192.5",
           "lowSalePriceWithShipping": "205",
           "highSalePrice": "219.99",
           "highSalePriceWithShipping": "221.99",
-          "transactionCount": "9",
+          "transactionCount": "37",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -37,12 +57,12 @@
         },
         {
           "marketPrice": "219.53",
-          "quantitySold": "39",
+          "quantitySold": "38",
           "lowSalePrice": "200",
           "lowSalePriceWithShipping": "208.99",
           "highSalePrice": "224.47",
           "highSalePriceWithShipping": "228.31",
-          "transactionCount": "36",
+          "transactionCount": "35",
           "bucketStartDate": "2026-10-26"
         },
         {
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "249.44",
           "transactionCount": "501",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "183.76",
-          "quantitySold": "1109",
-          "lowSalePrice": "155",
-          "lowSalePriceWithShipping": "166.97",
-          "highSalePrice": "219.99",
-          "highSalePriceWithShipping": "234.98",
-          "transactionCount": "851",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "178.22",
-          "quantitySold": "1429",
-          "lowSalePrice": "114.99",
-          "lowSalePriceWithShipping": "116.99",
-          "highSalePrice": "219",
-          "highSalePriceWithShipping": "235.95",
-          "transactionCount": "1126",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

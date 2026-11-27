@@ -2,7 +2,7 @@
   "product": "Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
   "product_id": 668497,
   "tcgplayer_url": "https://www.tcgplayer.com/product/668497",
-  "fetched_at": "2026-11-12T02:03:17.237164+00:00",
+  "fetched_at": "2026-11-27T03:20:46.518926+00:00",
   "skus": [
     {
       "skuId": "9051456",
@@ -11,18 +11,38 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "5",
       "averageDailyTransactionCount": "4",
-      "totalQuantitySold": "2054",
-      "totalTransactionCount": "1691",
+      "totalQuantitySold": "2105",
+      "totalTransactionCount": "1736",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "313.59",
-          "quantitySold": "7",
+          "marketPrice": "285.78",
+          "quantitySold": "13",
+          "lowSalePrice": "260",
+          "lowSalePriceWithShipping": "275.99",
+          "highSalePrice": "294.99",
+          "highSalePriceWithShipping": "294.99",
+          "transactionCount": "12",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "285.77",
+          "quantitySold": "23",
+          "lowSalePrice": "275.01",
+          "lowSalePriceWithShipping": "282.62",
+          "highSalePrice": "313.3",
+          "highSalePriceWithShipping": "313.3",
+          "transactionCount": "19",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "286.85",
+          "quantitySold": "23",
           "lowSalePrice": "250",
           "lowSalePriceWithShipping": "264.99",
           "highSalePrice": "309",
           "highSalePriceWithShipping": "309",
-          "transactionCount": "7",
+          "transactionCount": "22",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -37,12 +57,12 @@
         },
         {
           "marketPrice": "325.5",
-          "quantitySold": "17",
+          "quantitySold": "16",
           "lowSalePrice": "309",
           "lowSalePriceWithShipping": "322.67",
-          "highSalePrice": "331.25",
+          "highSalePrice": "331.24",
           "highSalePriceWithShipping": "331.25",
-          "transactionCount": "17",
+          "transactionCount": "16",
           "bucketStartDate": "2026-10-26"
         },
         {
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

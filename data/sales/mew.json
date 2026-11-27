@@ -2,7 +2,7 @@
   "product": "Mew",
   "product_id": 717608,
   "tcgplayer_url": "https://www.tcgplayer.com/product/717608",
-  "fetched_at": "2026-11-12T02:03:59.091012+00:00",
+  "fetched_at": "2026-11-27T03:21:23.421809+00:00",
   "skus": [
     {
       "skuId": "9508994",
@@ -11,10 +11,30 @@
       "condition": "Near Mint",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "9",
-      "totalTransactionCount": "9",
+      "totalQuantitySold": "11",
+      "totalTransactionCount": "11",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "3127.49",
+          "quantitySold": "1",
+          "lowSalePrice": "490",
+          "lowSalePriceWithShipping": "494.99",
+          "highSalePrice": "490",
+          "highSalePriceWithShipping": "494.99",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "3391.24",
+          "quantitySold": "1",
+          "lowSalePrice": "2800",
+          "lowSalePriceWithShipping": "2800.99",
+          "highSalePrice": "2800",
+          "highSalePriceWithShipping": "2800.99",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-11-16"
+        },
         {
           "marketPrice": "3456.93",
           "quantitySold": "1",
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     },
@@ -548,6 +548,26 @@
       "totalTransactionCount": "1",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "3499.99",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "3499.99",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-16"
+        },
         {
           "marketPrice": "3499.99",
           "quantitySold": "0",
@@ -1047,26 +1067,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

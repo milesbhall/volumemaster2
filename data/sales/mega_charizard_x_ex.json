@@ -2,67 +2,87 @@
   "product": "Mega Charizard X ex",
   "product_id": 659612,
   "tcgplayer_url": "https://www.tcgplayer.com/product/659612",
-  "fetched_at": "2026-11-12T02:03:33.604733+00:00",
+  "fetched_at": "2026-11-27T03:20:59.421568+00:00",
   "skus": [
     {
       "skuId": "8969162",
       "variant": "Holofoil",
       "language": "English",
       "condition": "Near Mint",
-      "averageDailyQuantitySold": "52",
-      "averageDailyTransactionCount": "31",
-      "totalQuantitySold": "19375",
-      "totalTransactionCount": "11638",
+      "averageDailyQuantitySold": "51",
+      "averageDailyTransactionCount": "30",
+      "totalQuantitySold": "18863",
+      "totalTransactionCount": "11126",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "21.34",
-          "quantitySold": "112",
+          "marketPrice": "21.56",
+          "quantitySold": "150",
+          "lowSalePrice": "17.99",
+          "lowSalePriceWithShipping": "18.98",
+          "highSalePrice": "29.87",
+          "highSalePriceWithShipping": "29.87",
+          "transactionCount": "101",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "20.75",
+          "quantitySold": "466",
+          "lowSalePrice": "16.5",
+          "lowSalePriceWithShipping": "17.49",
+          "highSalePrice": "25.29",
+          "highSalePriceWithShipping": "39.7",
+          "transactionCount": "147",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "21.33",
+          "quantitySold": "283",
           "lowSalePrice": "17.77",
-          "lowSalePriceWithShipping": "19.69",
+          "lowSalePriceWithShipping": "18.95",
           "highSalePrice": "32.18",
-          "highSalePriceWithShipping": "32.18",
-          "transactionCount": "69",
+          "highSalePriceWithShipping": "34.98",
+          "transactionCount": "147",
           "bucketStartDate": "2026-11-09"
         },
         {
           "marketPrice": "22.03",
-          "quantitySold": "822",
+          "quantitySold": "817",
           "lowSalePrice": "17.74",
           "lowSalePriceWithShipping": "19.23",
           "highSalePrice": "29.99",
           "highSalePriceWithShipping": "34.48",
-          "transactionCount": "167",
+          "transactionCount": "162",
           "bucketStartDate": "2026-11-02"
         },
         {
           "marketPrice": "25.34",
-          "quantitySold": "213",
+          "quantitySold": "207",
           "lowSalePrice": "19.99",
           "lowSalePriceWithShipping": "21.48",
           "highSalePrice": "37.18",
           "highSalePriceWithShipping": "52.13",
-          "transactionCount": "169",
+          "transactionCount": "163",
           "bucketStartDate": "2026-10-26"
         },
         {
           "marketPrice": "25.29",
-          "quantitySold": "192",
+          "quantitySold": "191",
           "lowSalePrice": "22",
           "lowSalePriceWithShipping": "22",
           "highSalePrice": "30.91",
           "highSalePriceWithShipping": "35.55",
-          "transactionCount": "145",
+          "transactionCount": "144",
           "bucketStartDate": "2026-10-19"
         },
         {
           "marketPrice": "25.36",
-          "quantitySold": "590",
+          "quantitySold": "588",
           "lowSalePrice": "19.58",
           "lowSalePriceWithShipping": "20.57",
           "highSalePrice": "31.73",
           "highSalePriceWithShipping": "44.63",
-          "transactionCount": "197",
+          "transactionCount": "195",
           "bucketStartDate": "2026-10-12"
         },
         {
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "67.99",
           "transactionCount": "245",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "62.07",
-          "quantitySold": "459",
-          "lowSalePrice": "51",
-          "lowSalePriceWithShipping": "55",
-          "highSalePrice": "77.97",
-          "highSalePriceWithShipping": "83.48",
-          "transactionCount": "286",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "65.87",
-          "quantitySold": "488",
-          "lowSalePrice": "50.9",
-          "lowSalePriceWithShipping": "52.2",
-          "highSalePrice": "89.99",
-          "highSalePriceWithShipping": "92.48",
-          "transactionCount": "322",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     },
@@ -544,18 +544,38 @@
       "condition": "Lightly Played",
       "averageDailyQuantitySold": "3",
       "averageDailyTransactionCount": "2",
-      "totalQuantitySold": "1219",
+      "totalQuantitySold": "1221",
       "totalTransactionCount": "915",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "21.43",
-          "quantitySold": "7",
-          "lowSalePrice": "20.36",
-          "lowSalePriceWithShipping": "20.36",
-          "highSalePrice": "20.88",
+          "marketPrice": "21.08",
+          "quantitySold": "17",
+          "lowSalePrice": "18.5",
+          "lowSalePriceWithShipping": "20.5",
+          "highSalePrice": "22.69",
+          "highSalePriceWithShipping": "22.69",
+          "transactionCount": "14",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "20.23",
+          "quantitySold": "18",
+          "lowSalePrice": "18.5",
+          "lowSalePriceWithShipping": "18.95",
+          "highSalePrice": "22.4",
+          "highSalePriceWithShipping": "22.4",
+          "transactionCount": "14",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "20.97",
+          "quantitySold": "13",
+          "lowSalePrice": "18.94",
+          "lowSalePriceWithShipping": "18.94",
+          "highSalePrice": "21.54",
           "highSalePriceWithShipping": "22.87",
-          "transactionCount": "7",
+          "transactionCount": "13",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -1047,559 +1067,6 @@
           "highSalePriceWithShipping": "57.99",
           "transactionCount": "16",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "62.27",
-          "quantitySold": "17",
-          "lowSalePrice": "54.95",
-          "lowSalePriceWithShipping": "56.24",
-          "highSalePrice": "66.62",
-          "highSalePriceWithShipping": "66.62",
-          "transactionCount": "13",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "66",
-          "quantitySold": "22",
-          "lowSalePrice": "59.99",
-          "lowSalePriceWithShipping": "61.3",
-          "highSalePrice": "73",
-          "highSalePriceWithShipping": "73.99",
-          "transactionCount": "21",
-          "bucketStartDate": "2025-11-17"
-        }
-      ]
-    },
-    {
-      "skuId": "8969164",
-      "variant": "Holofoil",
-      "language": "English",
-      "condition": "Moderately Played",
-      "averageDailyQuantitySold": "0",
-      "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "64",
-      "totalTransactionCount": "64",
-      "trendingMarketPricePercentages": {},
-      "buckets": [
-        {
-          "marketPrice": "29.73",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-11-09"
-        },
-        {
-          "marketPrice": "30.14",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-11-02"
-        },
-        {
-          "marketPrice": "30.14",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-10-26"
-        },
-        {
-          "marketPrice": "30.14",
-          "quantitySold": "2",
-          "lowSalePrice": "21",
-          "lowSalePriceWithShipping": "21",
-          "highSalePrice": "22.5",
-          "highSalePriceWithShipping": "22.5",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-10-19"
-        },
-        {
-          "marketPrice": "30.91",
-          "quantitySold": "2",
-          "lowSalePrice": "20.99",
-          "lowSalePriceWithShipping": "20.99",
-          "highSalePrice": "20.99",
-          "highSalePriceWithShipping": "22.48",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-10-12"
-        },
-        {
-          "marketPrice": "32.49",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-10-05"
-        },
-        {
-          "marketPrice": "32.49",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-09-28"
-        },
-        {
-          "marketPrice": "32.49",
-          "quantitySold": "1",
-          "lowSalePrice": "25.59",
-          "lowSalePriceWithShipping": "26.58",
-          "highSalePrice": "25.59",
-          "highSalePriceWithShipping": "26.58",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-09-21"
-        },
-        {
-          "marketPrice": "33.04",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-09-14"
-        },
-        {
-          "marketPrice": "33.04",
-          "quantitySold": "3",
-          "lowSalePrice": "18.69",
-          "lowSalePriceWithShipping": "18.69",
-          "highSalePrice": "29.99",
-          "highSalePriceWithShipping": "29.99",
-          "transactionCount": "3",
-          "bucketStartDate": "2026-09-07"
-        },
-        {
-          "marketPrice": "34.39",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-08-31"
-        },
-        {
-          "marketPrice": "34.39",
-          "quantitySold": "1",
-          "lowSalePrice": "32.98",
-          "lowSalePriceWithShipping": "32.98",
-          "highSalePrice": "32.98",
-          "highSalePriceWithShipping": "32.98",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-08-24"
-        },
-        {
-          "marketPrice": "34.32",
-          "quantitySold": "1",
-          "lowSalePrice": "27.13",
-          "lowSalePriceWithShipping": "27.13",
-          "highSalePrice": "27.13",
-          "highSalePriceWithShipping": "27.13",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-08-17"
-        },
-        {
-          "marketPrice": "34.19",
-          "quantitySold": "2",
-          "lowSalePrice": "30",
-          "lowSalePriceWithShipping": "31.31",
-          "highSalePrice": "32.18",
-          "highSalePriceWithShipping": "32.18",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-08-10"
-        },
-        {
-          "marketPrice": "34.58",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-08-03"
-        },
-        {
-          "marketPrice": "34.66",
-          "quantitySold": "2",
-          "lowSalePrice": "32.99",
-          "lowSalePriceWithShipping": "32.99",
-          "highSalePrice": "32.99",
-          "highSalePriceWithShipping": "34.98",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-07-27"
-        },
-        {
-          "marketPrice": "34.33",
-          "quantitySold": "1",
-          "lowSalePrice": "24.55",
-          "lowSalePriceWithShipping": "26.54",
-          "highSalePrice": "24.55",
-          "highSalePriceWithShipping": "26.54",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-07-20"
-        },
-        {
-          "marketPrice": "34.83",
-          "quantitySold": "1",
-          "lowSalePrice": "34.92",
-          "lowSalePriceWithShipping": "34.92",
-          "highSalePrice": "34.92",
-          "highSalePriceWithShipping": "34.92",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-07-13"
-        },
-        {
-          "marketPrice": "34.92",
-          "quantitySold": "2",
-          "lowSalePrice": "29.99",
-          "lowSalePriceWithShipping": "29.99",
-          "highSalePrice": "29.99",
-          "highSalePriceWithShipping": "30.98",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-07-06"
-        },
-        {
-          "marketPrice": "35.59",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-06-29"
-        },
-        {
-          "marketPrice": "35.59",
-          "quantitySold": "1",
-          "lowSalePrice": "39.99",
-          "lowSalePriceWithShipping": "39.99",
-          "highSalePrice": "39.99",
-          "highSalePriceWithShipping": "39.99",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-06-22"
-        },
-        {
-          "marketPrice": "35.27",
-          "quantitySold": "2",
-          "lowSalePrice": "32",
-          "lowSalePriceWithShipping": "33.49",
-          "highSalePrice": "35",
-          "highSalePriceWithShipping": "36.5",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-06-15"
-        },
-        {
-          "marketPrice": "35.35",
-          "quantitySold": "2",
-          "lowSalePrice": "37.62",
-          "lowSalePriceWithShipping": "37.62",
-          "highSalePrice": "38.99",
-          "highSalePriceWithShipping": "38.99",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-06-08"
-        },
-        {
-          "marketPrice": "34.98",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-06-01"
-        },
-        {
-          "marketPrice": "34.98",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-05-25"
-        },
-        {
-          "marketPrice": "34.98",
-          "quantitySold": "1",
-          "lowSalePrice": "35.88",
-          "lowSalePriceWithShipping": "35.88",
-          "highSalePrice": "35.88",
-          "highSalePriceWithShipping": "35.88",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-05-18"
-        },
-        {
-          "marketPrice": "34.78",
-          "quantitySold": "1",
-          "lowSalePrice": "40",
-          "lowSalePriceWithShipping": "40",
-          "highSalePrice": "40",
-          "highSalePriceWithShipping": "40",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-05-11"
-        },
-        {
-          "marketPrice": "34.39",
-          "quantitySold": "2",
-          "lowSalePrice": "30",
-          "lowSalePriceWithShipping": "31.29",
-          "highSalePrice": "32.85",
-          "highSalePriceWithShipping": "37.84",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-05-04"
-        },
-        {
-          "marketPrice": "34.11",
-          "quantitySold": "1",
-          "lowSalePrice": "41.99",
-          "lowSalePriceWithShipping": "41.99",
-          "highSalePrice": "41.99",
-          "highSalePriceWithShipping": "41.99",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-04-27"
-        },
-        {
-          "marketPrice": "33.96",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-04-20"
-        },
-        {
-          "marketPrice": "33.96",
-          "quantitySold": "3",
-          "lowSalePrice": "36.98",
-          "lowSalePriceWithShipping": "36.98",
-          "highSalePrice": "39.36",
-          "highSalePriceWithShipping": "40.35",
-          "transactionCount": "3",
-          "bucketStartDate": "2026-04-13"
-        },
-        {
-          "marketPrice": "32.31",
-          "quantitySold": "2",
-          "lowSalePrice": "35.99",
-          "lowSalePriceWithShipping": "36.98",
-          "highSalePrice": "35.99",
-          "highSalePriceWithShipping": "36.98",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-04-06"
-        },
-        {
-          "marketPrice": "31.87",
-          "quantitySold": "3",
-          "lowSalePrice": "24",
-          "lowSalePriceWithShipping": "25",
-          "highSalePrice": "36",
-          "highSalePriceWithShipping": "36",
-          "transactionCount": "3",
-          "bucketStartDate": "2026-03-30"
-        },
-        {
-          "marketPrice": "32.83",
-          "quantitySold": "3",
-          "lowSalePrice": "27.95",
-          "lowSalePriceWithShipping": "27.95",
-          "highSalePrice": "32.99",
-          "highSalePriceWithShipping": "34.98",
-          "transactionCount": "3",
-          "bucketStartDate": "2026-03-23"
-        },
-        {
-          "marketPrice": "36.79",
-          "quantitySold": "8",
-          "lowSalePrice": "30",
-          "lowSalePriceWithShipping": "30.99",
-          "highSalePrice": "39.4",
-          "highSalePriceWithShipping": "39.4",
-          "transactionCount": "8",
-          "bucketStartDate": "2026-03-16"
-        },
-        {
-          "marketPrice": "37.53",
-          "quantitySold": "1",
-          "lowSalePrice": "37.53",
-          "lowSalePriceWithShipping": "37.53",
-          "highSalePrice": "37.53",
-          "highSalePriceWithShipping": "37.53",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-03-09"
-        },
-        {
-          "marketPrice": "37.4",
-          "quantitySold": "1",
-          "lowSalePrice": "30.74",
-          "lowSalePriceWithShipping": "30.74",
-          "highSalePrice": "30.74",
-          "highSalePriceWithShipping": "30.74",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-03-02"
-        },
-        {
-          "marketPrice": "37.98",
-          "quantitySold": "1",
-          "lowSalePrice": "30.33",
-          "lowSalePriceWithShipping": "30.33",
-          "highSalePrice": "30.33",
-          "highSalePriceWithShipping": "30.33",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-02-23"
-        },
-        {
-          "marketPrice": "38.53",
-          "quantitySold": "3",
-          "lowSalePrice": "27.94",
-          "lowSalePriceWithShipping": "27.94",
-          "highSalePrice": "38.22",
-          "highSalePriceWithShipping": "38.22",
-          "transactionCount": "3",
-          "bucketStartDate": "2026-02-16"
-        },
-        {
-          "marketPrice": "40.48",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-02-09"
-        },
-        {
-          "marketPrice": "40.48",
-          "quantitySold": "2",
-          "lowSalePrice": "20.6",
-          "lowSalePriceWithShipping": "25.59",
-          "highSalePrice": "28.99",
-          "highSalePriceWithShipping": "28.99",
-          "transactionCount": "2",
-          "bucketStartDate": "2026-02-02"
-        },
-        {
-          "marketPrice": "43.97",
-          "quantitySold": "1",
-          "lowSalePrice": "24.74",
-          "lowSalePriceWithShipping": "24.74",
-          "highSalePrice": "24.74",
-          "highSalePriceWithShipping": "24.74",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-01-26"
-        },
-        {
-          "marketPrice": "46.37",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-01-19"
-        },
-        {
-          "marketPrice": "46.37",
-          "quantitySold": "1",
-          "lowSalePrice": "31",
-          "lowSalePriceWithShipping": "31",
-          "highSalePrice": "31",
-          "highSalePriceWithShipping": "31",
-          "transactionCount": "1",
-          "bucketStartDate": "2026-01-12"
-        },
-        {
-          "marketPrice": "48.57",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2026-01-05"
-        },
-        {
-          "marketPrice": "48.57",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-12-29"
-        },
-        {
-          "marketPrice": "48.57",
-          "quantitySold": "1",
-          "lowSalePrice": "30",
-          "lowSalePriceWithShipping": "31.29",
-          "highSalePrice": "30",
-          "highSalePriceWithShipping": "31.29",
-          "transactionCount": "1",
-          "bucketStartDate": "2025-12-22"
-        },
-        {
-          "marketPrice": "51.66",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-12-15"
-        },
-        {
-          "marketPrice": "51.66",
-          "quantitySold": "1",
-          "lowSalePrice": "40",
-          "lowSalePriceWithShipping": "41.25",
-          "highSalePrice": "40",
-          "highSalePriceWithShipping": "41.25",
-          "transactionCount": "1",
-          "bucketStartDate": "2025-12-08"
-        },
-        {
-          "marketPrice": "54",
-          "quantitySold": "2",
-          "lowSalePrice": "39.99",
-          "lowSalePriceWithShipping": "39.99",
-          "highSalePrice": "40",
-          "highSalePriceWithShipping": "40",
-          "transactionCount": "2",
-          "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "63.33",
-          "quantitySold": "1",
-          "lowSalePrice": "55",
-          "lowSalePriceWithShipping": "56",
-          "highSalePrice": "55",
-          "highSalePriceWithShipping": "56",
-          "transactionCount": "1",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "67.5",
-          "quantitySold": "1",
-          "lowSalePrice": "60",
-          "lowSalePriceWithShipping": "60",
-          "highSalePrice": "60",
-          "highSalePriceWithShipping": "60",
-          "transactionCount": "1",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     },
@@ -1610,18 +1077,38 @@
       "condition": "Damaged",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "281",
-      "totalTransactionCount": "68",
+      "totalQuantitySold": "282",
+      "totalTransactionCount": "69",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "25.38",
+          "marketPrice": "24.55",
           "quantitySold": "0",
           "lowSalePrice": "0",
           "lowSalePriceWithShipping": "0",
           "highSalePrice": "0",
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "24.55",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "24.55",
+          "quantitySold": "1",
+          "lowSalePrice": "13",
+          "lowSalePriceWithShipping": "13",
+          "highSalePrice": "13",
+          "highSalePriceWithShipping": "13",
+          "transactionCount": "1",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -2113,26 +1600,539 @@
           "highSalePriceWithShipping": "35.99",
           "transactionCount": "1",
           "bucketStartDate": "2025-12-01"
-        },
+        }
+      ]
+    },
+    {
+      "skuId": "8969164",
+      "variant": "Holofoil",
+      "language": "English",
+      "condition": "Moderately Played",
+      "averageDailyQuantitySold": "0",
+      "averageDailyTransactionCount": "0",
+      "totalQuantitySold": "63",
+      "totalTransactionCount": "63",
+      "trendingMarketPricePercentages": {},
+      "buckets": [
         {
-          "marketPrice": "0",
+          "marketPrice": "28.5",
           "quantitySold": "0",
           "lowSalePrice": "0",
           "lowSalePriceWithShipping": "0",
           "highSalePrice": "0",
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
+          "bucketStartDate": "2026-11-23"
         },
         {
-          "marketPrice": "0",
+          "marketPrice": "28.5",
           "quantitySold": "0",
           "lowSalePrice": "0",
           "lowSalePriceWithShipping": "0",
           "highSalePrice": "0",
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "28.5",
+          "quantitySold": "2",
+          "lowSalePrice": "14.99",
+          "lowSalePriceWithShipping": "14.99",
+          "highSalePrice": "20",
+          "highSalePriceWithShipping": "20",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-11-09"
+        },
+        {
+          "marketPrice": "30.14",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-02"
+        },
+        {
+          "marketPrice": "30.14",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-10-26"
+        },
+        {
+          "marketPrice": "30.14",
+          "quantitySold": "2",
+          "lowSalePrice": "21",
+          "lowSalePriceWithShipping": "21",
+          "highSalePrice": "22.5",
+          "highSalePriceWithShipping": "22.5",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-10-19"
+        },
+        {
+          "marketPrice": "30.91",
+          "quantitySold": "2",
+          "lowSalePrice": "20.99",
+          "lowSalePriceWithShipping": "20.99",
+          "highSalePrice": "20.99",
+          "highSalePriceWithShipping": "22.48",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-10-12"
+        },
+        {
+          "marketPrice": "32.49",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-10-05"
+        },
+        {
+          "marketPrice": "32.49",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-09-28"
+        },
+        {
+          "marketPrice": "32.49",
+          "quantitySold": "1",
+          "lowSalePrice": "25.59",
+          "lowSalePriceWithShipping": "26.58",
+          "highSalePrice": "25.59",
+          "highSalePriceWithShipping": "26.58",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-09-21"
+        },
+        {
+          "marketPrice": "33.04",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-09-14"
+        },
+        {
+          "marketPrice": "33.04",
+          "quantitySold": "3",
+          "lowSalePrice": "18.69",
+          "lowSalePriceWithShipping": "18.69",
+          "highSalePrice": "29.99",
+          "highSalePriceWithShipping": "29.99",
+          "transactionCount": "3",
+          "bucketStartDate": "2026-09-07"
+        },
+        {
+          "marketPrice": "34.39",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-08-31"
+        },
+        {
+          "marketPrice": "34.39",
+          "quantitySold": "1",
+          "lowSalePrice": "32.98",
+          "lowSalePriceWithShipping": "32.98",
+          "highSalePrice": "32.98",
+          "highSalePriceWithShipping": "32.98",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-08-24"
+        },
+        {
+          "marketPrice": "34.32",
+          "quantitySold": "1",
+          "lowSalePrice": "27.13",
+          "lowSalePriceWithShipping": "27.13",
+          "highSalePrice": "27.13",
+          "highSalePriceWithShipping": "27.13",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-08-17"
+        },
+        {
+          "marketPrice": "34.19",
+          "quantitySold": "2",
+          "lowSalePrice": "30",
+          "lowSalePriceWithShipping": "31.31",
+          "highSalePrice": "32.18",
+          "highSalePriceWithShipping": "32.18",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-08-10"
+        },
+        {
+          "marketPrice": "34.58",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-08-03"
+        },
+        {
+          "marketPrice": "34.66",
+          "quantitySold": "2",
+          "lowSalePrice": "32.99",
+          "lowSalePriceWithShipping": "32.99",
+          "highSalePrice": "32.99",
+          "highSalePriceWithShipping": "34.98",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-07-27"
+        },
+        {
+          "marketPrice": "34.33",
+          "quantitySold": "1",
+          "lowSalePrice": "24.55",
+          "lowSalePriceWithShipping": "26.54",
+          "highSalePrice": "24.55",
+          "highSalePriceWithShipping": "26.54",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-07-20"
+        },
+        {
+          "marketPrice": "34.83",
+          "quantitySold": "1",
+          "lowSalePrice": "34.92",
+          "lowSalePriceWithShipping": "34.92",
+          "highSalePrice": "34.92",
+          "highSalePriceWithShipping": "34.92",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-07-13"
+        },
+        {
+          "marketPrice": "34.92",
+          "quantitySold": "2",
+          "lowSalePrice": "29.99",
+          "lowSalePriceWithShipping": "29.99",
+          "highSalePrice": "29.99",
+          "highSalePriceWithShipping": "30.98",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-07-06"
+        },
+        {
+          "marketPrice": "35.59",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-06-29"
+        },
+        {
+          "marketPrice": "35.59",
+          "quantitySold": "1",
+          "lowSalePrice": "39.99",
+          "lowSalePriceWithShipping": "39.99",
+          "highSalePrice": "39.99",
+          "highSalePriceWithShipping": "39.99",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-06-22"
+        },
+        {
+          "marketPrice": "35.27",
+          "quantitySold": "2",
+          "lowSalePrice": "32",
+          "lowSalePriceWithShipping": "33.49",
+          "highSalePrice": "35",
+          "highSalePriceWithShipping": "36.5",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-06-15"
+        },
+        {
+          "marketPrice": "35.35",
+          "quantitySold": "2",
+          "lowSalePrice": "37.62",
+          "lowSalePriceWithShipping": "37.62",
+          "highSalePrice": "38.99",
+          "highSalePriceWithShipping": "38.99",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-06-08"
+        },
+        {
+          "marketPrice": "34.98",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-06-01"
+        },
+        {
+          "marketPrice": "34.98",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-05-25"
+        },
+        {
+          "marketPrice": "34.98",
+          "quantitySold": "1",
+          "lowSalePrice": "35.88",
+          "lowSalePriceWithShipping": "35.88",
+          "highSalePrice": "35.88",
+          "highSalePriceWithShipping": "35.88",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-05-18"
+        },
+        {
+          "marketPrice": "34.78",
+          "quantitySold": "1",
+          "lowSalePrice": "40",
+          "lowSalePriceWithShipping": "40",
+          "highSalePrice": "40",
+          "highSalePriceWithShipping": "40",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-05-11"
+        },
+        {
+          "marketPrice": "34.39",
+          "quantitySold": "2",
+          "lowSalePrice": "30",
+          "lowSalePriceWithShipping": "31.29",
+          "highSalePrice": "32.85",
+          "highSalePriceWithShipping": "37.84",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-05-04"
+        },
+        {
+          "marketPrice": "34.11",
+          "quantitySold": "1",
+          "lowSalePrice": "41.99",
+          "lowSalePriceWithShipping": "41.99",
+          "highSalePrice": "41.99",
+          "highSalePriceWithShipping": "41.99",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-04-27"
+        },
+        {
+          "marketPrice": "33.96",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-04-20"
+        },
+        {
+          "marketPrice": "33.96",
+          "quantitySold": "3",
+          "lowSalePrice": "36.98",
+          "lowSalePriceWithShipping": "36.98",
+          "highSalePrice": "39.36",
+          "highSalePriceWithShipping": "40.35",
+          "transactionCount": "3",
+          "bucketStartDate": "2026-04-13"
+        },
+        {
+          "marketPrice": "32.31",
+          "quantitySold": "2",
+          "lowSalePrice": "35.99",
+          "lowSalePriceWithShipping": "36.98",
+          "highSalePrice": "35.99",
+          "highSalePriceWithShipping": "36.98",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-04-06"
+        },
+        {
+          "marketPrice": "31.87",
+          "quantitySold": "3",
+          "lowSalePrice": "24",
+          "lowSalePriceWithShipping": "25",
+          "highSalePrice": "36",
+          "highSalePriceWithShipping": "36",
+          "transactionCount": "3",
+          "bucketStartDate": "2026-03-30"
+        },
+        {
+          "marketPrice": "32.83",
+          "quantitySold": "3",
+          "lowSalePrice": "27.95",
+          "lowSalePriceWithShipping": "27.95",
+          "highSalePrice": "32.99",
+          "highSalePriceWithShipping": "34.98",
+          "transactionCount": "3",
+          "bucketStartDate": "2026-03-23"
+        },
+        {
+          "marketPrice": "36.79",
+          "quantitySold": "8",
+          "lowSalePrice": "30",
+          "lowSalePriceWithShipping": "30.99",
+          "highSalePrice": "39.4",
+          "highSalePriceWithShipping": "39.4",
+          "transactionCount": "8",
+          "bucketStartDate": "2026-03-16"
+        },
+        {
+          "marketPrice": "37.53",
+          "quantitySold": "1",
+          "lowSalePrice": "37.53",
+          "lowSalePriceWithShipping": "37.53",
+          "highSalePrice": "37.53",
+          "highSalePriceWithShipping": "37.53",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-03-09"
+        },
+        {
+          "marketPrice": "37.4",
+          "quantitySold": "1",
+          "lowSalePrice": "30.74",
+          "lowSalePriceWithShipping": "30.74",
+          "highSalePrice": "30.74",
+          "highSalePriceWithShipping": "30.74",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-03-02"
+        },
+        {
+          "marketPrice": "37.98",
+          "quantitySold": "1",
+          "lowSalePrice": "30.33",
+          "lowSalePriceWithShipping": "30.33",
+          "highSalePrice": "30.33",
+          "highSalePriceWithShipping": "30.33",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-02-23"
+        },
+        {
+          "marketPrice": "38.53",
+          "quantitySold": "3",
+          "lowSalePrice": "27.94",
+          "lowSalePriceWithShipping": "27.94",
+          "highSalePrice": "38.22",
+          "highSalePriceWithShipping": "38.22",
+          "transactionCount": "3",
+          "bucketStartDate": "2026-02-16"
+        },
+        {
+          "marketPrice": "40.48",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-02-09"
+        },
+        {
+          "marketPrice": "40.48",
+          "quantitySold": "2",
+          "lowSalePrice": "20.6",
+          "lowSalePriceWithShipping": "25.59",
+          "highSalePrice": "28.99",
+          "highSalePriceWithShipping": "28.99",
+          "transactionCount": "2",
+          "bucketStartDate": "2026-02-02"
+        },
+        {
+          "marketPrice": "43.97",
+          "quantitySold": "1",
+          "lowSalePrice": "24.74",
+          "lowSalePriceWithShipping": "24.74",
+          "highSalePrice": "24.74",
+          "highSalePriceWithShipping": "24.74",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-01-26"
+        },
+        {
+          "marketPrice": "46.37",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-01-19"
+        },
+        {
+          "marketPrice": "46.37",
+          "quantitySold": "1",
+          "lowSalePrice": "31",
+          "lowSalePriceWithShipping": "31",
+          "highSalePrice": "31",
+          "highSalePriceWithShipping": "31",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-01-12"
+        },
+        {
+          "marketPrice": "48.57",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-01-05"
+        },
+        {
+          "marketPrice": "48.57",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2025-12-29"
+        },
+        {
+          "marketPrice": "48.57",
+          "quantitySold": "1",
+          "lowSalePrice": "30",
+          "lowSalePriceWithShipping": "31.29",
+          "highSalePrice": "30",
+          "highSalePriceWithShipping": "31.29",
+          "transactionCount": "1",
+          "bucketStartDate": "2025-12-22"
+        },
+        {
+          "marketPrice": "51.66",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2025-12-15"
+        },
+        {
+          "marketPrice": "51.66",
+          "quantitySold": "1",
+          "lowSalePrice": "40",
+          "lowSalePriceWithShipping": "41.25",
+          "highSalePrice": "40",
+          "highSalePriceWithShipping": "41.25",
+          "transactionCount": "1",
+          "bucketStartDate": "2025-12-08"
+        },
+        {
+          "marketPrice": "54",
+          "quantitySold": "2",
+          "lowSalePrice": "39.99",
+          "lowSalePriceWithShipping": "39.99",
+          "highSalePrice": "40",
+          "highSalePriceWithShipping": "40",
+          "transactionCount": "2",
+          "bucketStartDate": "2025-12-01"
         }
       ]
     },
@@ -2143,10 +2143,30 @@
       "condition": "Heavily Played",
       "averageDailyQuantitySold": "0",
       "averageDailyTransactionCount": "0",
-      "totalQuantitySold": "13",
-      "totalTransactionCount": "13",
+      "totalQuantitySold": "14",
+      "totalTransactionCount": "14",
       "trendingMarketPricePercentages": {},
       "buckets": [
+        {
+          "marketPrice": "31.03",
+          "quantitySold": "1",
+          "lowSalePrice": "19.18",
+          "lowSalePriceWithShipping": "19.18",
+          "highSalePrice": "19.18",
+          "highSalePriceWithShipping": "19.18",
+          "transactionCount": "1",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "34",
+          "quantitySold": "0",
+          "lowSalePrice": "0",
+          "lowSalePriceWithShipping": "0",
+          "highSalePrice": "0",
+          "highSalePriceWithShipping": "0",
+          "transactionCount": "0",
+          "bucketStartDate": "2026-11-16"
+        },
         {
           "marketPrice": "34",
           "quantitySold": "0",
@@ -2646,26 +2666,6 @@
           "highSalePriceWithShipping": "0",
           "transactionCount": "0",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "0",
-          "quantitySold": "0",
-          "lowSalePrice": "0",
-          "lowSalePriceWithShipping": "0",
-          "highSalePrice": "0",
-          "highSalePriceWithShipping": "0",
-          "transactionCount": "0",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }

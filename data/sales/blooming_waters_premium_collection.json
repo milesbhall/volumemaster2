@@ -2,7 +2,7 @@
   "product": "Blooming Waters Premium Collection",
   "product_id": 609597,
   "tcgplayer_url": "https://www.tcgplayer.com/product/609597",
-  "fetched_at": "2026-11-12T02:03:24.034404+00:00",
+  "fetched_at": "2026-11-27T03:20:52.736283+00:00",
   "skus": [
     {
       "skuId": "8459739",
@@ -11,18 +11,38 @@
       "condition": "Unopened",
       "averageDailyQuantitySold": "2",
       "averageDailyTransactionCount": "1",
-      "totalQuantitySold": "871",
-      "totalTransactionCount": "717",
+      "totalQuantitySold": "823",
+      "totalTransactionCount": "667",
       "trendingMarketPricePercentages": {},
       "buckets": [
         {
-          "marketPrice": "321.31",
-          "quantitySold": "2",
-          "lowSalePrice": "317",
+          "marketPrice": "311.06",
+          "quantitySold": "24",
+          "lowSalePrice": "171.9",
+          "lowSalePriceWithShipping": "181.89",
+          "highSalePrice": "329.94",
+          "highSalePriceWithShipping": "329.94",
+          "transactionCount": "6",
+          "bucketStartDate": "2026-11-23"
+        },
+        {
+          "marketPrice": "318.23",
+          "quantitySold": "7",
+          "lowSalePrice": "300",
+          "lowSalePriceWithShipping": "310",
+          "highSalePrice": "329.95",
+          "highSalePriceWithShipping": "329.95",
+          "transactionCount": "6",
+          "bucketStartDate": "2026-11-16"
+        },
+        {
+          "marketPrice": "320.67",
+          "quantitySold": "5",
+          "lowSalePrice": "315",
           "lowSalePriceWithShipping": "319",
           "highSalePrice": "329.98",
-          "highSalePriceWithShipping": "329.98",
-          "transactionCount": "2",
+          "highSalePriceWithShipping": "340",
+          "transactionCount": "5",
           "bucketStartDate": "2026-11-09"
         },
         {
@@ -514,26 +534,6 @@
           "highSalePriceWithShipping": "221.98",
           "transactionCount": "34",
           "bucketStartDate": "2025-12-01"
-        },
-        {
-          "marketPrice": "175.42",
-          "quantitySold": "43",
-          "lowSalePrice": "160",
-          "lowSalePriceWithShipping": "173.95",
-          "highSalePrice": "179.99",
-          "highSalePriceWithShipping": "180.98",
-          "transactionCount": "31",
-          "bucketStartDate": "2025-11-24"
-        },
-        {
-          "marketPrice": "175.63",
-          "quantitySold": "22",
-          "lowSalePrice": "160",
-          "lowSalePriceWithShipping": "173.99",
-          "highSalePrice": "201.99",
-          "highSalePriceWithShipping": "208.98",
-          "transactionCount": "20",
-          "bucketStartDate": "2025-11-17"
         }
       ]
     }
